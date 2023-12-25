@@ -1,0 +1,2923 @@
+Brick 117 [ (4, 6, 1) ] [ (5, 6, 1) supporting 1 bricks
+	Supported brick 68 [ (4, 6, 1) ] [ (5, 6, 1) is resting on 1 bricks
+Brick 187 [ (8, 8, 1) ] [ (8, 9, 1) supporting 1 bricks
+	Supported brick 1289 [ (8, 8, 1) ] [ (8, 9, 1) is resting on 2 bricks
+Brick 917 [ (6, 1, 1) ] [ (6, 3, 1) supporting 1 bricks
+	Supported brick 1082 [ (6, 1, 1) ] [ (6, 3, 1) is resting on 2 bricks
+Brick 831 [ (0, 4, 1) ] [ (0, 6, 1) supporting 2 bricks
+	Supported brick 250 [ (0, 4, 1) ] [ (0, 6, 1) is resting on 1 bricks
+	Supported brick 982 [ (0, 4, 1) ] [ (0, 6, 1) is resting on 1 bricks
+Brick 413 [ (3, 2, 1) ] [ (3, 3, 1) supporting 0 bricks
+Brick 563 [ (5, 1, 1) ] [ (5, 4, 1) supporting 2 bricks
+	Supported brick 1205 [ (5, 1, 1) ] [ (5, 4, 1) is resting on 2 bricks
+	Supported brick 1082 [ (5, 1, 1) ] [ (5, 4, 1) is resting on 2 bricks
+Brick 740 [ (3, 4, 1) ] [ (3, 5, 1) supporting 1 bricks
+	Supported brick 1205 [ (3, 4, 1) ] [ (3, 5, 1) is resting on 2 bricks
+Brick 210 [ (1, 2, 1) ] [ (1, 3, 1) supporting 1 bricks
+	Supported brick 858 [ (1, 2, 1) ] [ (1, 3, 1) is resting on 1 bricks
+Brick 458 [ (9, 1, 1) ] [ (9, 1, 2) supporting 1 bricks
+	Supported brick 193 [ (9, 1, 1) ] [ (9, 1, 2) is resting on 1 bricks
+Brick 250 [ (0, 4, 2) ] [ (1, 4, 2) supporting 1 bricks
+	Supported brick 974 [ (0, 4, 2) ] [ (1, 4, 2) is resting on 1 bricks
+Brick 155 [ (2, 3, 1) ] [ (2, 6, 1) supporting 0 bricks
+Brick 861 [ (8, 4, 1) ] [ (9, 4, 1) supporting 0 bricks
+Brick 1378 [ (4, 8, 1) ] [ (4, 8, 1) supporting 0 bricks
+Brick 1030 [ (0, 2, 1) ] [ (0, 3, 1) supporting 0 bricks
+Brick 858 [ (1, 2, 2) ] [ (1, 2, 4) supporting 0 bricks
+Brick 747 [ (2, 0, 1) ] [ (4, 0, 1) supporting 1 bricks
+	Supported brick 313 [ (2, 0, 1) ] [ (4, 0, 1) is resting on 1 bricks
+Brick 339 [ (0, 8, 1) ] [ (2, 8, 1) supporting 1 bricks
+	Supported brick 334 [ (0, 8, 1) ] [ (2, 8, 1) is resting on 1 bricks
+Brick 993 [ (9, 5, 1) ] [ (9, 6, 1) supporting 0 bricks
+Brick 1258 [ (9, 7, 1) ] [ (9, 9, 1) supporting 1 bricks
+	Supported brick 1289 [ (9, 7, 1) ] [ (9, 9, 1) is resting on 2 bricks
+Brick 1082 [ (5, 2, 2) ] [ (8, 2, 2) supporting 1 bricks
+	Supported brick 277 [ (5, 2, 2) ] [ (8, 2, 2) is resting on 1 bricks
+Brick 1296 [ (5, 8, 1) ] [ (7, 8, 1) supporting 1 bricks
+	Supported brick 902 [ (5, 8, 1) ] [ (7, 8, 1) is resting on 1 bricks
+Brick 1205 [ (3, 4, 2) ] [ (5, 4, 2) supporting 2 bricks
+	Supported brick 901 [ (3, 4, 2) ] [ (5, 4, 2) is resting on 1 bricks
+	Supported brick 1187 [ (3, 4, 2) ] [ (5, 4, 2) is resting on 1 bricks
+Brick 807 [ (1, 1, 1) ] [ (3, 1, 1) supporting 1 bricks
+	Supported brick 628 [ (1, 1, 1) ] [ (3, 1, 1) is resting on 1 bricks
+Brick 766 [ (4, 1, 1) ] [ (4, 3, 1) supporting 0 bricks
+Brick 205 [ (3, 6, 1) ] [ (3, 6, 2) supporting 1 bricks
+	Supported brick 1151 [ (3, 6, 1) ] [ (3, 6, 2) is resting on 1 bricks
+Brick 159 [ (4, 9, 1) ] [ (4, 9, 3) supporting 0 bricks
+Brick 1018 [ (5, 5, 1) ] [ (5, 5, 3) supporting 1 bricks
+	Supported brick 157 [ (5, 5, 1) ] [ (5, 5, 3) is resting on 1 bricks
+Brick 902 [ (7, 8, 2) ] [ (7, 8, 2) supporting 0 bricks
+Brick 334 [ (1, 7, 2) ] [ (1, 9, 2) supporting 1 bricks
+	Supported brick 1312 [ (1, 7, 2) ] [ (1, 9, 2) is resting on 2 bricks
+Brick 982 [ (0, 5, 2) ] [ (1, 5, 2) supporting 1 bricks
+	Supported brick 1312 [ (0, 5, 2) ] [ (1, 5, 2) is resting on 2 bricks
+Brick 68 [ (4, 6, 2) ] [ (4, 7, 2) supporting 1 bricks
+	Supported brick 555 [ (4, 6, 2) ] [ (4, 7, 2) is resting on 1 bricks
+Brick 1312 [ (1, 5, 3) ] [ (1, 7, 3) supporting 1 bricks
+	Supported brick 236 [ (1, 5, 3) ] [ (1, 7, 3) is resting on 1 bricks
+Brick 277 [ (5, 2, 3) ] [ (5, 3, 3) supporting 1 bricks
+	Supported brick 357 [ (5, 2, 3) ] [ (5, 3, 3) is resting on 1 bricks
+Brick 193 [ (6, 1, 3) ] [ (9, 1, 3) supporting 1 bricks
+	Supported brick 1311 [ (6, 1, 3) ] [ (9, 1, 3) is resting on 1 bricks
+Brick 974 [ (0, 4, 3) ] [ (2, 4, 3) supporting 2 bricks
+	Supported brick 375 [ (0, 4, 3) ] [ (2, 4, 3) is resting on 1 bricks
+	Supported brick 1362 [ (0, 4, 3) ] [ (2, 4, 3) is resting on 1 bricks
+Brick 901 [ (4, 3, 3) ] [ (4, 4, 3) supporting 0 bricks
+Brick 375 [ (0, 4, 4) ] [ (0, 6, 4) supporting 2 bricks
+	Supported brick 616 [ (0, 4, 4) ] [ (0, 6, 4) is resting on 1 bricks
+	Supported brick 231 [ (0, 4, 4) ] [ (0, 6, 4) is resting on 2 bricks
+Brick 157 [ (4, 5, 4) ] [ (6, 5, 4) supporting 1 bricks
+	Supported brick 698 [ (4, 5, 4) ] [ (6, 5, 4) is resting on 1 bricks
+Brick 628 [ (2, 1, 2) ] [ (2, 2, 2) supporting 1 bricks
+	Supported brick 373 [ (2, 1, 2) ] [ (2, 2, 2) is resting on 1 bricks
+Brick 1289 [ (7, 9, 2) ] [ (9, 9, 2) supporting 1 bricks
+	Supported brick 201 [ (7, 9, 2) ] [ (9, 9, 2) is resting on 1 bricks
+Brick 357 [ (5, 0, 4) ] [ (5, 2, 4) supporting 0 bricks
+Brick 1187 [ (5, 4, 3) ] [ (7, 4, 3) supporting 0 bricks
+Brick 313 [ (2, 0, 2) ] [ (2, 0, 4) supporting 1 bricks
+	Supported brick 1164 [ (2, 0, 2) ] [ (2, 0, 4) is resting on 1 bricks
+Brick 1151 [ (3, 5, 3) ] [ (3, 6, 3) supporting 1 bricks
+	Supported brick 922 [ (3, 5, 3) ] [ (3, 6, 3) is resting on 1 bricks
+Brick 201 [ (7, 9, 3) ] [ (8, 9, 3) supporting 1 bricks
+	Supported brick 1209 [ (7, 9, 3) ] [ (8, 9, 3) is resting on 1 bricks
+Brick 555 [ (4, 6, 3) ] [ (6, 6, 3) supporting 2 bricks
+	Supported brick 957 [ (4, 6, 3) ] [ (6, 6, 3) is resting on 1 bricks
+	Supported brick 343 [ (4, 6, 3) ] [ (6, 6, 3) is resting on 1 bricks
+Brick 1362 [ (2, 4, 4) ] [ (2, 4, 5) supporting 0 bricks
+Brick 957 [ (4, 6, 4) ] [ (4, 8, 4) supporting 1 bricks
+	Supported brick 638 [ (4, 6, 4) ] [ (4, 8, 4) is resting on 1 bricks
+Brick 1311 [ (9, 0, 4) ] [ (9, 3, 4) supporting 3 bricks
+	Supported brick 45 [ (9, 0, 4) ] [ (9, 3, 4) is resting on 1 bricks
+	Supported brick 1100 [ (9, 0, 4) ] [ (9, 3, 4) is resting on 1 bricks
+	Supported brick 715 [ (9, 0, 4) ] [ (9, 3, 4) is resting on 1 bricks
+Brick 922 [ (3, 5, 4) ] [ (3, 7, 4) supporting 2 bricks
+	Supported brick 231 [ (3, 5, 4) ] [ (3, 7, 4) is resting on 2 bricks
+	Supported brick 1364 [ (3, 5, 4) ] [ (3, 7, 4) is resting on 1 bricks
+Brick 373 [ (2, 1, 3) ] [ (2, 3, 3) supporting 2 bricks
+	Supported brick 558 [ (2, 1, 3) ] [ (2, 3, 3) is resting on 1 bricks
+	Supported brick 259 [ (2, 1, 3) ] [ (2, 3, 3) is resting on 1 bricks
+Brick 698 [ (6, 5, 5) ] [ (9, 5, 5) supporting 1 bricks
+	Supported brick 1247 [ (6, 5, 5) ] [ (9, 5, 5) is resting on 1 bricks
+Brick 236 [ (0, 7, 4) ] [ (2, 7, 4) supporting 1 bricks
+	Supported brick 392 [ (0, 7, 4) ] [ (2, 7, 4) is resting on 1 bricks
+Brick 638 [ (3, 8, 5) ] [ (4, 8, 5) supporting 1 bricks
+	Supported brick 835 [ (3, 8, 5) ] [ (4, 8, 5) is resting on 1 bricks
+Brick 616 [ (0, 4, 5) ] [ (1, 4, 5) supporting 1 bricks
+	Supported brick 401 [ (0, 4, 5) ] [ (1, 4, 5) is resting on 1 bricks
+Brick 1364 [ (3, 7, 5) ] [ (3, 7, 7) supporting 0 bricks
+Brick 401 [ (0, 3, 6) ] [ (0, 5, 6) supporting 1 bricks
+	Supported brick 1353 [ (0, 3, 6) ] [ (0, 5, 6) is resting on 1 bricks
+Brick 1209 [ (6, 9, 4) ] [ (8, 9, 4) supporting 0 bricks
+Brick 259 [ (2, 2, 4) ] [ (2, 3, 4) supporting 1 bricks
+	Supported brick 906 [ (2, 2, 4) ] [ (2, 3, 4) is resting on 1 bricks
+Brick 343 [ (5, 6, 4) ] [ (7, 6, 4) supporting 3 bricks
+	Supported brick 1384 [ (5, 6, 4) ] [ (7, 6, 4) is resting on 1 bricks
+	Supported brick 1033 [ (5, 6, 4) ] [ (7, 6, 4) is resting on 1 bricks
+	Supported brick 320 [ (5, 6, 4) ] [ (7, 6, 4) is resting on 1 bricks
+Brick 715 [ (7, 3, 5) ] [ (9, 3, 5) supporting 1 bricks
+	Supported brick 258 [ (7, 3, 5) ] [ (9, 3, 5) is resting on 1 bricks
+Brick 1100 [ (7, 0, 5) ] [ (9, 0, 5) supporting 1 bricks
+	Supported brick 362 [ (7, 0, 5) ] [ (9, 0, 5) is resting on 2 bricks
+Brick 1247 [ (7, 5, 6) ] [ (7, 5, 7) supporting 0 bricks
+Brick 231 [ (0, 6, 5) ] [ (3, 6, 5) supporting 1 bricks
+	Supported brick 1063 [ (0, 6, 5) ] [ (3, 6, 5) is resting on 1 bricks
+Brick 558 [ (1, 1, 4) ] [ (3, 1, 4) supporting 1 bricks
+	Supported brick 1252 [ (1, 1, 4) ] [ (3, 1, 4) is resting on 1 bricks
+Brick 45 [ (6, 1, 5) ] [ (9, 1, 5) supporting 2 bricks
+	Supported brick 362 [ (6, 1, 5) ] [ (9, 1, 5) is resting on 2 bricks
+	Supported brick 505 [ (6, 1, 5) ] [ (9, 1, 5) is resting on 1 bricks
+Brick 258 [ (6, 3, 6) ] [ (8, 3, 6) supporting 2 bricks
+	Supported brick 533 [ (6, 3, 6) ] [ (8, 3, 6) is resting on 1 bricks
+	Supported brick 717 [ (6, 3, 6) ] [ (8, 3, 6) is resting on 1 bricks
+Brick 1164 [ (2, 0, 5) ] [ (4, 0, 5) supporting 0 bricks
+Brick 392 [ (1, 7, 5) ] [ (1, 7, 7) supporting 1 bricks
+	Supported brick 64 [ (1, 7, 5) ] [ (1, 7, 7) is resting on 1 bricks
+Brick 1384 [ (5, 6, 5) ] [ (5, 8, 5) supporting 2 bricks
+	Supported brick 216 [ (5, 6, 5) ] [ (5, 8, 5) is resting on 1 bricks
+	Supported brick 327 [ (5, 6, 5) ] [ (5, 8, 5) is resting on 1 bricks
+Brick 835 [ (4, 6, 6) ] [ (4, 9, 6) supporting 3 bricks
+	Supported brick 1062 [ (4, 6, 6) ] [ (4, 9, 6) is resting on 1 bricks
+	Supported brick 254 [ (4, 6, 6) ] [ (4, 9, 6) is resting on 1 bricks
+	Supported brick 151 [ (4, 6, 6) ] [ (4, 9, 6) is resting on 1 bricks
+Brick 1353 [ (0, 3, 7) ] [ (0, 3, 7) supporting 0 bricks
+Brick 1252 [ (3, 1, 5) ] [ (3, 3, 5) supporting 1 bricks
+	Supported brick 58 [ (3, 1, 5) ] [ (3, 3, 5) is resting on 1 bricks
+Brick 362 [ (8, 0, 6) ] [ (8, 2, 6) supporting 3 bricks
+	Supported brick 251 [ (8, 0, 6) ] [ (8, 2, 6) is resting on 1 bricks
+	Supported brick 1333 [ (8, 0, 6) ] [ (8, 2, 6) is resting on 1 bricks
+	Supported brick 264 [ (8, 0, 6) ] [ (8, 2, 6) is resting on 1 bricks
+Brick 1033 [ (6, 6, 5) ] [ (6, 7, 5) supporting 0 bricks
+Brick 533 [ (5, 3, 7) ] [ (7, 3, 7) supporting 1 bricks
+	Supported brick 376 [ (5, 3, 7) ] [ (7, 3, 7) is resting on 2 bricks
+Brick 1062 [ (2, 6, 7) ] [ (4, 6, 7) supporting 1 bricks
+	Supported brick 294 [ (2, 6, 7) ] [ (4, 6, 7) is resting on 1 bricks
+Brick 717 [ (8, 3, 7) ] [ (8, 7, 7) supporting 1 bricks
+	Supported brick 115 [ (8, 3, 7) ] [ (8, 7, 7) is resting on 1 bricks
+Brick 906 [ (2, 3, 5) ] [ (2, 3, 6) supporting 0 bricks
+Brick 320 [ (7, 6, 5) ] [ (7, 6, 8) supporting 1 bricks
+	Supported brick 588 [ (7, 6, 5) ] [ (7, 6, 8) is resting on 2 bricks
+Brick 1063 [ (1, 6, 6) ] [ (1, 6, 9) supporting 0 bricks
+Brick 64 [ (1, 7, 8) ] [ (1, 9, 8) supporting 1 bricks
+	Supported brick 404 [ (1, 7, 8) ] [ (1, 9, 8) is resting on 1 bricks
+Brick 1333 [ (6, 2, 7) ] [ (8, 2, 7) supporting 1 bricks
+	Supported brick 1098 [ (6, 2, 7) ] [ (8, 2, 7) is resting on 1 bricks
+Brick 327 [ (5, 8, 6) ] [ (6, 8, 6) supporting 1 bricks
+	Supported brick 895 [ (5, 8, 6) ] [ (6, 8, 6) is resting on 1 bricks
+Brick 254 [ (2, 9, 7) ] [ (5, 9, 7) supporting 0 bricks
+Brick 251 [ (6, 0, 7) ] [ (8, 0, 7) supporting 0 bricks
+Brick 294 [ (2, 6, 8) ] [ (3, 6, 8) supporting 0 bricks
+Brick 505 [ (9, 1, 6) ] [ (9, 1, 8) supporting 1 bricks
+	Supported brick 636 [ (9, 1, 6) ] [ (9, 1, 8) is resting on 2 bricks
+Brick 264 [ (8, 1, 7) ] [ (8, 1, 9) supporting 1 bricks
+	Supported brick 706 [ (8, 1, 7) ] [ (8, 1, 9) is resting on 1 bricks
+Brick 58 [ (2, 2, 6) ] [ (3, 2, 6) supporting 1 bricks
+	Supported brick 103 [ (2, 2, 6) ] [ (3, 2, 6) is resting on 1 bricks
+Brick 115 [ (8, 5, 8) ] [ (8, 7, 8) supporting 2 bricks
+	Supported brick 588 [ (8, 5, 8) ] [ (8, 7, 8) is resting on 2 bricks
+	Supported brick 886 [ (8, 5, 8) ] [ (8, 7, 8) is resting on 1 bricks
+Brick 216 [ (5, 4, 6) ] [ (5, 6, 6) supporting 1 bricks
+	Supported brick 711 [ (5, 4, 6) ] [ (5, 6, 6) is resting on 1 bricks
+Brick 151 [ (4, 8, 7) ] [ (4, 8, 10) supporting 1 bricks
+	Supported brick 161 [ (4, 8, 7) ] [ (4, 8, 10) is resting on 1 bricks
+Brick 404 [ (1, 7, 9) ] [ (3, 7, 9) supporting 1 bricks
+	Supported brick 514 [ (1, 7, 9) ] [ (3, 7, 9) is resting on 1 bricks
+Brick 1098 [ (8, 2, 8) ] [ (9, 2, 8) supporting 1 bricks
+	Supported brick 636 [ (8, 2, 8) ] [ (9, 2, 8) is resting on 2 bricks
+Brick 886 [ (8, 7, 9) ] [ (8, 8, 9) supporting 1 bricks
+	Supported brick 635 [ (8, 7, 9) ] [ (8, 8, 9) is resting on 2 bricks
+Brick 895 [ (5, 7, 7) ] [ (5, 8, 7) supporting 0 bricks
+Brick 103 [ (3, 1, 7) ] [ (3, 3, 7) supporting 3 bricks
+	Supported brick 593 [ (3, 1, 7) ] [ (3, 3, 7) is resting on 1 bricks
+	Supported brick 550 [ (3, 1, 7) ] [ (3, 3, 7) is resting on 1 bricks
+	Supported brick 1259 [ (3, 1, 7) ] [ (3, 3, 7) is resting on 1 bricks
+Brick 711 [ (4, 5, 7) ] [ (5, 5, 7) supporting 2 bricks
+	Supported brick 577 [ (4, 5, 7) ] [ (5, 5, 7) is resting on 1 bricks
+	Supported brick 376 [ (4, 5, 7) ] [ (5, 5, 7) is resting on 2 bricks
+Brick 706 [ (8, 1, 10) ] [ (8, 1, 13) supporting 0 bricks
+Brick 550 [ (2, 2, 8) ] [ (4, 2, 8) supporting 1 bricks
+	Supported brick 557 [ (2, 2, 8) ] [ (4, 2, 8) is resting on 1 bricks
+Brick 1259 [ (3, 1, 8) ] [ (5, 1, 8) supporting 1 bricks
+	Supported brick 1021 [ (3, 1, 8) ] [ (5, 1, 8) is resting on 1 bricks
+Brick 514 [ (1, 7, 10) ] [ (3, 7, 10) supporting 1 bricks
+	Supported brick 224 [ (1, 7, 10) ] [ (3, 7, 10) is resting on 1 bricks
+Brick 636 [ (9, 0, 9) ] [ (9, 3, 9) supporting 2 bricks
+	Supported brick 511 [ (9, 0, 9) ] [ (9, 3, 9) is resting on 1 bricks
+	Supported brick 261 [ (9, 0, 9) ] [ (9, 3, 9) is resting on 1 bricks
+Brick 557 [ (2, 0, 9) ] [ (2, 2, 9) supporting 0 bricks
+Brick 1021 [ (5, 1, 9) ] [ (7, 1, 9) supporting 2 bricks
+	Supported brick 1132 [ (5, 1, 9) ] [ (7, 1, 9) is resting on 1 bricks
+	Supported brick 326 [ (5, 1, 9) ] [ (7, 1, 9) is resting on 1 bricks
+Brick 593 [ (1, 3, 8) ] [ (3, 3, 8) supporting 1 bricks
+	Supported brick 1330 [ (1, 3, 8) ] [ (3, 3, 8) is resting on 1 bricks
+Brick 588 [ (6, 6, 9) ] [ (9, 6, 9) supporting 4 bricks
+	Supported brick 22 [ (6, 6, 9) ] [ (9, 6, 9) is resting on 1 bricks
+	Supported brick 50 [ (6, 6, 9) ] [ (9, 6, 9) is resting on 1 bricks
+	Supported brick 635 [ (6, 6, 9) ] [ (9, 6, 9) is resting on 2 bricks
+	Supported brick 72 [ (6, 6, 9) ] [ (9, 6, 9) is resting on 1 bricks
+Brick 577 [ (4, 3, 8) ] [ (4, 5, 8) supporting 0 bricks
+Brick 161 [ (3, 8, 11) ] [ (4, 8, 11) supporting 1 bricks
+	Supported brick 684 [ (3, 8, 11) ] [ (4, 8, 11) is resting on 1 bricks
+Brick 511 [ (7, 0, 10) ] [ (9, 0, 10) supporting 0 bricks
+Brick 376 [ (5, 2, 8) ] [ (5, 5, 8) supporting 1 bricks
+	Supported brick 1114 [ (5, 2, 8) ] [ (5, 5, 8) is resting on 1 bricks
+Brick 326 [ (6, 0, 10) ] [ (6, 2, 10) supporting 2 bricks
+	Supported brick 486 [ (6, 0, 10) ] [ (6, 2, 10) is resting on 2 bricks
+	Supported brick 768 [ (6, 0, 10) ] [ (6, 2, 10) is resting on 1 bricks
+Brick 50 [ (7, 6, 10) ] [ (7, 8, 10) supporting 0 bricks
+Brick 224 [ (3, 7, 11) ] [ (4, 7, 11) supporting 0 bricks
+Brick 1330 [ (1, 1, 9) ] [ (1, 3, 9) supporting 1 bricks
+	Supported brick 163 [ (1, 1, 9) ] [ (1, 3, 9) is resting on 1 bricks
+Brick 22 [ (4, 6, 10) ] [ (6, 6, 10) supporting 1 bricks
+	Supported brick 591 [ (4, 6, 10) ] [ (6, 6, 10) is resting on 1 bricks
+Brick 635 [ (8, 6, 10) ] [ (8, 8, 10) supporting 1 bricks
+	Supported brick 440 [ (8, 6, 10) ] [ (8, 8, 10) is resting on 1 bricks
+Brick 684 [ (3, 8, 12) ] [ (5, 8, 12) supporting 1 bricks
+	Supported brick 727 [ (3, 8, 12) ] [ (5, 8, 12) is resting on 1 bricks
+Brick 768 [ (6, 1, 11) ] [ (6, 1, 11) supporting 0 bricks
+Brick 261 [ (7, 2, 10) ] [ (9, 2, 10) supporting 1 bricks
+	Supported brick 1071 [ (7, 2, 10) ] [ (9, 2, 10) is resting on 1 bricks
+Brick 1114 [ (5, 3, 9) ] [ (7, 3, 9) supporting 1 bricks
+	Supported brick 473 [ (5, 3, 9) ] [ (7, 3, 9) is resting on 1 bricks
+Brick 1071 [ (7, 2, 11) ] [ (9, 2, 11) supporting 1 bricks
+	Supported brick 665 [ (7, 2, 11) ] [ (9, 2, 11) is resting on 1 bricks
+Brick 163 [ (1, 2, 10) ] [ (1, 5, 10) supporting 2 bricks
+	Supported brick 793 [ (1, 2, 10) ] [ (1, 5, 10) is resting on 1 bricks
+	Supported brick 1306 [ (1, 2, 10) ] [ (1, 5, 10) is resting on 1 bricks
+Brick 1132 [ (5, 0, 10) ] [ (5, 2, 10) supporting 1 bricks
+	Supported brick 486 [ (5, 0, 10) ] [ (5, 2, 10) is resting on 2 bricks
+Brick 72 [ (9, 6, 10) ] [ (9, 6, 13) supporting 0 bricks
+Brick 591 [ (6, 6, 11) ] [ (6, 8, 11) supporting 2 bricks
+	Supported brick 1060 [ (6, 6, 11) ] [ (6, 8, 11) is resting on 1 bricks
+	Supported brick 664 [ (6, 6, 11) ] [ (6, 8, 11) is resting on 1 bricks
+Brick 665 [ (7, 1, 12) ] [ (7, 2, 12) supporting 0 bricks
+Brick 440 [ (8, 4, 11) ] [ (8, 6, 11) supporting 1 bricks
+	Supported brick 1134 [ (8, 4, 11) ] [ (8, 6, 11) is resting on 1 bricks
+Brick 486 [ (5, 0, 11) ] [ (6, 0, 11) supporting 0 bricks
+Brick 793 [ (1, 0, 11) ] [ (1, 2, 11) supporting 0 bricks
+Brick 727 [ (3, 8, 13) ] [ (5, 8, 13) supporting 3 bricks
+	Supported brick 1285 [ (3, 8, 13) ] [ (5, 8, 13) is resting on 1 bricks
+	Supported brick 1342 [ (3, 8, 13) ] [ (5, 8, 13) is resting on 1 bricks
+	Supported brick 656 [ (3, 8, 13) ] [ (5, 8, 13) is resting on 1 bricks
+Brick 473 [ (6, 3, 10) ] [ (6, 5, 10) supporting 2 bricks
+	Supported brick 1186 [ (6, 3, 10) ] [ (6, 5, 10) is resting on 1 bricks
+	Supported brick 896 [ (6, 3, 10) ] [ (6, 5, 10) is resting on 1 bricks
+Brick 1186 [ (4, 5, 11) ] [ (6, 5, 11) supporting 0 bricks
+Brick 1060 [ (5, 7, 12) ] [ (7, 7, 12) supporting 0 bricks
+Brick 1306 [ (1, 4, 11) ] [ (3, 4, 11) supporting 2 bricks
+	Supported brick 474 [ (1, 4, 11) ] [ (3, 4, 11) is resting on 1 bricks
+	Supported brick 544 [ (1, 4, 11) ] [ (3, 4, 11) is resting on 1 bricks
+Brick 1342 [ (4, 8, 14) ] [ (4, 9, 14) supporting 1 bricks
+	Supported brick 1357 [ (4, 8, 14) ] [ (4, 9, 14) is resting on 1 bricks
+Brick 664 [ (6, 8, 12) ] [ (6, 8, 14) supporting 0 bricks
+Brick 1134 [ (8, 4, 12) ] [ (8, 6, 12) supporting 3 bricks
+	Supported brick 1230 [ (8, 4, 12) ] [ (8, 6, 12) is resting on 1 bricks
+	Supported brick 1298 [ (8, 4, 12) ] [ (8, 6, 12) is resting on 1 bricks
+	Supported brick 556 [ (8, 4, 12) ] [ (8, 6, 12) is resting on 1 bricks
+Brick 556 [ (8, 6, 13) ] [ (8, 6, 13) supporting 1 bricks
+	Supported brick 96 [ (8, 6, 13) ] [ (8, 6, 13) is resting on 1 bricks
+Brick 1285 [ (1, 8, 14) ] [ (3, 8, 14) supporting 2 bricks
+	Supported brick 683 [ (1, 8, 14) ] [ (3, 8, 14) is resting on 1 bricks
+	Supported brick 1220 [ (1, 8, 14) ] [ (3, 8, 14) is resting on 1 bricks
+Brick 896 [ (6, 3, 11) ] [ (8, 3, 11) supporting 1 bricks
+	Supported brick 526 [ (6, 3, 11) ] [ (8, 3, 11) is resting on 1 bricks
+Brick 526 [ (7, 3, 12) ] [ (9, 3, 12) supporting 1 bricks
+	Supported brick 414 [ (7, 3, 12) ] [ (9, 3, 12) is resting on 1 bricks
+Brick 544 [ (2, 4, 12) ] [ (3, 4, 12) supporting 2 bricks
+	Supported brick 837 [ (2, 4, 12) ] [ (3, 4, 12) is resting on 1 bricks
+	Supported brick 631 [ (2, 4, 12) ] [ (3, 4, 12) is resting on 1 bricks
+Brick 656 [ (5, 5, 14) ] [ (5, 8, 14) supporting 3 bricks
+	Supported brick 104 [ (5, 5, 14) ] [ (5, 8, 14) is resting on 2 bricks
+	Supported brick 725 [ (5, 5, 14) ] [ (5, 8, 14) is resting on 2 bricks
+	Supported brick 19 [ (5, 5, 14) ] [ (5, 8, 14) is resting on 1 bricks
+Brick 1357 [ (4, 7, 15) ] [ (4, 8, 15) supporting 1 bricks
+	Supported brick 278 [ (4, 7, 15) ] [ (4, 8, 15) is resting on 1 bricks
+Brick 474 [ (1, 3, 12) ] [ (1, 5, 12) supporting 1 bricks
+	Supported brick 852 [ (1, 3, 12) ] [ (1, 5, 12) is resting on 1 bricks
+Brick 96 [ (8, 6, 14) ] [ (8, 8, 14) supporting 0 bricks
+Brick 683 [ (2, 7, 15) ] [ (2, 8, 15) supporting 1 bricks
+	Supported brick 379 [ (2, 7, 15) ] [ (2, 8, 15) is resting on 1 bricks
+Brick 19 [ (5, 7, 15) ] [ (5, 9, 15) supporting 2 bricks
+	Supported brick 1338 [ (5, 7, 15) ] [ (5, 9, 15) is resting on 1 bricks
+	Supported brick 494 [ (5, 7, 15) ] [ (5, 9, 15) is resting on 1 bricks
+Brick 1230 [ (7, 5, 13) ] [ (9, 5, 13) supporting 2 bricks
+	Supported brick 444 [ (7, 5, 13) ] [ (9, 5, 13) is resting on 1 bricks
+	Supported brick 954 [ (7, 5, 13) ] [ (9, 5, 13) is resting on 1 bricks
+Brick 1220 [ (3, 7, 15) ] [ (3, 9, 15) supporting 1 bricks
+	Supported brick 958 [ (3, 7, 15) ] [ (3, 9, 15) is resting on 1 bricks
+Brick 631 [ (3, 4, 13) ] [ (5, 4, 13) supporting 2 bricks
+	Supported brick 483 [ (3, 4, 13) ] [ (5, 4, 13) is resting on 1 bricks
+	Supported brick 1329 [ (3, 4, 13) ] [ (5, 4, 13) is resting on 1 bricks
+Brick 1298 [ (8, 4, 13) ] [ (8, 4, 14) supporting 0 bricks
+Brick 444 [ (7, 4, 14) ] [ (7, 6, 14) supporting 2 bricks
+	Supported brick 725 [ (7, 4, 14) ] [ (7, 6, 14) is resting on 2 bricks
+	Supported brick 752 [ (7, 4, 14) ] [ (7, 6, 14) is resting on 1 bricks
+Brick 414 [ (6, 3, 13) ] [ (7, 3, 13) supporting 1 bricks
+	Supported brick 850 [ (6, 3, 13) ] [ (7, 3, 13) is resting on 1 bricks
+Brick 852 [ (1, 4, 13) ] [ (1, 4, 16) supporting 0 bricks
+Brick 278 [ (4, 6, 16) ] [ (4, 7, 16) supporting 1 bricks
+	Supported brick 501 [ (4, 6, 16) ] [ (4, 7, 16) is resting on 1 bricks
+Brick 379 [ (0, 8, 16) ] [ (2, 8, 16) supporting 3 bricks
+	Supported brick 207 [ (0, 8, 16) ] [ (2, 8, 16) is resting on 1 bricks
+	Supported brick 810 [ (0, 8, 16) ] [ (2, 8, 16) is resting on 1 bricks
+	Supported brick 282 [ (0, 8, 16) ] [ (2, 8, 16) is resting on 1 bricks
+Brick 752 [ (6, 5, 15) ] [ (8, 5, 15) supporting 1 bricks
+	Supported brick 1313 [ (6, 5, 15) ] [ (8, 5, 15) is resting on 1 bricks
+Brick 494 [ (5, 9, 16) ] [ (7, 9, 16) supporting 1 bricks
+	Supported brick 1356 [ (5, 9, 16) ] [ (7, 9, 16) is resting on 1 bricks
+Brick 837 [ (2, 3, 13) ] [ (2, 6, 13) supporting 1 bricks
+	Supported brick 1111 [ (2, 3, 13) ] [ (2, 6, 13) is resting on 1 bricks
+Brick 483 [ (3, 4, 14) ] [ (3, 6, 14) supporting 1 bricks
+	Supported brick 104 [ (3, 4, 14) ] [ (3, 6, 14) is resting on 2 bricks
+Brick 1329 [ (5, 1, 14) ] [ (5, 4, 14) supporting 2 bricks
+	Supported brick 97 [ (5, 1, 14) ] [ (5, 4, 14) is resting on 1 bricks
+	Supported brick 617 [ (5, 1, 14) ] [ (5, 4, 14) is resting on 1 bricks
+Brick 954 [ (9, 3, 14) ] [ (9, 5, 14) supporting 1 bricks
+	Supported brick 829 [ (9, 3, 14) ] [ (9, 5, 14) is resting on 1 bricks
+Brick 501 [ (4, 7, 17) ] [ (4, 9, 17) supporting 1 bricks
+	Supported brick 370 [ (4, 7, 17) ] [ (4, 9, 17) is resting on 1 bricks
+Brick 617 [ (3, 3, 15) ] [ (6, 3, 15) supporting 4 bricks
+	Supported brick 312 [ (3, 3, 15) ] [ (6, 3, 15) is resting on 2 bricks
+	Supported brick 412 [ (3, 3, 15) ] [ (6, 3, 15) is resting on 2 bricks
+	Supported brick 779 [ (3, 3, 15) ] [ (6, 3, 15) is resting on 2 bricks
+	Supported brick 753 [ (3, 3, 15) ] [ (6, 3, 15) is resting on 1 bricks
+Brick 1338 [ (5, 7, 16) ] [ (9, 7, 16) supporting 1 bricks
+	Supported brick 131 [ (5, 7, 16) ] [ (9, 7, 16) is resting on 1 bricks
+Brick 958 [ (2, 9, 16) ] [ (3, 9, 16) supporting 1 bricks
+	Supported brick 329 [ (2, 9, 16) ] [ (3, 9, 16) is resting on 1 bricks
+Brick 850 [ (7, 0, 14) ] [ (7, 3, 14) supporting 2 bricks
+	Supported brick 934 [ (7, 0, 14) ] [ (7, 3, 14) is resting on 1 bricks
+	Supported brick 1065 [ (7, 0, 14) ] [ (7, 3, 14) is resting on 1 bricks
+Brick 1111 [ (2, 2, 14) ] [ (2, 3, 14) supporting 2 bricks
+	Supported brick 1415 [ (2, 2, 14) ] [ (2, 3, 14) is resting on 1 bricks
+	Supported brick 1318 [ (2, 2, 14) ] [ (2, 3, 14) is resting on 1 bricks
+Brick 282 [ (2, 8, 17) ] [ (2, 8, 17) supporting 0 bricks
+Brick 725 [ (5, 6, 15) ] [ (7, 6, 15) supporting 1 bricks
+	Supported brick 145 [ (5, 6, 15) ] [ (7, 6, 15) is resting on 1 bricks
+Brick 370 [ (4, 9, 18) ] [ (6, 9, 18) supporting 0 bricks
+Brick 1313 [ (7, 3, 16) ] [ (7, 5, 16) supporting 1 bricks
+	Supported brick 323 [ (7, 3, 16) ] [ (7, 5, 16) is resting on 1 bricks
+Brick 1065 [ (6, 1, 15) ] [ (8, 1, 15) supporting 1 bricks
+	Supported brick 1019 [ (6, 1, 15) ] [ (8, 1, 15) is resting on 1 bricks
+Brick 97 [ (3, 2, 15) ] [ (5, 2, 15) supporting 3 bricks
+	Supported brick 312 [ (3, 2, 15) ] [ (5, 2, 15) is resting on 2 bricks
+	Supported brick 412 [ (3, 2, 15) ] [ (5, 2, 15) is resting on 2 bricks
+	Supported brick 779 [ (3, 2, 15) ] [ (5, 2, 15) is resting on 2 bricks
+Brick 207 [ (0, 8, 17) ] [ (0, 8, 19) supporting 0 bricks
+Brick 829 [ (9, 4, 15) ] [ (9, 5, 15) supporting 1 bricks
+	Supported brick 493 [ (9, 4, 15) ] [ (9, 5, 15) is resting on 1 bricks
+Brick 104 [ (3, 5, 15) ] [ (5, 5, 15) supporting 1 bricks
+	Supported brick 125 [ (3, 5, 15) ] [ (5, 5, 15) is resting on 1 bricks
+Brick 312 [ (3, 2, 16) ] [ (3, 4, 16) supporting 0 bricks
+Brick 810 [ (1, 7, 17) ] [ (1, 9, 17) supporting 1 bricks
+	Supported brick 738 [ (1, 7, 17) ] [ (1, 9, 17) is resting on 1 bricks
+Brick 1318 [ (2, 3, 15) ] [ (2, 5, 15) supporting 1 bricks
+	Supported brick 1256 [ (2, 3, 15) ] [ (2, 5, 15) is resting on 1 bricks
+Brick 145 [ (7, 6, 16) ] [ (9, 6, 16) supporting 1 bricks
+	Supported brick 836 [ (7, 6, 16) ] [ (9, 6, 16) is resting on 1 bricks
+Brick 131 [ (6, 7, 17) ] [ (9, 7, 17) supporting 1 bricks
+	Supported brick 480 [ (6, 7, 17) ] [ (9, 7, 17) is resting on 1 bricks
+Brick 779 [ (5, 2, 16) ] [ (5, 4, 16) supporting 2 bricks
+	Supported brick 82 [ (5, 2, 16) ] [ (5, 4, 16) is resting on 1 bricks
+	Supported brick 92 [ (5, 2, 16) ] [ (5, 4, 16) is resting on 1 bricks
+Brick 1356 [ (7, 9, 17) ] [ (9, 9, 17) supporting 1 bricks
+	Supported brick 1040 [ (7, 9, 17) ] [ (9, 9, 17) is resting on 1 bricks
+Brick 493 [ (9, 3, 16) ] [ (9, 5, 16) supporting 1 bricks
+	Supported brick 451 [ (9, 3, 16) ] [ (9, 5, 16) is resting on 1 bricks
+Brick 82 [ (5, 2, 17) ] [ (7, 2, 17) supporting 0 bricks
+Brick 753 [ (6, 3, 16) ] [ (6, 4, 16) supporting 1 bricks
+	Supported brick 279 [ (6, 3, 16) ] [ (6, 4, 16) is resting on 1 bricks
+Brick 934 [ (5, 0, 15) ] [ (7, 0, 15) supporting 1 bricks
+	Supported brick 1221 [ (5, 0, 15) ] [ (7, 0, 15) is resting on 1 bricks
+Brick 738 [ (1, 8, 18) ] [ (1, 9, 18) supporting 0 bricks
+Brick 1415 [ (2, 0, 15) ] [ (2, 2, 15) supporting 2 bricks
+	Supported brick 778 [ (2, 0, 15) ] [ (2, 2, 15) is resting on 1 bricks
+	Supported brick 626 [ (2, 0, 15) ] [ (2, 2, 15) is resting on 1 bricks
+Brick 480 [ (9, 6, 18) ] [ (9, 8, 18) supporting 2 bricks
+	Supported brick 1284 [ (9, 6, 18) ] [ (9, 8, 18) is resting on 1 bricks
+	Supported brick 1043 [ (9, 6, 18) ] [ (9, 8, 18) is resting on 1 bricks
+Brick 329 [ (2, 9, 17) ] [ (2, 9, 19) supporting 1 bricks
+	Supported brick 1012 [ (2, 9, 17) ] [ (2, 9, 19) is resting on 1 bricks
+Brick 412 [ (4, 2, 16) ] [ (4, 4, 16) supporting 0 bricks
+Brick 279 [ (6, 4, 17) ] [ (6, 5, 17) supporting 0 bricks
+Brick 1019 [ (5, 1, 16) ] [ (7, 1, 16) supporting 1 bricks
+	Supported brick 1085 [ (5, 1, 16) ] [ (7, 1, 16) is resting on 2 bricks
+Brick 778 [ (2, 0, 16) ] [ (3, 0, 16) supporting 1 bricks
+	Supported brick 127 [ (2, 0, 16) ] [ (3, 0, 16) is resting on 1 bricks
+Brick 451 [ (9, 1, 17) ] [ (9, 3, 17) supporting 2 bricks
+	Supported brick 955 [ (9, 1, 17) ] [ (9, 3, 17) is resting on 1 bricks
+	Supported brick 184 [ (9, 1, 17) ] [ (9, 3, 17) is resting on 1 bricks
+Brick 1221 [ (7, 0, 16) ] [ (7, 0, 17) supporting 0 bricks
+Brick 323 [ (7, 5, 17) ] [ (7, 5, 20) supporting 1 bricks
+	Supported brick 203 [ (7, 5, 17) ] [ (7, 5, 20) is resting on 1 bricks
+Brick 1284 [ (7, 7, 19) ] [ (9, 7, 19) supporting 0 bricks
+Brick 1256 [ (0, 5, 16) ] [ (2, 5, 16) supporting 2 bricks
+	Supported brick 1121 [ (0, 5, 16) ] [ (2, 5, 16) is resting on 1 bricks
+	Supported brick 1067 [ (0, 5, 16) ] [ (2, 5, 16) is resting on 1 bricks
+Brick 836 [ (8, 5, 17) ] [ (8, 6, 17) supporting 1 bricks
+	Supported brick 1189 [ (8, 5, 17) ] [ (8, 6, 17) is resting on 1 bricks
+Brick 92 [ (5, 3, 17) ] [ (5, 6, 17) supporting 3 bricks
+	Supported brick 1032 [ (5, 3, 17) ] [ (5, 6, 17) is resting on 1 bricks
+	Supported brick 336 [ (5, 3, 17) ] [ (5, 6, 17) is resting on 1 bricks
+	Supported brick 689 [ (5, 3, 17) ] [ (5, 6, 17) is resting on 1 bricks
+Brick 626 [ (2, 1, 16) ] [ (4, 1, 16) supporting 1 bricks
+	Supported brick 1085 [ (2, 1, 16) ] [ (4, 1, 16) is resting on 2 bricks
+Brick 955 [ (7, 1, 18) ] [ (9, 1, 18) supporting 0 bricks
+Brick 125 [ (4, 5, 16) ] [ (4, 5, 16) supporting 0 bricks
+Brick 184 [ (9, 2, 18) ] [ (9, 5, 18) supporting 1 bricks
+	Supported brick 889 [ (9, 2, 18) ] [ (9, 5, 18) is resting on 1 bricks
+Brick 1040 [ (8, 9, 18) ] [ (9, 9, 18) supporting 1 bricks
+	Supported brick 504 [ (8, 9, 18) ] [ (9, 9, 18) is resting on 1 bricks
+Brick 1043 [ (9, 6, 19) ] [ (9, 6, 21) supporting 0 bricks
+Brick 689 [ (5, 5, 18) ] [ (5, 6, 18) supporting 1 bricks
+	Supported brick 284 [ (5, 5, 18) ] [ (5, 6, 18) is resting on 1 bricks
+Brick 127 [ (0, 0, 17) ] [ (3, 0, 17) supporting 0 bricks
+Brick 889 [ (8, 2, 19) ] [ (9, 2, 19) supporting 2 bricks
+	Supported brick 801 [ (8, 2, 19) ] [ (9, 2, 19) is resting on 1 bricks
+	Supported brick 670 [ (8, 2, 19) ] [ (9, 2, 19) is resting on 1 bricks
+Brick 1189 [ (8, 3, 18) ] [ (8, 5, 18) supporting 1 bricks
+	Supported brick 1192 [ (8, 3, 18) ] [ (8, 5, 18) is resting on 1 bricks
+Brick 801 [ (8, 1, 20) ] [ (8, 2, 20) supporting 0 bricks
+Brick 1121 [ (0, 5, 17) ] [ (0, 7, 17) supporting 1 bricks
+	Supported brick 162 [ (0, 5, 17) ] [ (0, 7, 17) is resting on 1 bricks
+Brick 1085 [ (3, 1, 17) ] [ (5, 1, 17) supporting 1 bricks
+	Supported brick 1108 [ (3, 1, 17) ] [ (5, 1, 17) is resting on 1 bricks
+Brick 1067 [ (2, 4, 17) ] [ (2, 6, 17) supporting 2 bricks
+	Supported brick 1375 [ (2, 4, 17) ] [ (2, 6, 17) is resting on 1 bricks
+	Supported brick 806 [ (2, 4, 17) ] [ (2, 6, 17) is resting on 1 bricks
+Brick 336 [ (5, 3, 18) ] [ (6, 3, 18) supporting 1 bricks
+	Supported brick 411 [ (5, 3, 18) ] [ (6, 3, 18) is resting on 2 bricks
+Brick 504 [ (8, 8, 19) ] [ (8, 9, 19) supporting 1 bricks
+	Supported brick 204 [ (8, 8, 19) ] [ (8, 9, 19) is resting on 1 bricks
+Brick 1192 [ (8, 3, 19) ] [ (8, 6, 19) supporting 2 bricks
+	Supported brick 1020 [ (8, 3, 19) ] [ (8, 6, 19) is resting on 1 bricks
+	Supported brick 739 [ (8, 3, 19) ] [ (8, 6, 19) is resting on 1 bricks
+Brick 739 [ (8, 5, 20) ] [ (8, 6, 20) supporting 0 bricks
+Brick 162 [ (0, 5, 18) ] [ (0, 7, 18) supporting 1 bricks
+	Supported brick 871 [ (0, 5, 18) ] [ (0, 7, 18) is resting on 1 bricks
+Brick 806 [ (2, 2, 18) ] [ (2, 5, 18) supporting 1 bricks
+	Supported brick 31 [ (2, 2, 18) ] [ (2, 5, 18) is resting on 1 bricks
+Brick 1012 [ (2, 9, 20) ] [ (4, 9, 20) supporting 0 bricks
+Brick 1032 [ (3, 4, 18) ] [ (5, 4, 18) supporting 1 bricks
+	Supported brick 346 [ (3, 4, 18) ] [ (5, 4, 18) is resting on 1 bricks
+Brick 670 [ (9, 0, 20) ] [ (9, 2, 20) supporting 1 bricks
+	Supported brick 190 [ (9, 0, 20) ] [ (9, 2, 20) is resting on 1 bricks
+Brick 190 [ (9, 0, 21) ] [ (9, 2, 21) supporting 1 bricks
+	Supported brick 1307 [ (9, 0, 21) ] [ (9, 2, 21) is resting on 1 bricks
+Brick 284 [ (3, 5, 19) ] [ (5, 5, 19) supporting 1 bricks
+	Supported brick 475 [ (3, 5, 19) ] [ (5, 5, 19) is resting on 1 bricks
+Brick 1375 [ (1, 6, 18) ] [ (3, 6, 18) supporting 2 bricks
+	Supported brick 280 [ (1, 6, 18) ] [ (3, 6, 18) is resting on 1 bricks
+	Supported brick 523 [ (1, 6, 18) ] [ (3, 6, 18) is resting on 1 bricks
+Brick 204 [ (8, 8, 20) ] [ (8, 8, 22) supporting 0 bricks
+Brick 1020 [ (8, 4, 20) ] [ (8, 4, 22) supporting 1 bricks
+	Supported brick 968 [ (8, 4, 20) ] [ (8, 4, 22) is resting on 1 bricks
+Brick 1108 [ (3, 1, 18) ] [ (3, 3, 18) supporting 1 bricks
+	Supported brick 411 [ (3, 1, 18) ] [ (3, 3, 18) is resting on 2 bricks
+Brick 203 [ (7, 5, 21) ] [ (7, 7, 21) supporting 1 bricks
+	Supported brick 1401 [ (7, 5, 21) ] [ (7, 7, 21) is resting on 1 bricks
+Brick 475 [ (3, 5, 20) ] [ (3, 5, 23) supporting 0 bricks
+Brick 31 [ (2, 3, 19) ] [ (2, 5, 19) supporting 2 bricks
+	Supported brick 970 [ (2, 3, 19) ] [ (2, 5, 19) is resting on 1 bricks
+	Supported brick 37 [ (2, 3, 19) ] [ (2, 5, 19) is resting on 1 bricks
+Brick 871 [ (0, 3, 19) ] [ (0, 5, 19) supporting 1 bricks
+	Supported brick 1016 [ (0, 3, 19) ] [ (0, 5, 19) is resting on 1 bricks
+Brick 411 [ (3, 3, 19) ] [ (5, 3, 19) supporting 0 bricks
+Brick 346 [ (5, 4, 19) ] [ (6, 4, 19) supporting 1 bricks
+	Supported brick 186 [ (5, 4, 19) ] [ (6, 4, 19) is resting on 1 bricks
+Brick 1016 [ (0, 1, 20) ] [ (0, 3, 20) supporting 1 bricks
+	Supported brick 864 [ (0, 1, 20) ] [ (0, 3, 20) is resting on 1 bricks
+Brick 1307 [ (8, 0, 22) ] [ (9, 0, 22) supporting 0 bricks
+Brick 280 [ (1, 5, 19) ] [ (1, 6, 19) supporting 1 bricks
+	Supported brick 813 [ (1, 5, 19) ] [ (1, 6, 19) is resting on 1 bricks
+Brick 523 [ (3, 6, 19) ] [ (3, 8, 19) supporting 2 bricks
+	Supported brick 422 [ (3, 6, 19) ] [ (3, 8, 19) is resting on 1 bricks
+	Supported brick 1109 [ (3, 6, 19) ] [ (3, 8, 19) is resting on 1 bricks
+Brick 1401 [ (7, 3, 22) ] [ (7, 6, 22) supporting 1 bricks
+	Supported brick 218 [ (7, 3, 22) ] [ (7, 6, 22) is resting on 1 bricks
+Brick 970 [ (2, 2, 20) ] [ (2, 4, 20) supporting 2 bricks
+	Supported brick 443 [ (2, 2, 20) ] [ (2, 4, 20) is resting on 1 bricks
+	Supported brick 657 [ (2, 2, 20) ] [ (2, 4, 20) is resting on 2 bricks
+Brick 813 [ (0, 6, 20) ] [ (1, 6, 20) supporting 1 bricks
+	Supported brick 295 [ (0, 6, 20) ] [ (1, 6, 20) is resting on 1 bricks
+Brick 37 [ (2, 5, 20) ] [ (2, 7, 20) supporting 1 bricks
+	Supported brick 657 [ (2, 5, 20) ] [ (2, 7, 20) is resting on 2 bricks
+Brick 186 [ (6, 2, 20) ] [ (6, 4, 20) supporting 2 bricks
+	Supported brick 723 [ (6, 2, 20) ] [ (6, 4, 20) is resting on 1 bricks
+	Supported brick 1195 [ (6, 2, 20) ] [ (6, 4, 20) is resting on 1 bricks
+Brick 1109 [ (3, 8, 20) ] [ (3, 8, 22) supporting 1 bricks
+	Supported brick 887 [ (3, 8, 20) ] [ (3, 8, 22) is resting on 1 bricks
+Brick 968 [ (8, 4, 23) ] [ (8, 4, 26) supporting 1 bricks
+	Supported brick 1156 [ (8, 4, 23) ] [ (8, 4, 26) is resting on 1 bricks
+Brick 218 [ (7, 1, 23) ] [ (7, 3, 23) supporting 2 bricks
+	Supported brick 983 [ (7, 1, 23) ] [ (7, 3, 23) is resting on 1 bricks
+	Supported brick 101 [ (7, 1, 23) ] [ (7, 3, 23) is resting on 1 bricks
+Brick 864 [ (0, 0, 21) ] [ (0, 2, 21) supporting 1 bricks
+	Supported brick 172 [ (0, 0, 21) ] [ (0, 2, 21) is resting on 1 bricks
+Brick 1195 [ (6, 4, 21) ] [ (6, 6, 21) supporting 0 bricks
+Brick 657 [ (2, 4, 21) ] [ (2, 6, 21) supporting 1 bricks
+	Supported brick 1120 [ (2, 4, 21) ] [ (2, 6, 21) is resting on 1 bricks
+Brick 422 [ (3, 6, 20) ] [ (5, 6, 20) supporting 0 bricks
+Brick 295 [ (1, 6, 21) ] [ (1, 9, 21) supporting 1 bricks
+	Supported brick 1191 [ (1, 6, 21) ] [ (1, 9, 21) is resting on 1 bricks
+Brick 443 [ (1, 2, 21) ] [ (3, 2, 21) supporting 1 bricks
+	Supported brick 1169 [ (1, 2, 21) ] [ (3, 2, 21) is resting on 1 bricks
+Brick 723 [ (6, 2, 21) ] [ (6, 2, 23) supporting 1 bricks
+	Supported brick 1278 [ (6, 2, 21) ] [ (6, 2, 23) is resting on 1 bricks
+Brick 1120 [ (2, 4, 22) ] [ (2, 6, 22) supporting 3 bricks
+	Supported brick 956 [ (2, 4, 22) ] [ (2, 6, 22) is resting on 1 bricks
+	Supported brick 648 [ (2, 4, 22) ] [ (2, 6, 22) is resting on 1 bricks
+	Supported brick 941 [ (2, 4, 22) ] [ (2, 6, 22) is resting on 1 bricks
+Brick 1169 [ (3, 2, 22) ] [ (5, 2, 22) supporting 0 bricks
+Brick 983 [ (7, 1, 24) ] [ (9, 1, 24) supporting 1 bricks
+	Supported brick 985 [ (7, 1, 24) ] [ (9, 1, 24) is resting on 1 bricks
+Brick 101 [ (7, 2, 24) ] [ (7, 5, 24) supporting 3 bricks
+	Supported brick 543 [ (7, 2, 24) ] [ (7, 5, 24) is resting on 1 bricks
+	Supported brick 515 [ (7, 2, 24) ] [ (7, 5, 24) is resting on 1 bricks
+	Supported brick 153 [ (7, 2, 24) ] [ (7, 5, 24) is resting on 1 bricks
+Brick 956 [ (1, 4, 23) ] [ (3, 4, 23) supporting 1 bricks
+	Supported brick 433 [ (1, 4, 23) ] [ (3, 4, 23) is resting on 1 bricks
+Brick 515 [ (7, 2, 25) ] [ (9, 2, 25) supporting 1 bricks
+	Supported brick 245 [ (7, 2, 25) ] [ (9, 2, 25) is resting on 1 bricks
+Brick 172 [ (0, 1, 22) ] [ (2, 1, 22) supporting 1 bricks
+	Supported brick 1416 [ (0, 1, 22) ] [ (2, 1, 22) is resting on 1 bricks
+Brick 543 [ (4, 3, 25) ] [ (7, 3, 25) supporting 0 bricks
+Brick 1191 [ (1, 7, 22) ] [ (2, 7, 22) supporting 1 bricks
+	Supported brick 1172 [ (1, 7, 22) ] [ (2, 7, 22) is resting on 1 bricks
+Brick 1156 [ (8, 2, 27) ] [ (8, 4, 27) supporting 0 bricks
+Brick 887 [ (3, 8, 23) ] [ (5, 8, 23) supporting 0 bricks
+Brick 941 [ (2, 6, 23) ] [ (3, 6, 23) supporting 0 bricks
+Brick 1416 [ (0, 1, 23) ] [ (0, 3, 23) supporting 2 bricks
+	Supported brick 1413 [ (0, 1, 23) ] [ (0, 3, 23) is resting on 1 bricks
+	Supported brick 36 [ (0, 1, 23) ] [ (0, 3, 23) is resting on 1 bricks
+Brick 153 [ (7, 5, 25) ] [ (9, 5, 25) supporting 2 bricks
+	Supported brick 869 [ (7, 5, 25) ] [ (9, 5, 25) is resting on 1 bricks
+	Supported brick 290 [ (7, 5, 25) ] [ (9, 5, 25) is resting on 1 bricks
+Brick 36 [ (0, 3, 24) ] [ (0, 4, 24) supporting 0 bricks
+Brick 1278 [ (6, 0, 24) ] [ (6, 2, 24) supporting 1 bricks
+	Supported brick 102 [ (6, 0, 24) ] [ (6, 2, 24) is resting on 1 bricks
+Brick 648 [ (1, 5, 23) ] [ (2, 5, 23) supporting 0 bricks
+Brick 1413 [ (0, 0, 24) ] [ (0, 2, 24) supporting 2 bricks
+	Supported brick 1137 [ (0, 0, 24) ] [ (0, 2, 24) is resting on 1 bricks
+	Supported brick 1377 [ (0, 0, 24) ] [ (0, 2, 24) is resting on 1 bricks
+Brick 985 [ (9, 1, 25) ] [ (9, 1, 27) supporting 0 bricks
+Brick 433 [ (1, 4, 24) ] [ (1, 4, 26) supporting 0 bricks
+Brick 245 [ (7, 0, 26) ] [ (7, 2, 26) supporting 0 bricks
+Brick 1172 [ (0, 7, 23) ] [ (3, 7, 23) supporting 1 bricks
+	Supported brick 348 [ (0, 7, 23) ] [ (3, 7, 23) is resting on 1 bricks
+Brick 290 [ (9, 3, 26) ] [ (9, 5, 26) supporting 2 bricks
+	Supported brick 453 [ (9, 3, 26) ] [ (9, 5, 26) is resting on 1 bricks
+	Supported brick 108 [ (9, 3, 26) ] [ (9, 5, 26) is resting on 1 bricks
+Brick 1377 [ (0, 2, 25) ] [ (2, 2, 25) supporting 1 bricks
+	Supported brick 746 [ (0, 2, 25) ] [ (2, 2, 25) is resting on 2 bricks
+Brick 102 [ (6, 0, 25) ] [ (6, 2, 25) supporting 1 bricks
+	Supported brick 170 [ (6, 0, 25) ] [ (6, 2, 25) is resting on 1 bricks
+Brick 869 [ (7, 5, 26) ] [ (8, 5, 26) supporting 1 bricks
+	Supported brick 583 [ (7, 5, 26) ] [ (8, 5, 26) is resting on 1 bricks
+Brick 108 [ (9, 5, 27) ] [ (9, 5, 27) supporting 0 bricks
+Brick 583 [ (7, 4, 27) ] [ (7, 6, 27) supporting 1 bricks
+	Supported brick 121 [ (7, 4, 27) ] [ (7, 6, 27) is resting on 1 bricks
+Brick 1137 [ (0, 0, 25) ] [ (0, 1, 25) supporting 1 bricks
+	Supported brick 746 [ (0, 0, 25) ] [ (0, 1, 25) is resting on 2 bricks
+Brick 453 [ (9, 2, 27) ] [ (9, 4, 27) supporting 0 bricks
+Brick 348 [ (1, 6, 24) ] [ (1, 8, 24) supporting 1 bricks
+	Supported brick 1379 [ (1, 6, 24) ] [ (1, 8, 24) is resting on 1 bricks
+Brick 170 [ (3, 0, 26) ] [ (6, 0, 26) supporting 1 bricks
+	Supported brick 447 [ (3, 0, 26) ] [ (6, 0, 26) is resting on 1 bricks
+Brick 1379 [ (1, 6, 25) ] [ (4, 6, 25) supporting 2 bricks
+	Supported brick 838 [ (1, 6, 25) ] [ (4, 6, 25) is resting on 1 bricks
+	Supported brick 805 [ (1, 6, 25) ] [ (4, 6, 25) is resting on 1 bricks
+Brick 121 [ (7, 5, 28) ] [ (7, 7, 28) supporting 2 bricks
+	Supported brick 663 [ (7, 5, 28) ] [ (7, 7, 28) is resting on 1 bricks
+	Supported brick 851 [ (7, 5, 28) ] [ (7, 7, 28) is resting on 1 bricks
+Brick 746 [ (0, 0, 26) ] [ (0, 2, 26) supporting 1 bricks
+	Supported brick 1227 [ (0, 0, 26) ] [ (0, 2, 26) is resting on 1 bricks
+Brick 805 [ (4, 4, 26) ] [ (4, 6, 26) supporting 0 bricks
+Brick 447 [ (5, 0, 27) ] [ (5, 3, 27) supporting 3 bricks
+	Supported brick 585 [ (5, 0, 27) ] [ (5, 3, 27) is resting on 1 bricks
+	Supported brick 542 [ (5, 0, 27) ] [ (5, 3, 27) is resting on 1 bricks
+	Supported brick 1319 [ (5, 0, 27) ] [ (5, 3, 27) is resting on 1 bricks
+Brick 838 [ (2, 6, 26) ] [ (2, 8, 26) supporting 1 bricks
+	Supported brick 1369 [ (2, 6, 26) ] [ (2, 8, 26) is resting on 1 bricks
+Brick 851 [ (7, 7, 29) ] [ (7, 9, 29) supporting 1 bricks
+	Supported brick 1123 [ (7, 7, 29) ] [ (7, 9, 29) is resting on 1 bricks
+Brick 1319 [ (4, 1, 28) ] [ (6, 1, 28) supporting 1 bricks
+	Supported brick 748 [ (4, 1, 28) ] [ (6, 1, 28) is resting on 1 bricks
+Brick 663 [ (6, 6, 29) ] [ (9, 6, 29) supporting 4 bricks
+	Supported brick 1053 [ (6, 6, 29) ] [ (9, 6, 29) is resting on 1 bricks
+	Supported brick 289 [ (6, 6, 29) ] [ (9, 6, 29) is resting on 1 bricks
+	Supported brick 1126 [ (6, 6, 29) ] [ (9, 6, 29) is resting on 1 bricks
+	Supported brick 649 [ (6, 6, 29) ] [ (9, 6, 29) is resting on 1 bricks
+Brick 542 [ (3, 3, 28) ] [ (6, 3, 28) supporting 2 bricks
+	Supported brick 1373 [ (3, 3, 28) ] [ (6, 3, 28) is resting on 1 bricks
+	Supported brick 314 [ (3, 3, 28) ] [ (6, 3, 28) is resting on 1 bricks
+Brick 1227 [ (0, 1, 27) ] [ (0, 1, 29) supporting 1 bricks
+	Supported brick 791 [ (0, 1, 27) ] [ (0, 1, 29) is resting on 1 bricks
+Brick 289 [ (7, 4, 30) ] [ (7, 6, 30) supporting 1 bricks
+	Supported brick 742 [ (7, 4, 30) ] [ (7, 6, 30) is resting on 2 bricks
+Brick 1373 [ (3, 2, 29) ] [ (3, 4, 29) supporting 2 bricks
+	Supported brick 839 [ (3, 2, 29) ] [ (3, 4, 29) is resting on 1 bricks
+	Supported brick 1359 [ (3, 2, 29) ] [ (3, 4, 29) is resting on 1 bricks
+Brick 1369 [ (2, 6, 27) ] [ (2, 8, 27) supporting 1 bricks
+	Supported brick 1140 [ (2, 6, 27) ] [ (2, 8, 27) is resting on 1 bricks
+Brick 585 [ (3, 0, 28) ] [ (5, 0, 28) supporting 2 bricks
+	Supported brick 870 [ (3, 0, 28) ] [ (5, 0, 28) is resting on 1 bricks
+	Supported brick 919 [ (3, 0, 28) ] [ (5, 0, 28) is resting on 1 bricks
+Brick 748 [ (1, 1, 29) ] [ (4, 1, 29) supporting 0 bricks
+Brick 1126 [ (8, 6, 30) ] [ (8, 7, 30) supporting 0 bricks
+Brick 1140 [ (0, 7, 28) ] [ (3, 7, 28) supporting 3 bricks
+	Supported brick 562 [ (0, 7, 28) ] [ (3, 7, 28) is resting on 1 bricks
+	Supported brick 219 [ (0, 7, 28) ] [ (3, 7, 28) is resting on 1 bricks
+	Supported brick 721 [ (0, 7, 28) ] [ (3, 7, 28) is resting on 1 bricks
+Brick 839 [ (2, 2, 30) ] [ (3, 2, 30) supporting 0 bricks
+Brick 1359 [ (3, 3, 30) ] [ (4, 3, 30) supporting 0 bricks
+Brick 649 [ (9, 6, 30) ] [ (9, 8, 30) supporting 1 bricks
+	Supported brick 8 [ (9, 6, 30) ] [ (9, 8, 30) is resting on 1 bricks
+Brick 1123 [ (4, 9, 30) ] [ (7, 9, 30) supporting 2 bricks
+	Supported brick 268 [ (4, 9, 30) ] [ (7, 9, 30) is resting on 1 bricks
+	Supported brick 233 [ (4, 9, 30) ] [ (7, 9, 30) is resting on 1 bricks
+Brick 268 [ (2, 9, 31) ] [ (5, 9, 31) supporting 1 bricks
+	Supported brick 772 [ (2, 9, 31) ] [ (5, 9, 31) is resting on 1 bricks
+Brick 314 [ (5, 2, 29) ] [ (5, 3, 29) supporting 2 bricks
+	Supported brick 860 [ (5, 2, 29) ] [ (5, 3, 29) is resting on 1 bricks
+	Supported brick 353 [ (5, 2, 29) ] [ (5, 3, 29) is resting on 1 bricks
+Brick 219 [ (1, 5, 29) ] [ (1, 7, 29) supporting 0 bricks
+Brick 721 [ (2, 6, 29) ] [ (2, 8, 29) supporting 1 bricks
+	Supported brick 1004 [ (2, 6, 29) ] [ (2, 8, 29) is resting on 1 bricks
+Brick 919 [ (5, 0, 29) ] [ (8, 0, 29) supporting 1 bricks
+	Supported brick 516 [ (5, 0, 29) ] [ (8, 0, 29) is resting on 1 bricks
+Brick 1053 [ (6, 4, 30) ] [ (6, 7, 30) supporting 1 bricks
+	Supported brick 742 [ (6, 4, 30) ] [ (6, 7, 30) is resting on 2 bricks
+Brick 8 [ (9, 7, 31) ] [ (9, 9, 31) supporting 1 bricks
+	Supported brick 481 [ (9, 7, 31) ] [ (9, 9, 31) is resting on 1 bricks
+Brick 562 [ (0, 6, 29) ] [ (0, 8, 29) supporting 1 bricks
+	Supported brick 1088 [ (0, 6, 29) ] [ (0, 8, 29) is resting on 1 bricks
+Brick 870 [ (1, 0, 29) ] [ (3, 0, 29) supporting 1 bricks
+	Supported brick 269 [ (1, 0, 29) ] [ (3, 0, 29) is resting on 1 bricks
+Brick 481 [ (9, 8, 32) ] [ (9, 9, 32) supporting 0 bricks
+Brick 1004 [ (2, 6, 30) ] [ (2, 8, 30) supporting 2 bricks
+	Supported brick 1376 [ (2, 6, 30) ] [ (2, 8, 30) is resting on 2 bricks
+	Supported brick 238 [ (2, 6, 30) ] [ (2, 8, 30) is resting on 1 bricks
+Brick 353 [ (5, 3, 30) ] [ (5, 3, 32) supporting 1 bricks
+	Supported brick 1360 [ (5, 3, 30) ] [ (5, 3, 32) is resting on 1 bricks
+Brick 742 [ (5, 5, 31) ] [ (8, 5, 31) supporting 3 bricks
+	Supported brick 672 [ (5, 5, 31) ] [ (8, 5, 31) is resting on 1 bricks
+	Supported brick 653 [ (5, 5, 31) ] [ (8, 5, 31) is resting on 1 bricks
+	Supported brick 841 [ (5, 5, 31) ] [ (8, 5, 31) is resting on 1 bricks
+Brick 1088 [ (0, 6, 30) ] [ (0, 7, 30) supporting 1 bricks
+	Supported brick 1376 [ (0, 6, 30) ] [ (0, 7, 30) is resting on 2 bricks
+Brick 772 [ (3, 9, 32) ] [ (5, 9, 32) supporting 1 bricks
+	Supported brick 241 [ (3, 9, 32) ] [ (5, 9, 32) is resting on 1 bricks
+Brick 233 [ (6, 9, 31) ] [ (8, 9, 31) supporting 0 bricks
+Brick 791 [ (0, 0, 30) ] [ (0, 2, 30) supporting 1 bricks
+	Supported brick 882 [ (0, 0, 30) ] [ (0, 2, 30) is resting on 1 bricks
+Brick 516 [ (7, 0, 30) ] [ (9, 0, 30) supporting 0 bricks
+Brick 238 [ (1, 8, 31) ] [ (3, 8, 31) supporting 0 bricks
+Brick 860 [ (5, 2, 30) ] [ (5, 2, 30) supporting 0 bricks
+Brick 269 [ (3, 0, 30) ] [ (4, 0, 30) supporting 1 bricks
+	Supported brick 1282 [ (3, 0, 30) ] [ (4, 0, 30) is resting on 1 bricks
+Brick 841 [ (8, 3, 32) ] [ (8, 5, 32) supporting 0 bricks
+Brick 653 [ (7, 4, 32) ] [ (7, 8, 32) supporting 2 bricks
+	Supported brick 495 [ (7, 4, 32) ] [ (7, 8, 32) is resting on 1 bricks
+	Supported brick 237 [ (7, 4, 32) ] [ (7, 8, 32) is resting on 1 bricks
+Brick 241 [ (1, 9, 33) ] [ (3, 9, 33) supporting 1 bricks
+	Supported brick 200 [ (1, 9, 33) ] [ (3, 9, 33) is resting on 1 bricks
+Brick 882 [ (0, 0, 31) ] [ (0, 2, 31) supporting 0 bricks
+Brick 495 [ (5, 6, 33) ] [ (8, 6, 33) supporting 2 bricks
+	Supported brick 1007 [ (5, 6, 33) ] [ (8, 6, 33) is resting on 1 bricks
+	Supported brick 728 [ (5, 6, 33) ] [ (8, 6, 33) is resting on 1 bricks
+Brick 1360 [ (2, 3, 33) ] [ (5, 3, 33) supporting 2 bricks
+	Supported brick 394 [ (2, 3, 33) ] [ (5, 3, 33) is resting on 1 bricks
+	Supported brick 371 [ (2, 3, 33) ] [ (5, 3, 33) is resting on 1 bricks
+Brick 672 [ (5, 4, 32) ] [ (5, 5, 32) supporting 2 bricks
+	Supported brick 879 [ (5, 4, 32) ] [ (5, 5, 32) is resting on 1 bricks
+	Supported brick 1246 [ (5, 4, 32) ] [ (5, 5, 32) is resting on 1 bricks
+Brick 1376 [ (0, 6, 31) ] [ (2, 6, 31) supporting 1 bricks
+	Supported brick 1397 [ (0, 6, 31) ] [ (2, 6, 31) is resting on 1 bricks
+Brick 237 [ (7, 1, 33) ] [ (7, 4, 33) supporting 1 bricks
+	Supported brick 1107 [ (7, 1, 33) ] [ (7, 4, 33) is resting on 1 bricks
+Brick 200 [ (2, 8, 34) ] [ (2, 9, 34) supporting 1 bricks
+	Supported brick 959 [ (2, 8, 34) ] [ (2, 9, 34) is resting on 1 bricks
+Brick 1246 [ (5, 5, 33) ] [ (6, 5, 33) supporting 0 bricks
+Brick 1282 [ (1, 0, 31) ] [ (3, 0, 31) supporting 1 bricks
+	Supported brick 945 [ (1, 0, 31) ] [ (3, 0, 31) is resting on 1 bricks
+Brick 371 [ (4, 0, 34) ] [ (4, 3, 34) supporting 1 bricks
+	Supported brick 55 [ (4, 0, 34) ] [ (4, 3, 34) is resting on 1 bricks
+Brick 394 [ (0, 3, 34) ] [ (2, 3, 34) supporting 2 bricks
+	Supported brick 916 [ (0, 3, 34) ] [ (2, 3, 34) is resting on 1 bricks
+	Supported brick 1207 [ (0, 3, 34) ] [ (2, 3, 34) is resting on 1 bricks
+Brick 1397 [ (1, 5, 32) ] [ (1, 7, 32) supporting 1 bricks
+	Supported brick 503 [ (1, 5, 32) ] [ (1, 7, 32) is resting on 1 bricks
+Brick 503 [ (1, 5, 33) ] [ (1, 7, 33) supporting 1 bricks
+	Supported brick 217 [ (1, 5, 33) ] [ (1, 7, 33) is resting on 1 bricks
+Brick 945 [ (1, 0, 32) ] [ (1, 1, 32) supporting 1 bricks
+	Supported brick 601 [ (1, 0, 32) ] [ (1, 1, 32) is resting on 1 bricks
+Brick 1007 [ (5, 6, 34) ] [ (5, 8, 34) supporting 2 bricks
+	Supported brick 984 [ (5, 6, 34) ] [ (5, 8, 34) is resting on 1 bricks
+	Supported brick 307 [ (5, 6, 34) ] [ (5, 8, 34) is resting on 1 bricks
+Brick 1107 [ (6, 1, 34) ] [ (7, 1, 34) supporting 0 bricks
+Brick 728 [ (8, 5, 34) ] [ (8, 8, 34) supporting 3 bricks
+	Supported brick 1064 [ (8, 5, 34) ] [ (8, 8, 34) is resting on 1 bricks
+	Supported brick 428 [ (8, 5, 34) ] [ (8, 8, 34) is resting on 1 bricks
+	Supported brick 1017 [ (8, 5, 34) ] [ (8, 8, 34) is resting on 1 bricks
+Brick 879 [ (5, 4, 33) ] [ (5, 4, 35) supporting 1 bricks
+	Supported brick 932 [ (5, 4, 33) ] [ (5, 4, 35) is resting on 1 bricks
+Brick 217 [ (0, 7, 34) ] [ (2, 7, 34) supporting 1 bricks
+	Supported brick 733 [ (0, 7, 34) ] [ (2, 7, 34) is resting on 1 bricks
+Brick 307 [ (5, 6, 35) ] [ (5, 7, 35) supporting 1 bricks
+	Supported brick 1183 [ (5, 6, 35) ] [ (5, 7, 35) is resting on 1 bricks
+Brick 55 [ (4, 0, 35) ] [ (4, 3, 35) supporting 1 bricks
+	Supported brick 1002 [ (4, 0, 35) ] [ (4, 3, 35) is resting on 1 bricks
+Brick 959 [ (2, 9, 35) ] [ (3, 9, 35) supporting 1 bricks
+	Supported brick 1394 [ (2, 9, 35) ] [ (3, 9, 35) is resting on 1 bricks
+Brick 916 [ (0, 3, 35) ] [ (0, 4, 35) supporting 1 bricks
+	Supported brick 1236 [ (0, 3, 35) ] [ (0, 4, 35) is resting on 1 bricks
+Brick 428 [ (8, 3, 35) ] [ (8, 5, 35) supporting 2 bricks
+	Supported brick 799 [ (8, 3, 35) ] [ (8, 5, 35) is resting on 1 bricks
+	Supported brick 1370 [ (8, 3, 35) ] [ (8, 5, 35) is resting on 1 bricks
+Brick 1207 [ (2, 2, 35) ] [ (2, 5, 35) supporting 2 bricks
+	Supported brick 1340 [ (2, 2, 35) ] [ (2, 5, 35) is resting on 1 bricks
+	Supported brick 1385 [ (2, 2, 35) ] [ (2, 5, 35) is resting on 1 bricks
+Brick 1017 [ (8, 7, 35) ] [ (8, 7, 38) supporting 1 bricks
+	Supported brick 316 [ (8, 7, 35) ] [ (8, 7, 38) is resting on 1 bricks
+Brick 601 [ (1, 0, 33) ] [ (1, 1, 33) supporting 1 bricks
+	Supported brick 497 [ (1, 0, 33) ] [ (1, 1, 33) is resting on 1 bricks
+Brick 984 [ (4, 8, 35) ] [ (6, 8, 35) supporting 0 bricks
+Brick 1064 [ (6, 6, 35) ] [ (8, 6, 35) supporting 1 bricks
+	Supported brick 1365 [ (6, 6, 35) ] [ (8, 6, 35) is resting on 1 bricks
+Brick 1385 [ (2, 3, 36) ] [ (3, 3, 36) supporting 1 bricks
+	Supported brick 644 [ (2, 3, 36) ] [ (3, 3, 36) is resting on 2 bricks
+Brick 733 [ (1, 7, 35) ] [ (1, 7, 35) supporting 0 bricks
+Brick 497 [ (1, 0, 34) ] [ (1, 2, 34) supporting 1 bricks
+	Supported brick 716 [ (1, 0, 34) ] [ (1, 2, 34) is resting on 1 bricks
+Brick 1002 [ (4, 1, 36) ] [ (4, 4, 36) supporting 1 bricks
+	Supported brick 1175 [ (4, 1, 36) ] [ (4, 4, 36) is resting on 2 bricks
+Brick 1365 [ (6, 6, 36) ] [ (6, 7, 36) supporting 0 bricks
+Brick 1236 [ (0, 3, 36) ] [ (0, 4, 36) supporting 2 bricks
+	Supported brick 644 [ (0, 3, 36) ] [ (0, 4, 36) is resting on 2 bricks
+	Supported brick 470 [ (0, 3, 36) ] [ (0, 4, 36) is resting on 1 bricks
+Brick 1183 [ (5, 6, 36) ] [ (5, 6, 37) supporting 0 bricks
+Brick 1370 [ (8, 4, 36) ] [ (8, 4, 38) supporting 1 bricks
+	Supported brick 1295 [ (8, 4, 36) ] [ (8, 4, 38) is resting on 2 bricks
+Brick 932 [ (5, 3, 36) ] [ (5, 4, 36) supporting 1 bricks
+	Supported brick 1175 [ (5, 3, 36) ] [ (5, 4, 36) is resting on 2 bricks
+Brick 799 [ (8, 1, 36) ] [ (8, 3, 36) supporting 2 bricks
+	Supported brick 24 [ (8, 1, 36) ] [ (8, 3, 36) is resting on 1 bricks
+	Supported brick 1316 [ (8, 1, 36) ] [ (8, 3, 36) is resting on 1 bricks
+Brick 1394 [ (2, 9, 36) ] [ (4, 9, 36) supporting 1 bricks
+	Supported brick 859 [ (2, 9, 36) ] [ (4, 9, 36) is resting on 1 bricks
+Brick 644 [ (0, 3, 37) ] [ (3, 3, 37) supporting 2 bricks
+	Supported brick 1051 [ (0, 3, 37) ] [ (3, 3, 37) is resting on 1 bricks
+	Supported brick 507 [ (0, 3, 37) ] [ (3, 3, 37) is resting on 2 bricks
+Brick 1340 [ (2, 2, 36) ] [ (3, 2, 36) supporting 0 bricks
+Brick 470 [ (0, 4, 37) ] [ (1, 4, 37) supporting 2 bricks
+	Supported brick 409 [ (0, 4, 37) ] [ (1, 4, 37) is resting on 1 bricks
+	Supported brick 678 [ (0, 4, 37) ] [ (1, 4, 37) is resting on 1 bricks
+Brick 716 [ (1, 2, 35) ] [ (1, 2, 36) supporting 0 bricks
+Brick 24 [ (5, 1, 37) ] [ (8, 1, 37) supporting 1 bricks
+	Supported brick 506 [ (5, 1, 37) ] [ (8, 1, 37) is resting on 1 bricks
+Brick 678 [ (1, 4, 38) ] [ (1, 7, 38) supporting 1 bricks
+	Supported brick 676 [ (1, 4, 38) ] [ (1, 7, 38) is resting on 1 bricks
+Brick 316 [ (7, 7, 39) ] [ (9, 7, 39) supporting 2 bricks
+	Supported brick 820 [ (7, 7, 39) ] [ (9, 7, 39) is resting on 1 bricks
+	Supported brick 519 [ (7, 7, 39) ] [ (9, 7, 39) is resting on 1 bricks
+Brick 1175 [ (2, 4, 37) ] [ (5, 4, 37) supporting 1 bricks
+	Supported brick 507 [ (2, 4, 37) ] [ (5, 4, 37) is resting on 2 bricks
+Brick 1316 [ (8, 2, 37) ] [ (8, 2, 38) supporting 1 bricks
+	Supported brick 1295 [ (8, 2, 37) ] [ (8, 2, 38) is resting on 2 bricks
+Brick 507 [ (2, 3, 38) ] [ (2, 4, 38) supporting 0 bricks
+Brick 506 [ (5, 0, 38) ] [ (5, 1, 38) supporting 1 bricks
+	Supported brick 1058 [ (5, 0, 38) ] [ (5, 1, 38) is resting on 1 bricks
+Brick 676 [ (1, 5, 39) ] [ (1, 6, 39) supporting 0 bricks
+Brick 820 [ (7, 4, 40) ] [ (7, 7, 40) supporting 1 bricks
+	Supported brick 220 [ (7, 4, 40) ] [ (7, 7, 40) is resting on 1 bricks
+Brick 859 [ (0, 9, 37) ] [ (4, 9, 37) supporting 1 bricks
+	Supported brick 358 [ (0, 9, 37) ] [ (4, 9, 37) is resting on 1 bricks
+Brick 1051 [ (0, 2, 38) ] [ (0, 3, 38) supporting 2 bricks
+	Supported brick 632 [ (0, 2, 38) ] [ (0, 3, 38) is resting on 1 bricks
+	Supported brick 4 [ (0, 2, 38) ] [ (0, 3, 38) is resting on 2 bricks
+Brick 409 [ (0, 4, 38) ] [ (0, 6, 38) supporting 1 bricks
+	Supported brick 4 [ (0, 4, 38) ] [ (0, 6, 38) is resting on 2 bricks
+Brick 519 [ (8, 5, 40) ] [ (8, 7, 40) supporting 1 bricks
+	Supported brick 1304 [ (8, 5, 40) ] [ (8, 7, 40) is resting on 1 bricks
+Brick 220 [ (4, 5, 41) ] [ (7, 5, 41) supporting 2 bricks
+	Supported brick 697 [ (4, 5, 41) ] [ (7, 5, 41) is resting on 1 bricks
+	Supported brick 937 [ (4, 5, 41) ] [ (7, 5, 41) is resting on 1 bricks
+Brick 632 [ (0, 2, 39) ] [ (3, 2, 39) supporting 1 bricks
+	Supported brick 785 [ (0, 2, 39) ] [ (3, 2, 39) is resting on 2 bricks
+Brick 1058 [ (5, 1, 39) ] [ (5, 3, 39) supporting 3 bricks
+	Supported brick 949 [ (5, 1, 39) ] [ (5, 3, 39) is resting on 1 bricks
+	Supported brick 818 [ (5, 1, 39) ] [ (5, 3, 39) is resting on 1 bricks
+	Supported brick 39 [ (5, 1, 39) ] [ (5, 3, 39) is resting on 1 bricks
+Brick 697 [ (4, 5, 42) ] [ (5, 5, 42) supporting 1 bricks
+	Supported brick 1328 [ (4, 5, 42) ] [ (5, 5, 42) is resting on 1 bricks
+Brick 1295 [ (8, 1, 39) ] [ (8, 4, 39) supporting 2 bricks
+	Supported brick 693 [ (8, 1, 39) ] [ (8, 4, 39) is resting on 1 bricks
+	Supported brick 257 [ (8, 1, 39) ] [ (8, 4, 39) is resting on 1 bricks
+Brick 937 [ (6, 4, 42) ] [ (6, 5, 42) supporting 1 bricks
+	Supported brick 388 [ (6, 4, 42) ] [ (6, 5, 42) is resting on 1 bricks
+Brick 4 [ (0, 3, 39) ] [ (0, 6, 39) supporting 1 bricks
+	Supported brick 785 [ (0, 3, 39) ] [ (0, 6, 39) is resting on 2 bricks
+Brick 1304 [ (8, 7, 41) ] [ (8, 9, 41) supporting 2 bricks
+	Supported brick 1343 [ (8, 7, 41) ] [ (8, 9, 41) is resting on 1 bricks
+	Supported brick 255 [ (8, 7, 41) ] [ (8, 9, 41) is resting on 1 bricks
+Brick 818 [ (5, 1, 40) ] [ (5, 1, 43) supporting 0 bricks
+Brick 949 [ (4, 3, 40) ] [ (5, 3, 40) supporting 1 bricks
+	Supported brick 1157 [ (4, 3, 40) ] [ (5, 3, 40) is resting on 1 bricks
+Brick 693 [ (6, 1, 40) ] [ (8, 1, 40) supporting 0 bricks
+Brick 358 [ (0, 9, 38) ] [ (2, 9, 38) supporting 1 bricks
+	Supported brick 41 [ (0, 9, 38) ] [ (2, 9, 38) is resting on 1 bricks
+Brick 388 [ (5, 4, 43) ] [ (7, 4, 43) supporting 1 bricks
+	Supported brick 911 [ (5, 4, 43) ] [ (7, 4, 43) is resting on 1 bricks
+Brick 257 [ (6, 3, 40) ] [ (9, 3, 40) supporting 1 bricks
+	Supported brick 1008 [ (6, 3, 40) ] [ (9, 3, 40) is resting on 1 bricks
+Brick 255 [ (8, 9, 42) ] [ (9, 9, 42) supporting 0 bricks
+Brick 1328 [ (4, 5, 43) ] [ (4, 6, 43) supporting 1 bricks
+	Supported brick 1354 [ (4, 5, 43) ] [ (4, 6, 43) is resting on 1 bricks
+Brick 785 [ (0, 1, 40) ] [ (0, 3, 40) supporting 1 bricks
+	Supported brick 32 [ (0, 1, 40) ] [ (0, 3, 40) is resting on 1 bricks
+Brick 39 [ (5, 2, 40) ] [ (7, 2, 40) supporting 1 bricks
+	Supported brick 499 [ (5, 2, 40) ] [ (7, 2, 40) is resting on 1 bricks
+Brick 1157 [ (3, 3, 41) ] [ (5, 3, 41) supporting 0 bricks
+Brick 1008 [ (9, 3, 41) ] [ (9, 3, 42) supporting 0 bricks
+Brick 1343 [ (8, 6, 42) ] [ (8, 8, 42) supporting 1 bricks
+	Supported brick 777 [ (8, 6, 42) ] [ (8, 8, 42) is resting on 1 bricks
+Brick 1354 [ (4, 6, 44) ] [ (6, 6, 44) supporting 1 bricks
+	Supported brick 686 [ (4, 6, 44) ] [ (6, 6, 44) is resting on 1 bricks
+Brick 41 [ (0, 9, 39) ] [ (0, 9, 41) supporting 0 bricks
+Brick 32 [ (0, 2, 41) ] [ (0, 2, 43) supporting 1 bricks
+	Supported brick 89 [ (0, 2, 41) ] [ (0, 2, 43) is resting on 1 bricks
+Brick 911 [ (4, 4, 44) ] [ (6, 4, 44) supporting 2 bricks
+	Supported brick 549 [ (4, 4, 44) ] [ (6, 4, 44) is resting on 1 bricks
+	Supported brick 272 [ (4, 4, 44) ] [ (6, 4, 44) is resting on 1 bricks
+Brick 499 [ (4, 2, 41) ] [ (6, 2, 41) supporting 1 bricks
+	Supported brick 1042 [ (4, 2, 41) ] [ (6, 2, 41) is resting on 1 bricks
+Brick 89 [ (0, 1, 44) ] [ (0, 2, 44) supporting 0 bricks
+Brick 777 [ (8, 6, 43) ] [ (8, 8, 43) supporting 1 bricks
+	Supported brick 122 [ (8, 6, 43) ] [ (8, 8, 43) is resting on 1 bricks
+Brick 686 [ (5, 5, 45) ] [ (5, 9, 45) supporting 1 bricks
+	Supported brick 134 [ (5, 5, 45) ] [ (5, 9, 45) is resting on 1 bricks
+Brick 1042 [ (6, 2, 42) ] [ (8, 2, 42) supporting 0 bricks
+Brick 122 [ (6, 8, 44) ] [ (8, 8, 44) supporting 2 bricks
+	Supported brick 423 [ (6, 8, 44) ] [ (8, 8, 44) is resting on 1 bricks
+	Supported brick 947 [ (6, 8, 44) ] [ (8, 8, 44) is resting on 1 bricks
+Brick 272 [ (6, 2, 45) ] [ (6, 4, 45) supporting 1 bricks
+	Supported brick 1219 [ (6, 2, 45) ] [ (6, 4, 45) is resting on 1 bricks
+Brick 549 [ (5, 4, 45) ] [ (5, 4, 48) supporting 0 bricks
+Brick 134 [ (3, 6, 46) ] [ (6, 6, 46) supporting 2 bricks
+	Supported brick 235 [ (3, 6, 46) ] [ (6, 6, 46) is resting on 1 bricks
+	Supported brick 1081 [ (3, 6, 46) ] [ (6, 6, 46) is resting on 1 bricks
+Brick 1219 [ (6, 0, 46) ] [ (6, 2, 46) supporting 1 bricks
+	Supported brick 208 [ (6, 0, 46) ] [ (6, 2, 46) is resting on 1 bricks
+Brick 423 [ (6, 7, 45) ] [ (6, 9, 45) supporting 2 bricks
+	Supported brick 666 [ (6, 7, 45) ] [ (6, 9, 45) is resting on 1 bricks
+	Supported brick 1204 [ (6, 7, 45) ] [ (6, 9, 45) is resting on 1 bricks
+Brick 1081 [ (5, 6, 47) ] [ (8, 6, 47) supporting 1 bricks
+	Supported brick 300 [ (5, 6, 47) ] [ (8, 6, 47) is resting on 1 bricks
+Brick 947 [ (8, 8, 45) ] [ (9, 8, 45) supporting 0 bricks
+Brick 1204 [ (6, 9, 46) ] [ (8, 9, 46) supporting 2 bricks
+	Supported brick 574 [ (6, 9, 46) ] [ (8, 9, 46) is resting on 1 bricks
+	Supported brick 1290 [ (6, 9, 46) ] [ (8, 9, 46) is resting on 1 bricks
+Brick 235 [ (3, 6, 47) ] [ (4, 6, 47) supporting 2 bricks
+	Supported brick 248 [ (3, 6, 47) ] [ (4, 6, 47) is resting on 1 bricks
+	Supported brick 1068 [ (3, 6, 47) ] [ (4, 6, 47) is resting on 1 bricks
+Brick 208 [ (6, 0, 47) ] [ (6, 0, 48) supporting 0 bricks
+Brick 666 [ (6, 8, 46) ] [ (6, 8, 48) supporting 0 bricks
+Brick 1290 [ (7, 9, 47) ] [ (9, 9, 47) supporting 1 bricks
+	Supported brick 962 [ (7, 9, 47) ] [ (9, 9, 47) is resting on 2 bricks
+Brick 574 [ (4, 9, 47) ] [ (6, 9, 47) supporting 1 bricks
+	Supported brick 962 [ (4, 9, 47) ] [ (6, 9, 47) is resting on 2 bricks
+Brick 248 [ (3, 6, 48) ] [ (3, 7, 48) supporting 2 bricks
+	Supported brick 83 [ (3, 6, 48) ] [ (3, 7, 48) is resting on 2 bricks
+	Supported brick 582 [ (3, 6, 48) ] [ (3, 7, 48) is resting on 2 bricks
+Brick 300 [ (8, 4, 48) ] [ (8, 6, 48) supporting 0 bricks
+Brick 1068 [ (4, 5, 48) ] [ (4, 7, 48) supporting 3 bricks
+	Supported brick 83 [ (4, 5, 48) ] [ (4, 7, 48) is resting on 2 bricks
+	Supported brick 582 [ (4, 5, 48) ] [ (4, 7, 48) is resting on 2 bricks
+	Supported brick 1197 [ (4, 5, 48) ] [ (4, 7, 48) is resting on 1 bricks
+Brick 962 [ (5, 9, 48) ] [ (7, 9, 48) supporting 0 bricks
+Brick 582 [ (3, 7, 49) ] [ (5, 7, 49) supporting 2 bricks
+	Supported brick 927 [ (3, 7, 49) ] [ (5, 7, 49) is resting on 2 bricks
+	Supported brick 1315 [ (3, 7, 49) ] [ (5, 7, 49) is resting on 2 bricks
+Brick 83 [ (3, 6, 49) ] [ (6, 6, 49) supporting 4 bricks
+	Supported brick 927 [ (3, 6, 49) ] [ (6, 6, 49) is resting on 2 bricks
+	Supported brick 364 [ (3, 6, 49) ] [ (6, 6, 49) is resting on 2 bricks
+	Supported brick 1315 [ (3, 6, 49) ] [ (6, 6, 49) is resting on 2 bricks
+	Supported brick 645 [ (3, 6, 49) ] [ (6, 6, 49) is resting on 1 bricks
+Brick 1197 [ (4, 5, 49) ] [ (7, 5, 49) supporting 1 bricks
+	Supported brick 364 [ (4, 5, 49) ] [ (7, 5, 49) is resting on 2 bricks
+Brick 1315 [ (5, 6, 50) ] [ (5, 7, 50) supporting 0 bricks
+Brick 364 [ (4, 4, 50) ] [ (4, 6, 50) supporting 2 bricks
+	Supported brick 976 [ (4, 4, 50) ] [ (4, 6, 50) is resting on 1 bricks
+	Supported brick 1297 [ (4, 4, 50) ] [ (4, 6, 50) is resting on 1 bricks
+Brick 645 [ (6, 6, 50) ] [ (9, 6, 50) supporting 3 bricks
+	Supported brick 1185 [ (6, 6, 50) ] [ (9, 6, 50) is resting on 1 bricks
+	Supported brick 755 [ (6, 6, 50) ] [ (9, 6, 50) is resting on 1 bricks
+	Supported brick 548 [ (6, 6, 50) ] [ (9, 6, 50) is resting on 1 bricks
+Brick 548 [ (9, 6, 51) ] [ (9, 9, 51) supporting 0 bricks
+Brick 1297 [ (4, 4, 51) ] [ (4, 4, 52) supporting 1 bricks
+	Supported brick 702 [ (4, 4, 51) ] [ (4, 4, 52) is resting on 2 bricks
+Brick 927 [ (3, 6, 50) ] [ (3, 8, 50) supporting 1 bricks
+	Supported brick 1034 [ (3, 6, 50) ] [ (3, 8, 50) is resting on 1 bricks
+Brick 1185 [ (6, 5, 51) ] [ (6, 7, 51) supporting 2 bricks
+	Supported brick 1323 [ (6, 5, 51) ] [ (6, 7, 51) is resting on 2 bricks
+	Supported brick 1011 [ (6, 5, 51) ] [ (6, 7, 51) is resting on 1 bricks
+Brick 755 [ (8, 3, 51) ] [ (8, 6, 51) supporting 1 bricks
+	Supported brick 349 [ (8, 3, 51) ] [ (8, 6, 51) is resting on 1 bricks
+Brick 976 [ (3, 5, 51) ] [ (4, 5, 51) supporting 1 bricks
+	Supported brick 1323 [ (3, 5, 51) ] [ (4, 5, 51) is resting on 2 bricks
+Brick 1034 [ (1, 8, 51) ] [ (3, 8, 51) supporting 1 bricks
+	Supported brick 883 [ (1, 8, 51) ] [ (3, 8, 51) is resting on 1 bricks
+Brick 1323 [ (3, 5, 52) ] [ (6, 5, 52) supporting 1 bricks
+	Supported brick 702 [ (3, 5, 52) ] [ (6, 5, 52) is resting on 2 bricks
+Brick 883 [ (1, 8, 52) ] [ (2, 8, 52) supporting 1 bricks
+	Supported brick 522 [ (1, 8, 52) ] [ (2, 8, 52) is resting on 1 bricks
+Brick 1011 [ (4, 7, 52) ] [ (6, 7, 52) supporting 2 bricks
+	Supported brick 909 [ (4, 7, 52) ] [ (6, 7, 52) is resting on 1 bricks
+	Supported brick 1251 [ (4, 7, 52) ] [ (6, 7, 52) is resting on 1 bricks
+Brick 349 [ (7, 4, 52) ] [ (9, 4, 52) supporting 3 bricks
+	Supported brick 48 [ (7, 4, 52) ] [ (9, 4, 52) is resting on 1 bricks
+	Supported brick 759 [ (7, 4, 52) ] [ (9, 4, 52) is resting on 1 bricks
+	Supported brick 1091 [ (7, 4, 52) ] [ (9, 4, 52) is resting on 1 bricks
+Brick 522 [ (1, 8, 53) ] [ (3, 8, 53) supporting 1 bricks
+	Supported brick 106 [ (1, 8, 53) ] [ (3, 8, 53) is resting on 1 bricks
+Brick 1251 [ (5, 6, 53) ] [ (5, 8, 53) supporting 1 bricks
+	Supported brick 771 [ (5, 6, 53) ] [ (5, 8, 53) is resting on 1 bricks
+Brick 702 [ (4, 2, 53) ] [ (4, 5, 53) supporting 3 bricks
+	Supported brick 832 [ (4, 2, 53) ] [ (4, 5, 53) is resting on 1 bricks
+	Supported brick 123 [ (4, 2, 53) ] [ (4, 5, 53) is resting on 1 bricks
+	Supported brick 904 [ (4, 2, 53) ] [ (4, 5, 53) is resting on 2 bricks
+Brick 48 [ (7, 3, 53) ] [ (7, 6, 53) supporting 0 bricks
+Brick 106 [ (2, 6, 54) ] [ (2, 8, 54) supporting 1 bricks
+	Supported brick 881 [ (2, 6, 54) ] [ (2, 8, 54) is resting on 1 bricks
+Brick 909 [ (4, 6, 53) ] [ (4, 8, 53) supporting 1 bricks
+	Supported brick 904 [ (4, 6, 53) ] [ (4, 8, 53) is resting on 2 bricks
+Brick 123 [ (4, 0, 54) ] [ (4, 2, 54) supporting 1 bricks
+	Supported brick 767 [ (4, 0, 54) ] [ (4, 2, 54) is resting on 1 bricks
+Brick 759 [ (8, 3, 53) ] [ (8, 5, 53) supporting 2 bricks
+	Supported brick 71 [ (8, 3, 53) ] [ (8, 5, 53) is resting on 1 bricks
+	Supported brick 405 [ (8, 3, 53) ] [ (8, 5, 53) is resting on 1 bricks
+Brick 832 [ (3, 3, 54) ] [ (4, 3, 54) supporting 0 bricks
+Brick 771 [ (5, 7, 54) ] [ (6, 7, 54) supporting 2 bricks
+	Supported brick 143 [ (5, 7, 54) ] [ (6, 7, 54) is resting on 1 bricks
+	Supported brick 26 [ (5, 7, 54) ] [ (6, 7, 54) is resting on 1 bricks
+Brick 904 [ (4, 4, 54) ] [ (4, 6, 54) supporting 0 bricks
+Brick 767 [ (2, 0, 55) ] [ (5, 0, 55) supporting 1 bricks
+	Supported brick 564 [ (2, 0, 55) ] [ (5, 0, 55) is resting on 1 bricks
+Brick 1091 [ (9, 3, 53) ] [ (9, 4, 53) supporting 0 bricks
+Brick 143 [ (5, 7, 55) ] [ (5, 9, 55) supporting 0 bricks
+Brick 71 [ (8, 1, 54) ] [ (8, 3, 54) supporting 2 bricks
+	Supported brick 1402 [ (8, 1, 54) ] [ (8, 3, 54) is resting on 1 bricks
+	Supported brick 228 [ (8, 1, 54) ] [ (8, 3, 54) is resting on 1 bricks
+Brick 405 [ (8, 4, 54) ] [ (8, 6, 54) supporting 2 bricks
+	Supported brick 385 [ (8, 4, 54) ] [ (8, 6, 54) is resting on 1 bricks
+	Supported brick 437 [ (8, 4, 54) ] [ (8, 6, 54) is resting on 1 bricks
+Brick 881 [ (0, 8, 55) ] [ (4, 8, 55) supporting 2 bricks
+	Supported brick 366 [ (0, 8, 55) ] [ (4, 8, 55) is resting on 1 bricks
+	Supported brick 602 [ (0, 8, 55) ] [ (4, 8, 55) is resting on 1 bricks
+Brick 385 [ (8, 4, 55) ] [ (8, 4, 55) supporting 0 bricks
+Brick 437 [ (8, 5, 55) ] [ (8, 7, 55) supporting 1 bricks
+	Supported brick 592 [ (8, 5, 55) ] [ (8, 7, 55) is resting on 1 bricks
+Brick 26 [ (6, 6, 55) ] [ (6, 8, 55) supporting 1 bricks
+	Supported brick 215 [ (6, 6, 55) ] [ (6, 8, 55) is resting on 1 bricks
+Brick 602 [ (3, 5, 56) ] [ (3, 8, 56) supporting 3 bricks
+	Supported brick 800 [ (3, 5, 56) ] [ (3, 8, 56) is resting on 1 bricks
+	Supported brick 770 [ (3, 5, 56) ] [ (3, 8, 56) is resting on 2 bricks
+	Supported brick 964 [ (3, 5, 56) ] [ (3, 8, 56) is resting on 2 bricks
+Brick 366 [ (2, 6, 56) ] [ (2, 8, 56) supporting 2 bricks
+	Supported brick 770 [ (2, 6, 56) ] [ (2, 8, 56) is resting on 2 bricks
+	Supported brick 964 [ (2, 6, 56) ] [ (2, 8, 56) is resting on 2 bricks
+Brick 564 [ (2, 0, 56) ] [ (2, 0, 58) supporting 0 bricks
+Brick 800 [ (1, 5, 57) ] [ (3, 5, 57) supporting 2 bricks
+	Supported brick 1154 [ (1, 5, 57) ] [ (3, 5, 57) is resting on 1 bricks
+	Supported brick 643 [ (1, 5, 57) ] [ (3, 5, 57) is resting on 1 bricks
+Brick 770 [ (1, 8, 57) ] [ (4, 8, 57) supporting 0 bricks
+Brick 1402 [ (6, 1, 55) ] [ (9, 1, 55) supporting 2 bricks
+	Supported brick 745 [ (6, 1, 55) ] [ (9, 1, 55) is resting on 1 bricks
+	Supported brick 1037 [ (6, 1, 55) ] [ (9, 1, 55) is resting on 1 bricks
+Brick 215 [ (6, 7, 56) ] [ (6, 7, 58) supporting 1 bricks
+	Supported brick 524 [ (6, 7, 56) ] [ (6, 7, 58) is resting on 1 bricks
+Brick 592 [ (8, 6, 56) ] [ (8, 6, 59) supporting 1 bricks
+	Supported brick 1287 [ (8, 6, 56) ] [ (8, 6, 59) is resting on 1 bricks
+Brick 228 [ (6, 3, 55) ] [ (8, 3, 55) supporting 1 bricks
+	Supported brick 1339 [ (6, 3, 55) ] [ (8, 3, 55) is resting on 1 bricks
+Brick 1339 [ (5, 3, 56) ] [ (7, 3, 56) supporting 1 bricks
+	Supported brick 508 [ (5, 3, 56) ] [ (7, 3, 56) is resting on 1 bricks
+Brick 964 [ (2, 7, 57) ] [ (4, 7, 57) supporting 0 bricks
+Brick 745 [ (7, 0, 56) ] [ (7, 2, 56) supporting 2 bricks
+	Supported brick 1213 [ (7, 0, 56) ] [ (7, 2, 56) is resting on 1 bricks
+	Supported brick 98 [ (7, 0, 56) ] [ (7, 2, 56) is resting on 1 bricks
+Brick 643 [ (3, 3, 58) ] [ (3, 6, 58) supporting 4 bricks
+	Supported brick 1348 [ (3, 3, 58) ] [ (3, 6, 58) is resting on 1 bricks
+	Supported brick 1188 [ (3, 3, 58) ] [ (3, 6, 58) is resting on 1 bricks
+	Supported brick 1232 [ (3, 3, 58) ] [ (3, 6, 58) is resting on 1 bricks
+	Supported brick 977 [ (3, 3, 58) ] [ (3, 6, 58) is resting on 1 bricks
+Brick 1154 [ (1, 5, 58) ] [ (1, 7, 58) supporting 1 bricks
+	Supported brick 1046 [ (1, 5, 58) ] [ (1, 7, 58) is resting on 1 bricks
+Brick 1037 [ (9, 1, 56) ] [ (9, 5, 56) supporting 1 bricks
+	Supported brick 737 [ (9, 1, 56) ] [ (9, 5, 56) is resting on 1 bricks
+Brick 508 [ (6, 3, 57) ] [ (6, 3, 60) supporting 0 bricks
+Brick 98 [ (7, 0, 57) ] [ (9, 0, 57) supporting 2 bricks
+	Supported brick 853 [ (7, 0, 57) ] [ (9, 0, 57) is resting on 1 bricks
+	Supported brick 700 [ (7, 0, 57) ] [ (9, 0, 57) is resting on 1 bricks
+Brick 524 [ (6, 7, 59) ] [ (6, 9, 59) supporting 1 bricks
+	Supported brick 386 [ (6, 7, 59) ] [ (6, 9, 59) is resting on 1 bricks
+Brick 737 [ (9, 1, 57) ] [ (9, 3, 57) supporting 2 bricks
+	Supported brick 229 [ (9, 1, 57) ] [ (9, 3, 57) is resting on 1 bricks
+	Supported brick 539 [ (9, 1, 57) ] [ (9, 3, 57) is resting on 1 bricks
+Brick 1046 [ (1, 7, 59) ] [ (1, 7, 61) supporting 1 bricks
+	Supported brick 763 [ (1, 7, 59) ] [ (1, 7, 61) is resting on 1 bricks
+Brick 977 [ (3, 6, 59) ] [ (3, 9, 59) supporting 4 bricks
+	Supported brick 173 [ (3, 6, 59) ] [ (3, 9, 59) is resting on 1 bricks
+	Supported brick 1158 [ (3, 6, 59) ] [ (3, 9, 59) is resting on 1 bricks
+	Supported brick 1350 [ (3, 6, 59) ] [ (3, 9, 59) is resting on 1 bricks
+	Supported brick 90 [ (3, 6, 59) ] [ (3, 9, 59) is resting on 1 bricks
+Brick 229 [ (7, 1, 58) ] [ (9, 1, 58) supporting 1 bricks
+	Supported brick 1268 [ (7, 1, 58) ] [ (9, 1, 58) is resting on 1 bricks
+Brick 1348 [ (1, 3, 59) ] [ (3, 3, 59) supporting 2 bricks
+	Supported brick 518 [ (1, 3, 59) ] [ (3, 3, 59) is resting on 1 bricks
+	Supported brick 490 [ (1, 3, 59) ] [ (3, 3, 59) is resting on 1 bricks
+Brick 1188 [ (3, 4, 59) ] [ (3, 4, 60) supporting 1 bricks
+	Supported brick 1141 [ (3, 4, 59) ] [ (3, 4, 60) is resting on 2 bricks
+Brick 700 [ (9, 0, 58) ] [ (9, 0, 61) supporting 0 bricks
+Brick 1350 [ (2, 6, 60) ] [ (3, 6, 60) supporting 2 bricks
+	Supported brick 148 [ (2, 6, 60) ] [ (3, 6, 60) is resting on 1 bricks
+	Supported brick 1141 [ (2, 6, 60) ] [ (3, 6, 60) is resting on 2 bricks
+Brick 386 [ (5, 9, 60) ] [ (8, 9, 60) supporting 1 bricks
+	Supported brick 650 [ (5, 9, 60) ] [ (8, 9, 60) is resting on 1 bricks
+Brick 1213 [ (5, 2, 57) ] [ (8, 2, 57) supporting 0 bricks
+Brick 173 [ (1, 8, 60) ] [ (3, 8, 60) supporting 0 bricks
+Brick 1287 [ (8, 5, 60) ] [ (8, 7, 60) supporting 0 bricks
+Brick 1232 [ (3, 5, 59) ] [ (6, 5, 59) supporting 2 bricks
+	Supported brick 169 [ (3, 5, 59) ] [ (6, 5, 59) is resting on 1 bricks
+	Supported brick 532 [ (3, 5, 59) ] [ (6, 5, 59) is resting on 1 bricks
+Brick 1268 [ (7, 1, 59) ] [ (7, 1, 60) supporting 1 bricks
+	Supported brick 762 [ (7, 1, 59) ] [ (7, 1, 60) is resting on 1 bricks
+Brick 853 [ (7, 0, 58) ] [ (7, 0, 60) supporting 0 bricks
+Brick 518 [ (2, 2, 60) ] [ (2, 3, 60) supporting 1 bricks
+	Supported brick 995 [ (2, 2, 60) ] [ (2, 3, 60) is resting on 1 bricks
+Brick 650 [ (4, 9, 61) ] [ (5, 9, 61) supporting 0 bricks
+Brick 539 [ (9, 2, 58) ] [ (9, 4, 58) supporting 1 bricks
+	Supported brick 862 [ (9, 2, 58) ] [ (9, 4, 58) is resting on 1 bricks
+Brick 763 [ (1, 5, 62) ] [ (1, 7, 62) supporting 0 bricks
+Brick 762 [ (7, 1, 61) ] [ (9, 1, 61) supporting 1 bricks
+	Supported brick 905 [ (7, 1, 61) ] [ (9, 1, 61) is resting on 1 bricks
+Brick 1158 [ (1, 9, 60) ] [ (3, 9, 60) supporting 1 bricks
+	Supported brick 469 [ (1, 9, 60) ] [ (3, 9, 60) is resting on 1 bricks
+Brick 532 [ (5, 5, 60) ] [ (7, 5, 60) supporting 1 bricks
+	Supported brick 247 [ (5, 5, 60) ] [ (7, 5, 60) is resting on 2 bricks
+Brick 90 [ (3, 7, 60) ] [ (4, 7, 60) supporting 1 bricks
+	Supported brick 352 [ (3, 7, 60) ] [ (4, 7, 60) is resting on 1 bricks
+Brick 490 [ (3, 3, 60) ] [ (3, 3, 62) supporting 1 bricks
+	Supported brick 1233 [ (3, 3, 60) ] [ (3, 3, 62) is resting on 1 bricks
+Brick 148 [ (2, 4, 61) ] [ (2, 7, 61) supporting 2 bricks
+	Supported brick 355 [ (2, 4, 61) ] [ (2, 7, 61) is resting on 1 bricks
+	Supported brick 197 [ (2, 4, 61) ] [ (2, 7, 61) is resting on 1 bricks
+Brick 169 [ (4, 3, 60) ] [ (4, 5, 60) supporting 1 bricks
+	Supported brick 247 [ (4, 3, 60) ] [ (4, 5, 60) is resting on 2 bricks
+Brick 1141 [ (3, 4, 61) ] [ (3, 6, 61) supporting 1 bricks
+	Supported brick 696 [ (3, 4, 61) ] [ (3, 6, 61) is resting on 1 bricks
+Brick 862 [ (8, 2, 59) ] [ (9, 2, 59) supporting 1 bricks
+	Supported brick 803 [ (8, 2, 59) ] [ (9, 2, 59) is resting on 1 bricks
+Brick 469 [ (0, 9, 61) ] [ (2, 9, 61) supporting 0 bricks
+Brick 995 [ (2, 1, 61) ] [ (2, 3, 61) supporting 1 bricks
+	Supported brick 551 [ (2, 1, 61) ] [ (2, 3, 61) is resting on 1 bricks
+Brick 355 [ (0, 4, 62) ] [ (2, 4, 62) supporting 2 bricks
+	Supported brick 546 [ (0, 4, 62) ] [ (2, 4, 62) is resting on 1 bricks
+	Supported brick 1309 [ (0, 4, 62) ] [ (2, 4, 62) is resting on 1 bricks
+Brick 247 [ (4, 5, 61) ] [ (7, 5, 61) supporting 1 bricks
+	Supported brick 1052 [ (4, 5, 61) ] [ (7, 5, 61) is resting on 1 bricks
+Brick 1309 [ (2, 4, 63) ] [ (2, 6, 63) supporting 2 bricks
+	Supported brick 923 [ (2, 4, 63) ] [ (2, 6, 63) is resting on 1 bricks
+	Supported brick 1073 [ (2, 4, 63) ] [ (2, 6, 63) is resting on 1 bricks
+Brick 803 [ (9, 2, 60) ] [ (9, 4, 60) supporting 2 bricks
+	Supported brick 1283 [ (9, 2, 60) ] [ (9, 4, 60) is resting on 1 bricks
+	Supported brick 1036 [ (9, 2, 60) ] [ (9, 4, 60) is resting on 1 bricks
+Brick 696 [ (3, 6, 62) ] [ (5, 6, 62) supporting 1 bricks
+	Supported brick 439 [ (3, 6, 62) ] [ (5, 6, 62) is resting on 1 bricks
+Brick 905 [ (8, 1, 62) ] [ (8, 1, 62) supporting 1 bricks
+	Supported brick 512 [ (8, 1, 62) ] [ (8, 1, 62) is resting on 1 bricks
+Brick 352 [ (3, 7, 61) ] [ (5, 7, 61) supporting 1 bricks
+	Supported brick 1368 [ (3, 7, 61) ] [ (5, 7, 61) is resting on 1 bricks
+Brick 551 [ (2, 3, 62) ] [ (2, 3, 65) supporting 0 bricks
+Brick 197 [ (2, 7, 62) ] [ (2, 7, 65) supporting 1 bricks
+	Supported brick 1405 [ (2, 7, 62) ] [ (2, 7, 65) is resting on 1 bricks
+Brick 1036 [ (9, 3, 61) ] [ (9, 3, 61) supporting 0 bricks
+Brick 512 [ (7, 1, 63) ] [ (8, 1, 63) supporting 1 bricks
+	Supported brick 188 [ (7, 1, 63) ] [ (8, 1, 63) is resting on 2 bricks
+Brick 1368 [ (5, 7, 62) ] [ (5, 8, 62) supporting 1 bricks
+	Supported brick 804 [ (5, 7, 62) ] [ (5, 8, 62) is resting on 1 bricks
+Brick 439 [ (3, 5, 63) ] [ (3, 6, 63) supporting 0 bricks
+Brick 1233 [ (3, 0, 63) ] [ (3, 3, 63) supporting 1 bricks
+	Supported brick 188 [ (3, 0, 63) ] [ (3, 3, 63) is resting on 2 bricks
+Brick 1073 [ (2, 5, 64) ] [ (2, 6, 64) supporting 0 bricks
+Brick 1052 [ (7, 3, 62) ] [ (7, 7, 62) supporting 2 bricks
+	Supported brick 873 [ (7, 3, 62) ] [ (7, 7, 62) is resting on 1 bricks
+	Supported brick 920 [ (7, 3, 62) ] [ (7, 7, 62) is resting on 1 bricks
+Brick 546 [ (1, 2, 63) ] [ (1, 4, 63) supporting 1 bricks
+	Supported brick 430 [ (1, 2, 63) ] [ (1, 4, 63) is resting on 1 bricks
+Brick 923 [ (2, 4, 64) ] [ (2, 4, 66) supporting 1 bricks
+	Supported brick 1105 [ (2, 4, 64) ] [ (2, 4, 66) is resting on 1 bricks
+Brick 1283 [ (9, 2, 61) ] [ (9, 2, 63) supporting 0 bricks
+Brick 188 [ (3, 1, 64) ] [ (7, 1, 64) supporting 2 bricks
+	Supported brick 1125 [ (3, 1, 64) ] [ (7, 1, 64) is resting on 1 bricks
+	Supported brick 567 [ (3, 1, 64) ] [ (7, 1, 64) is resting on 1 bricks
+Brick 430 [ (1, 4, 64) ] [ (1, 7, 64) supporting 1 bricks
+	Supported brick 1049 [ (1, 4, 64) ] [ (1, 7, 64) is resting on 1 bricks
+Brick 873 [ (6, 4, 63) ] [ (8, 4, 63) supporting 0 bricks
+Brick 804 [ (5, 7, 63) ] [ (5, 7, 64) supporting 0 bricks
+Brick 1125 [ (3, 0, 65) ] [ (3, 3, 65) supporting 1 bricks
+	Supported brick 659 [ (3, 0, 65) ] [ (3, 3, 65) is resting on 1 bricks
+Brick 920 [ (7, 5, 63) ] [ (7, 6, 63) supporting 2 bricks
+	Supported brick 434 [ (7, 5, 63) ] [ (7, 6, 63) is resting on 1 bricks
+	Supported brick 1003 [ (7, 5, 63) ] [ (7, 6, 63) is resting on 1 bricks
+Brick 567 [ (5, 1, 65) ] [ (5, 3, 65) supporting 1 bricks
+	Supported brick 735 [ (5, 1, 65) ] [ (5, 3, 65) is resting on 1 bricks
+Brick 1405 [ (2, 7, 66) ] [ (2, 8, 66) supporting 1 bricks
+	Supported brick 987 [ (2, 7, 66) ] [ (2, 8, 66) is resting on 1 bricks
+Brick 1003 [ (7, 6, 64) ] [ (9, 6, 64) supporting 0 bricks
+Brick 735 [ (4, 1, 66) ] [ (8, 1, 66) supporting 4 bricks
+	Supported brick 78 [ (4, 1, 66) ] [ (8, 1, 66) is resting on 2 bricks
+	Supported brick 189 [ (4, 1, 66) ] [ (8, 1, 66) is resting on 1 bricks
+	Supported brick 797 [ (4, 1, 66) ] [ (8, 1, 66) is resting on 1 bricks
+	Supported brick 878 [ (4, 1, 66) ] [ (8, 1, 66) is resting on 1 bricks
+Brick 434 [ (4, 5, 64) ] [ (7, 5, 64) supporting 0 bricks
+Brick 1049 [ (1, 1, 65) ] [ (1, 4, 65) supporting 1 bricks
+	Supported brick 75 [ (1, 1, 65) ] [ (1, 4, 65) is resting on 1 bricks
+Brick 987 [ (2, 8, 67) ] [ (5, 8, 67) supporting 4 bricks
+	Supported brick 436 [ (2, 8, 67) ] [ (5, 8, 67) is resting on 1 bricks
+	Supported brick 318 [ (2, 8, 67) ] [ (5, 8, 67) is resting on 1 bricks
+	Supported brick 1147 [ (2, 8, 67) ] [ (5, 8, 67) is resting on 1 bricks
+	Supported brick 84 [ (2, 8, 67) ] [ (5, 8, 67) is resting on 1 bricks
+Brick 797 [ (7, 0, 67) ] [ (7, 2, 67) supporting 1 bricks
+	Supported brick 1103 [ (7, 0, 67) ] [ (7, 2, 67) is resting on 1 bricks
+Brick 878 [ (8, 1, 67) ] [ (8, 2, 67) supporting 0 bricks
+Brick 189 [ (6, 0, 67) ] [ (6, 3, 67) supporting 1 bricks
+	Supported brick 760 [ (6, 0, 67) ] [ (6, 3, 67) is resting on 1 bricks
+Brick 75 [ (1, 1, 66) ] [ (1, 3, 66) supporting 2 bricks
+	Supported brick 78 [ (1, 1, 66) ] [ (1, 3, 66) is resting on 2 bricks
+	Supported brick 460 [ (1, 1, 66) ] [ (1, 3, 66) is resting on 1 bricks
+Brick 1147 [ (4, 6, 68) ] [ (4, 8, 68) supporting 1 bricks
+	Supported brick 525 [ (4, 6, 68) ] [ (4, 8, 68) is resting on 2 bricks
+Brick 659 [ (2, 0, 66) ] [ (4, 0, 66) supporting 1 bricks
+	Supported brick 1167 [ (2, 0, 66) ] [ (4, 0, 66) is resting on 1 bricks
+Brick 436 [ (1, 8, 68) ] [ (2, 8, 68) supporting 1 bricks
+	Supported brick 513 [ (1, 8, 68) ] [ (2, 8, 68) is resting on 1 bricks
+Brick 1105 [ (0, 4, 67) ] [ (2, 4, 67) supporting 0 bricks
+Brick 1103 [ (7, 0, 68) ] [ (8, 0, 68) supporting 0 bricks
+Brick 84 [ (5, 8, 68) ] [ (7, 8, 68) supporting 1 bricks
+	Supported brick 226 [ (5, 8, 68) ] [ (7, 8, 68) is resting on 1 bricks
+Brick 760 [ (6, 0, 68) ] [ (6, 2, 68) supporting 2 bricks
+	Supported brick 489 [ (6, 0, 68) ] [ (6, 2, 68) is resting on 1 bricks
+	Supported brick 1380 [ (6, 0, 68) ] [ (6, 2, 68) is resting on 1 bricks
+Brick 1167 [ (3, 0, 67) ] [ (5, 0, 67) supporting 0 bricks
+Brick 318 [ (3, 5, 68) ] [ (3, 9, 68) supporting 3 bricks
+	Supported brick 536 [ (3, 5, 68) ] [ (3, 9, 68) is resting on 1 bricks
+	Supported brick 865 [ (3, 5, 68) ] [ (3, 9, 68) is resting on 1 bricks
+	Supported brick 525 [ (3, 5, 68) ] [ (3, 9, 68) is resting on 2 bricks
+Brick 78 [ (1, 1, 67) ] [ (4, 1, 67) supporting 2 bricks
+	Supported brick 1142 [ (1, 1, 67) ] [ (4, 1, 67) is resting on 1 bricks
+	Supported brick 1317 [ (1, 1, 67) ] [ (4, 1, 67) is resting on 1 bricks
+Brick 513 [ (1, 8, 69) ] [ (2, 8, 69) supporting 1 bricks
+	Supported brick 866 [ (1, 8, 69) ] [ (2, 8, 69) is resting on 1 bricks
+Brick 226 [ (5, 8, 69) ] [ (6, 8, 69) supporting 1 bricks
+	Supported brick 569 [ (5, 8, 69) ] [ (6, 8, 69) is resting on 1 bricks
+Brick 1380 [ (6, 1, 69) ] [ (8, 1, 69) supporting 1 bricks
+	Supported brick 1321 [ (6, 1, 69) ] [ (8, 1, 69) is resting on 1 bricks
+Brick 460 [ (1, 2, 67) ] [ (1, 2, 68) supporting 0 bricks
+Brick 1142 [ (1, 0, 68) ] [ (1, 1, 68) supporting 1 bricks
+	Supported brick 14 [ (1, 0, 68) ] [ (1, 1, 68) is resting on 1 bricks
+Brick 865 [ (3, 5, 69) ] [ (7, 5, 69) supporting 4 bricks
+	Supported brick 291 [ (3, 5, 69) ] [ (7, 5, 69) is resting on 2 bricks
+	Supported brick 105 [ (3, 5, 69) ] [ (7, 5, 69) is resting on 1 bricks
+	Supported brick 347 [ (3, 5, 69) ] [ (7, 5, 69) is resting on 1 bricks
+	Supported brick 608 [ (3, 5, 69) ] [ (7, 5, 69) is resting on 1 bricks
+Brick 525 [ (3, 6, 69) ] [ (5, 6, 69) supporting 2 bricks
+	Supported brick 291 [ (3, 6, 69) ] [ (5, 6, 69) is resting on 2 bricks
+	Supported brick 456 [ (3, 6, 69) ] [ (5, 6, 69) is resting on 1 bricks
+Brick 489 [ (4, 0, 69) ] [ (6, 0, 69) supporting 1 bricks
+	Supported brick 573 [ (4, 0, 69) ] [ (6, 0, 69) is resting on 1 bricks
+Brick 536 [ (1, 7, 69) ] [ (3, 7, 69) supporting 0 bricks
+Brick 1321 [ (8, 1, 70) ] [ (8, 3, 70) supporting 1 bricks
+	Supported brick 431 [ (8, 1, 70) ] [ (8, 3, 70) is resting on 1 bricks
+Brick 347 [ (6, 3, 70) ] [ (6, 6, 70) supporting 0 bricks
+Brick 866 [ (0, 8, 70) ] [ (2, 8, 70) supporting 1 bricks
+	Supported brick 603 [ (0, 8, 70) ] [ (2, 8, 70) is resting on 1 bricks
+Brick 14 [ (0, 0, 69) ] [ (1, 0, 69) supporting 0 bricks
+Brick 608 [ (7, 5, 70) ] [ (9, 5, 70) supporting 1 bricks
+	Supported brick 25 [ (7, 5, 70) ] [ (9, 5, 70) is resting on 1 bricks
+Brick 569 [ (5, 8, 70) ] [ (6, 8, 70) supporting 0 bricks
+Brick 431 [ (7, 2, 71) ] [ (9, 2, 71) supporting 0 bricks
+Brick 1317 [ (3, 1, 68) ] [ (5, 1, 68) supporting 2 bricks
+	Supported brick 765 [ (3, 1, 68) ] [ (5, 1, 68) is resting on 1 bricks
+	Supported brick 445 [ (3, 1, 68) ] [ (5, 1, 68) is resting on 1 bricks
+Brick 291 [ (3, 3, 70) ] [ (3, 6, 70) supporting 1 bricks
+	Supported brick 610 [ (3, 3, 70) ] [ (3, 6, 70) is resting on 1 bricks
+Brick 573 [ (3, 0, 70) ] [ (5, 0, 70) supporting 1 bricks
+	Supported brick 915 [ (3, 0, 70) ] [ (5, 0, 70) is resting on 1 bricks
+Brick 445 [ (5, 1, 69) ] [ (5, 3, 69) supporting 0 bricks
+Brick 105 [ (4, 2, 70) ] [ (4, 5, 70) supporting 1 bricks
+	Supported brick 899 [ (4, 2, 70) ] [ (4, 5, 70) is resting on 1 bricks
+Brick 610 [ (0, 6, 71) ] [ (3, 6, 71) supporting 3 bricks
+	Supported brick 3 [ (0, 6, 71) ] [ (3, 6, 71) is resting on 1 bricks
+	Supported brick 1300 [ (0, 6, 71) ] [ (3, 6, 71) is resting on 1 bricks
+	Supported brick 1162 [ (0, 6, 71) ] [ (3, 6, 71) is resting on 1 bricks
+Brick 456 [ (4, 6, 70) ] [ (4, 8, 70) supporting 2 bricks
+	Supported brick 150 [ (4, 6, 70) ] [ (4, 8, 70) is resting on 1 bricks
+	Supported brick 206 [ (4, 6, 70) ] [ (4, 8, 70) is resting on 1 bricks
+Brick 206 [ (4, 7, 71) ] [ (7, 7, 71) supporting 2 bricks
+	Supported brick 661 [ (4, 7, 71) ] [ (7, 7, 71) is resting on 1 bricks
+	Supported brick 160 [ (4, 7, 71) ] [ (7, 7, 71) is resting on 1 bricks
+Brick 25 [ (8, 4, 71) ] [ (8, 8, 71) supporting 2 bricks
+	Supported brick 1041 [ (8, 4, 71) ] [ (8, 8, 71) is resting on 1 bricks
+	Supported brick 908 [ (8, 4, 71) ] [ (8, 8, 71) is resting on 1 bricks
+Brick 3 [ (0, 5, 72) ] [ (0, 7, 72) supporting 1 bricks
+	Supported brick 308 [ (0, 5, 72) ] [ (0, 7, 72) is resting on 1 bricks
+Brick 899 [ (4, 3, 71) ] [ (4, 4, 71) supporting 1 bricks
+	Supported brick 554 [ (4, 3, 71) ] [ (4, 4, 71) is resting on 1 bricks
+Brick 1162 [ (3, 3, 72) ] [ (3, 6, 72) supporting 2 bricks
+	Supported brick 1180 [ (3, 3, 72) ] [ (3, 6, 72) is resting on 1 bricks
+	Supported brick 939 [ (3, 3, 72) ] [ (3, 6, 72) is resting on 1 bricks
+Brick 765 [ (2, 1, 69) ] [ (4, 1, 69) supporting 1 bricks
+	Supported brick 1104 [ (2, 1, 69) ] [ (4, 1, 69) is resting on 1 bricks
+Brick 603 [ (0, 8, 71) ] [ (0, 8, 73) supporting 1 bricks
+	Supported brick 1127 [ (0, 8, 71) ] [ (0, 8, 73) is resting on 1 bricks
+Brick 915 [ (5, 0, 71) ] [ (7, 0, 71) supporting 1 bricks
+	Supported brick 1228 [ (5, 0, 71) ] [ (7, 0, 71) is resting on 1 bricks
+Brick 150 [ (3, 8, 71) ] [ (4, 8, 71) supporting 2 bricks
+	Supported brick 403 [ (3, 8, 71) ] [ (4, 8, 71) is resting on 1 bricks
+	Supported brick 798 [ (3, 8, 71) ] [ (4, 8, 71) is resting on 1 bricks
+Brick 160 [ (7, 5, 72) ] [ (7, 7, 72) supporting 2 bricks
+	Supported brick 1327 [ (7, 5, 72) ] [ (7, 7, 72) is resting on 1 bricks
+	Supported brick 660 [ (7, 5, 72) ] [ (7, 7, 72) is resting on 1 bricks
+Brick 908 [ (8, 8, 72) ] [ (9, 8, 72) supporting 1 bricks
+	Supported brick 222 [ (8, 8, 72) ] [ (9, 8, 72) is resting on 1 bricks
+Brick 1180 [ (0, 3, 73) ] [ (3, 3, 73) supporting 2 bricks
+	Supported brick 144 [ (0, 3, 73) ] [ (3, 3, 73) is resting on 1 bricks
+	Supported brick 1080 [ (0, 3, 73) ] [ (3, 3, 73) is resting on 1 bricks
+Brick 1041 [ (8, 4, 72) ] [ (8, 7, 72) supporting 2 bricks
+	Supported brick 571 [ (8, 4, 72) ] [ (8, 7, 72) is resting on 1 bricks
+	Supported brick 416 [ (8, 4, 72) ] [ (8, 7, 72) is resting on 1 bricks
+Brick 308 [ (0, 4, 73) ] [ (0, 6, 73) supporting 1 bricks
+	Supported brick 953 [ (0, 4, 73) ] [ (0, 6, 73) is resting on 1 bricks
+Brick 144 [ (2, 3, 74) ] [ (2, 3, 74) supporting 1 bricks
+	Supported brick 479 [ (2, 3, 74) ] [ (2, 3, 74) is resting on 2 bricks
+Brick 554 [ (4, 2, 72) ] [ (4, 4, 72) supporting 1 bricks
+	Supported brick 297 [ (4, 2, 72) ] [ (4, 4, 72) is resting on 1 bricks
+Brick 798 [ (4, 8, 72) ] [ (4, 9, 72) supporting 0 bricks
+Brick 939 [ (1, 5, 73) ] [ (3, 5, 73) supporting 0 bricks
+Brick 1300 [ (2, 6, 72) ] [ (2, 6, 73) supporting 1 bricks
+	Supported brick 232 [ (2, 6, 72) ] [ (2, 6, 73) is resting on 1 bricks
+Brick 660 [ (7, 6, 73) ] [ (7, 6, 74) supporting 0 bricks
+Brick 953 [ (0, 5, 74) ] [ (0, 5, 76) supporting 1 bricks
+	Supported brick 900 [ (0, 5, 74) ] [ (0, 5, 76) is resting on 1 bricks
+Brick 1104 [ (2, 1, 70) ] [ (4, 1, 70) supporting 1 bricks
+	Supported brick 132 [ (2, 1, 70) ] [ (4, 1, 70) is resting on 1 bricks
+Brick 1127 [ (0, 7, 74) ] [ (0, 9, 74) supporting 1 bricks
+	Supported brick 682 [ (0, 7, 74) ] [ (0, 9, 74) is resting on 1 bricks
+Brick 571 [ (8, 4, 73) ] [ (8, 5, 73) supporting 1 bricks
+	Supported brick 817 [ (8, 4, 73) ] [ (8, 5, 73) is resting on 2 bricks
+Brick 416 [ (8, 6, 73) ] [ (8, 7, 73) supporting 1 bricks
+	Supported brick 817 [ (8, 6, 73) ] [ (8, 7, 73) is resting on 2 bricks
+Brick 661 [ (4, 7, 72) ] [ (6, 7, 72) supporting 2 bricks
+	Supported brick 621 [ (4, 7, 72) ] [ (6, 7, 72) is resting on 1 bricks
+	Supported brick 28 [ (4, 7, 72) ] [ (6, 7, 72) is resting on 1 bricks
+Brick 222 [ (9, 6, 73) ] [ (9, 9, 73) supporting 1 bricks
+	Supported brick 924 [ (9, 6, 73) ] [ (9, 9, 73) is resting on 1 bricks
+Brick 1327 [ (7, 5, 73) ] [ (7, 5, 76) supporting 1 bricks
+	Supported brick 914 [ (7, 5, 73) ] [ (7, 5, 76) is resting on 1 bricks
+Brick 1080 [ (3, 1, 74) ] [ (3, 4, 74) supporting 2 bricks
+	Supported brick 479 [ (3, 1, 74) ] [ (3, 4, 74) is resting on 2 bricks
+	Supported brick 5 [ (3, 1, 74) ] [ (3, 4, 74) is resting on 1 bricks
+Brick 924 [ (9, 7, 74) ] [ (9, 9, 74) supporting 1 bricks
+	Supported brick 1201 [ (9, 7, 74) ] [ (9, 9, 74) is resting on 1 bricks
+Brick 682 [ (0, 8, 75) ] [ (2, 8, 75) supporting 1 bricks
+	Supported brick 114 [ (0, 8, 75) ] [ (2, 8, 75) is resting on 1 bricks
+Brick 1228 [ (3, 0, 72) ] [ (6, 0, 72) supporting 1 bricks
+	Supported brick 673 [ (3, 0, 72) ] [ (6, 0, 72) is resting on 1 bricks
+Brick 403 [ (3, 7, 72) ] [ (3, 9, 72) supporting 2 bricks
+	Supported brick 365 [ (3, 7, 72) ] [ (3, 9, 72) is resting on 1 bricks
+	Supported brick 400 [ (3, 7, 72) ] [ (3, 9, 72) is resting on 1 bricks
+Brick 817 [ (8, 5, 74) ] [ (8, 7, 74) supporting 0 bricks
+Brick 365 [ (1, 9, 73) ] [ (3, 9, 73) supporting 1 bricks
+	Supported brick 1349 [ (1, 9, 73) ] [ (3, 9, 73) is resting on 1 bricks
+Brick 673 [ (5, 0, 73) ] [ (5, 1, 73) supporting 1 bricks
+	Supported brick 466 [ (5, 0, 73) ] [ (5, 1, 73) is resting on 1 bricks
+Brick 900 [ (0, 4, 77) ] [ (0, 5, 77) supporting 2 bricks
+	Supported brick 1237 [ (0, 4, 77) ] [ (0, 5, 77) is resting on 1 bricks
+	Supported brick 625 [ (0, 4, 77) ] [ (0, 5, 77) is resting on 1 bricks
+Brick 297 [ (4, 2, 73) ] [ (4, 4, 73) supporting 3 bricks
+	Supported brick 168 [ (4, 2, 73) ] [ (4, 4, 73) is resting on 1 bricks
+	Supported brick 306 [ (4, 2, 73) ] [ (4, 4, 73) is resting on 1 bricks
+	Supported brick 1383 [ (4, 2, 73) ] [ (4, 4, 73) is resting on 1 bricks
+Brick 114 [ (0, 8, 76) ] [ (2, 8, 76) supporting 1 bricks
+	Supported brick 986 [ (0, 8, 76) ] [ (2, 8, 76) is resting on 1 bricks
+Brick 28 [ (6, 6, 73) ] [ (6, 8, 73) supporting 1 bricks
+	Supported brick 566 [ (6, 6, 73) ] [ (6, 8, 73) is resting on 1 bricks
+Brick 621 [ (5, 5, 73) ] [ (5, 7, 73) supporting 3 bricks
+	Supported brick 575 [ (5, 5, 73) ] [ (5, 7, 73) is resting on 1 bricks
+	Supported brick 1083 [ (5, 5, 73) ] [ (5, 7, 73) is resting on 1 bricks
+	Supported brick 1345 [ (5, 5, 73) ] [ (5, 7, 73) is resting on 1 bricks
+Brick 232 [ (2, 6, 74) ] [ (3, 6, 74) supporting 1 bricks
+	Supported brick 1074 [ (2, 6, 74) ] [ (3, 6, 74) is resting on 1 bricks
+Brick 986 [ (0, 8, 77) ] [ (0, 9, 77) supporting 1 bricks
+	Supported brick 565 [ (0, 8, 77) ] [ (0, 9, 77) is resting on 1 bricks
+Brick 132 [ (2, 0, 71) ] [ (2, 2, 71) supporting 0 bricks
+Brick 479 [ (1, 3, 75) ] [ (3, 3, 75) supporting 2 bricks
+	Supported brick 368 [ (1, 3, 75) ] [ (3, 3, 75) is resting on 1 bricks
+	Supported brick 393 [ (1, 3, 75) ] [ (3, 3, 75) is resting on 1 bricks
+Brick 1349 [ (3, 9, 74) ] [ (3, 9, 74) supporting 0 bricks
+Brick 1201 [ (7, 9, 75) ] [ (9, 9, 75) supporting 1 bricks
+	Supported brick 59 [ (7, 9, 75) ] [ (9, 9, 75) is resting on 1 bricks
+Brick 625 [ (0, 5, 78) ] [ (0, 7, 78) supporting 1 bricks
+	Supported brick 1181 [ (0, 5, 78) ] [ (0, 7, 78) is resting on 1 bricks
+Brick 466 [ (5, 0, 74) ] [ (7, 0, 74) supporting 1 bricks
+	Supported brick 928 [ (5, 0, 74) ] [ (7, 0, 74) is resting on 1 bricks
+Brick 1074 [ (1, 6, 75) ] [ (3, 6, 75) supporting 2 bricks
+	Supported brick 1145 [ (1, 6, 75) ] [ (3, 6, 75) is resting on 1 bricks
+	Supported brick 1414 [ (1, 6, 75) ] [ (3, 6, 75) is resting on 1 bricks
+Brick 928 [ (5, 0, 75) ] [ (7, 0, 75) supporting 1 bricks
+	Supported brick 1116 [ (5, 0, 75) ] [ (7, 0, 75) is resting on 1 bricks
+Brick 575 [ (4, 6, 74) ] [ (5, 6, 74) supporting 0 bricks
+Brick 566 [ (6, 6, 74) ] [ (6, 7, 74) supporting 1 bricks
+	Supported brick 441 [ (6, 6, 74) ] [ (6, 7, 74) is resting on 1 bricks
+Brick 565 [ (0, 8, 78) ] [ (0, 9, 78) supporting 1 bricks
+	Supported brick 517 [ (0, 8, 78) ] [ (0, 9, 78) is resting on 1 bricks
+Brick 168 [ (4, 2, 74) ] [ (6, 2, 74) supporting 2 bricks
+	Supported brick 651 [ (4, 2, 74) ] [ (6, 2, 74) is resting on 2 bricks
+	Supported brick 1363 [ (4, 2, 74) ] [ (6, 2, 74) is resting on 3 bricks
+Brick 1181 [ (0, 7, 79) ] [ (1, 7, 79) supporting 1 bricks
+	Supported brick 1399 [ (0, 7, 79) ] [ (1, 7, 79) is resting on 1 bricks
+Brick 1383 [ (4, 4, 74) ] [ (4, 4, 76) supporting 0 bricks
+Brick 400 [ (3, 8, 73) ] [ (3, 8, 75) supporting 0 bricks
+Brick 1083 [ (5, 5, 74) ] [ (6, 5, 74) supporting 2 bricks
+	Supported brick 1281 [ (5, 5, 74) ] [ (6, 5, 74) is resting on 1 bricks
+	Supported brick 1363 [ (5, 5, 74) ] [ (6, 5, 74) is resting on 3 bricks
+Brick 1116 [ (4, 0, 76) ] [ (6, 0, 76) supporting 0 bricks
+Brick 1345 [ (5, 7, 74) ] [ (5, 9, 74) supporting 1 bricks
+	Supported brick 1249 [ (5, 7, 74) ] [ (5, 9, 74) is resting on 1 bricks
+Brick 306 [ (4, 3, 74) ] [ (6, 3, 74) supporting 2 bricks
+	Supported brick 651 [ (4, 3, 74) ] [ (6, 3, 74) is resting on 2 bricks
+	Supported brick 1363 [ (4, 3, 74) ] [ (6, 3, 74) is resting on 3 bricks
+Brick 393 [ (3, 2, 76) ] [ (3, 4, 76) supporting 1 bricks
+	Supported brick 634 [ (3, 2, 76) ] [ (3, 4, 76) is resting on 1 bricks
+Brick 1145 [ (1, 5, 76) ] [ (1, 6, 76) supporting 0 bricks
+Brick 368 [ (2, 3, 76) ] [ (2, 3, 77) supporting 1 bricks
+	Supported brick 283 [ (2, 3, 76) ] [ (2, 3, 77) is resting on 1 bricks
+Brick 5 [ (2, 1, 75) ] [ (4, 1, 75) supporting 2 bricks
+	Supported brick 966 [ (2, 1, 75) ] [ (4, 1, 75) is resting on 1 bricks
+	Supported brick 967 [ (2, 1, 75) ] [ (4, 1, 75) is resting on 2 bricks
+Brick 1399 [ (1, 7, 80) ] [ (1, 9, 80) supporting 1 bricks
+	Supported brick 1214 [ (1, 7, 80) ] [ (1, 9, 80) is resting on 1 bricks
+Brick 59 [ (7, 9, 76) ] [ (8, 9, 76) supporting 1 bricks
+	Supported brick 988 [ (7, 9, 76) ] [ (8, 9, 76) is resting on 1 bricks
+Brick 1237 [ (0, 4, 78) ] [ (3, 4, 78) supporting 2 bricks
+	Supported brick 821 [ (0, 4, 78) ] [ (3, 4, 78) is resting on 1 bricks
+	Supported brick 1039 [ (0, 4, 78) ] [ (3, 4, 78) is resting on 1 bricks
+Brick 914 [ (7, 5, 77) ] [ (7, 5, 79) supporting 0 bricks
+Brick 517 [ (0, 8, 79) ] [ (0, 8, 81) supporting 0 bricks
+Brick 1039 [ (2, 4, 79) ] [ (4, 4, 79) supporting 1 bricks
+	Supported brick 70 [ (2, 4, 79) ] [ (4, 4, 79) is resting on 2 bricks
+Brick 821 [ (1, 3, 79) ] [ (1, 6, 79) supporting 1 bricks
+	Supported brick 1001 [ (1, 3, 79) ] [ (1, 6, 79) is resting on 1 bricks
+Brick 441 [ (6, 7, 75) ] [ (6, 7, 75) supporting 0 bricks
+Brick 1414 [ (3, 6, 76) ] [ (5, 6, 76) supporting 2 bricks
+	Supported brick 998 [ (3, 6, 76) ] [ (5, 6, 76) is resting on 1 bricks
+	Supported brick 1320 [ (3, 6, 76) ] [ (5, 6, 76) is resting on 1 bricks
+Brick 1249 [ (5, 8, 75) ] [ (5, 8, 76) supporting 0 bricks
+Brick 1281 [ (3, 5, 75) ] [ (5, 5, 75) supporting 0 bricks
+Brick 966 [ (2, 1, 76) ] [ (3, 1, 76) supporting 1 bricks
+	Supported brick 1090 [ (2, 1, 76) ] [ (3, 1, 76) is resting on 1 bricks
+Brick 988 [ (6, 9, 77) ] [ (9, 9, 77) supporting 1 bricks
+	Supported brick 54 [ (6, 9, 77) ] [ (9, 9, 77) is resting on 1 bricks
+Brick 651 [ (5, 1, 75) ] [ (5, 4, 75) supporting 2 bricks
+	Supported brick 967 [ (5, 1, 75) ] [ (5, 4, 75) is resting on 2 bricks
+	Supported brick 1084 [ (5, 1, 75) ] [ (5, 4, 75) is resting on 2 bricks
+Brick 1363 [ (6, 2, 75) ] [ (6, 5, 75) supporting 1 bricks
+	Supported brick 1084 [ (6, 2, 75) ] [ (6, 5, 75) is resting on 2 bricks
+Brick 1001 [ (0, 6, 80) ] [ (1, 6, 80) supporting 2 bricks
+	Supported brick 356 [ (0, 6, 80) ] [ (1, 6, 80) is resting on 1 bricks
+	Supported brick 1210 [ (0, 6, 80) ] [ (1, 6, 80) is resting on 1 bricks
+Brick 634 [ (3, 3, 77) ] [ (3, 3, 78) supporting 1 bricks
+	Supported brick 707 [ (3, 3, 77) ] [ (3, 3, 78) is resting on 1 bricks
+Brick 1214 [ (1, 7, 81) ] [ (1, 7, 83) supporting 0 bricks
+Brick 1084 [ (5, 2, 76) ] [ (7, 2, 76) supporting 1 bricks
+	Supported brick 842 [ (5, 2, 76) ] [ (7, 2, 76) is resting on 1 bricks
+Brick 54 [ (6, 9, 78) ] [ (9, 9, 78) supporting 2 bricks
+	Supported brick 12 [ (6, 9, 78) ] [ (9, 9, 78) is resting on 1 bricks
+	Supported brick 758 [ (6, 9, 78) ] [ (9, 9, 78) is resting on 1 bricks
+Brick 283 [ (2, 2, 78) ] [ (2, 3, 78) supporting 1 bricks
+	Supported brick 872 [ (2, 2, 78) ] [ (2, 3, 78) is resting on 1 bricks
+Brick 967 [ (4, 1, 76) ] [ (6, 1, 76) supporting 0 bricks
+Brick 356 [ (0, 5, 81) ] [ (0, 6, 81) supporting 1 bricks
+	Supported brick 709 [ (0, 5, 81) ] [ (0, 6, 81) is resting on 1 bricks
+Brick 1090 [ (3, 0, 77) ] [ (3, 1, 77) supporting 0 bricks
+Brick 758 [ (8, 7, 79) ] [ (8, 9, 79) supporting 1 bricks
+	Supported brick 1000 [ (8, 7, 79) ] [ (8, 9, 79) is resting on 2 bricks
+Brick 998 [ (3, 6, 77) ] [ (3, 8, 77) supporting 0 bricks
+Brick 1210 [ (1, 5, 81) ] [ (1, 6, 81) supporting 1 bricks
+	Supported brick 111 [ (1, 5, 81) ] [ (1, 6, 81) is resting on 1 bricks
+Brick 1320 [ (4, 5, 77) ] [ (4, 7, 77) supporting 2 bricks
+	Supported brick 467 [ (4, 5, 77) ] [ (4, 7, 77) is resting on 1 bricks
+	Supported brick 310 [ (4, 5, 77) ] [ (4, 7, 77) is resting on 1 bricks
+Brick 12 [ (7, 6, 79) ] [ (7, 9, 79) supporting 2 bricks
+	Supported brick 1119 [ (7, 6, 79) ] [ (7, 9, 79) is resting on 1 bricks
+	Supported brick 1000 [ (7, 6, 79) ] [ (7, 9, 79) is resting on 2 bricks
+Brick 872 [ (2, 2, 79) ] [ (2, 3, 79) supporting 1 bricks
+	Supported brick 18 [ (2, 2, 79) ] [ (2, 3, 79) is resting on 1 bricks
+Brick 111 [ (1, 6, 82) ] [ (1, 6, 85) supporting 1 bricks
+	Supported brick 965 [ (1, 6, 82) ] [ (1, 6, 85) is resting on 1 bricks
+Brick 1000 [ (7, 8, 80) ] [ (9, 8, 80) supporting 1 bricks
+	Supported brick 640 [ (7, 8, 80) ] [ (9, 8, 80) is resting on 1 bricks
+Brick 842 [ (7, 2, 77) ] [ (9, 2, 77) supporting 3 bricks
+	Supported brick 1355 [ (7, 2, 77) ] [ (9, 2, 77) is resting on 1 bricks
+	Supported brick 1078 [ (7, 2, 77) ] [ (9, 2, 77) is resting on 1 bricks
+	Supported brick 1174 [ (7, 2, 77) ] [ (9, 2, 77) is resting on 1 bricks
+Brick 310 [ (4, 7, 78) ] [ (4, 8, 78) supporting 1 bricks
+	Supported brick 47 [ (4, 7, 78) ] [ (4, 8, 78) is resting on 2 bricks
+Brick 18 [ (2, 0, 80) ] [ (2, 2, 80) supporting 1 bricks
+	Supported brick 435 [ (2, 0, 80) ] [ (2, 2, 80) is resting on 1 bricks
+Brick 467 [ (3, 5, 78) ] [ (6, 5, 78) supporting 2 bricks
+	Supported brick 47 [ (3, 5, 78) ] [ (6, 5, 78) is resting on 2 bricks
+	Supported brick 534 [ (3, 5, 78) ] [ (6, 5, 78) is resting on 1 bricks
+Brick 707 [ (3, 1, 79) ] [ (3, 3, 79) supporting 1 bricks
+	Supported brick 70 [ (3, 1, 79) ] [ (3, 3, 79) is resting on 2 bricks
+Brick 534 [ (5, 5, 79) ] [ (5, 7, 79) supporting 0 bricks
+Brick 47 [ (4, 5, 79) ] [ (4, 7, 79) supporting 1 bricks
+	Supported brick 1396 [ (4, 5, 79) ] [ (4, 7, 79) is resting on 1 bricks
+Brick 1355 [ (4, 2, 78) ] [ (7, 2, 78) supporting 0 bricks
+Brick 709 [ (0, 5, 82) ] [ (0, 7, 82) supporting 1 bricks
+	Supported brick 174 [ (0, 5, 82) ] [ (0, 7, 82) is resting on 1 bricks
+Brick 174 [ (0, 4, 83) ] [ (0, 7, 83) supporting 1 bricks
+	Supported brick 1400 [ (0, 4, 83) ] [ (0, 7, 83) is resting on 1 bricks
+Brick 1119 [ (6, 6, 80) ] [ (7, 6, 80) supporting 0 bricks
+Brick 70 [ (3, 3, 80) ] [ (3, 5, 80) supporting 1 bricks
+	Supported brick 1324 [ (3, 3, 80) ] [ (3, 5, 80) is resting on 2 bricks
+Brick 1174 [ (9, 1, 78) ] [ (9, 3, 78) supporting 1 bricks
+	Supported brick 361 [ (9, 1, 78) ] [ (9, 3, 78) is resting on 1 bricks
+Brick 1396 [ (2, 7, 80) ] [ (4, 7, 80) supporting 2 bricks
+	Supported brick 1324 [ (2, 7, 80) ] [ (4, 7, 80) is resting on 2 bricks
+	Supported brick 1351 [ (2, 7, 80) ] [ (4, 7, 80) is resting on 1 bricks
+Brick 640 [ (8, 6, 81) ] [ (8, 9, 81) supporting 2 bricks
+	Supported brick 149 [ (8, 6, 81) ] [ (8, 9, 81) is resting on 1 bricks
+	Supported brick 783 [ (8, 6, 81) ] [ (8, 9, 81) is resting on 1 bricks
+Brick 1078 [ (8, 1, 78) ] [ (8, 3, 78) supporting 2 bricks
+	Supported brick 1382 [ (8, 1, 78) ] [ (8, 3, 78) is resting on 1 bricks
+	Supported brick 596 [ (8, 1, 78) ] [ (8, 3, 78) is resting on 1 bricks
+Brick 435 [ (2, 1, 81) ] [ (5, 1, 81) supporting 2 bricks
+	Supported brick 690 [ (2, 1, 81) ] [ (5, 1, 81) is resting on 1 bricks
+	Supported brick 1386 [ (2, 1, 81) ] [ (5, 1, 81) is resting on 1 bricks
+Brick 1382 [ (8, 2, 79) ] [ (8, 2, 82) supporting 0 bricks
+Brick 149 [ (5, 9, 82) ] [ (8, 9, 82) supporting 1 bricks
+	Supported brick 677 [ (5, 9, 82) ] [ (8, 9, 82) is resting on 1 bricks
+Brick 1400 [ (0, 7, 84) ] [ (0, 7, 84) supporting 0 bricks
+Brick 1324 [ (3, 5, 81) ] [ (3, 7, 81) supporting 1 bricks
+	Supported brick 463 [ (3, 5, 81) ] [ (3, 7, 81) is resting on 2 bricks
+Brick 690 [ (2, 0, 82) ] [ (2, 3, 82) supporting 2 bricks
+	Supported brick 724 [ (2, 0, 82) ] [ (2, 3, 82) is resting on 1 bricks
+	Supported brick 975 [ (2, 0, 82) ] [ (2, 3, 82) is resting on 1 bricks
+Brick 965 [ (1, 5, 86) ] [ (1, 8, 86) supporting 0 bricks
+Brick 596 [ (8, 3, 79) ] [ (8, 3, 82) supporting 0 bricks
+Brick 1351 [ (4, 6, 81) ] [ (4, 8, 81) supporting 2 bricks
+	Supported brick 380 [ (4, 6, 81) ] [ (4, 8, 81) is resting on 1 bricks
+	Supported brick 463 [ (4, 6, 81) ] [ (4, 8, 81) is resting on 2 bricks
+Brick 783 [ (8, 5, 82) ] [ (8, 7, 82) supporting 1 bricks
+	Supported brick 281 [ (8, 5, 82) ] [ (8, 7, 82) is resting on 1 bricks
+Brick 724 [ (2, 0, 83) ] [ (4, 0, 83) supporting 1 bricks
+	Supported brick 1148 [ (2, 0, 83) ] [ (4, 0, 83) is resting on 1 bricks
+Brick 1386 [ (3, 1, 82) ] [ (5, 1, 82) supporting 3 bricks
+	Supported brick 1178 [ (3, 1, 82) ] [ (5, 1, 82) is resting on 1 bricks
+	Supported brick 918 [ (3, 1, 82) ] [ (5, 1, 82) is resting on 1 bricks
+	Supported brick 399 [ (3, 1, 82) ] [ (5, 1, 82) is resting on 1 bricks
+Brick 361 [ (9, 3, 79) ] [ (9, 3, 81) supporting 1 bricks
+	Supported brick 620 [ (9, 3, 79) ] [ (9, 3, 81) is resting on 1 bricks
+Brick 677 [ (5, 9, 83) ] [ (7, 9, 83) supporting 0 bricks
+Brick 463 [ (3, 7, 82) ] [ (5, 7, 82) supporting 1 bricks
+	Supported brick 315 [ (3, 7, 82) ] [ (5, 7, 82) is resting on 2 bricks
+Brick 1178 [ (3, 1, 83) ] [ (3, 1, 83) supporting 0 bricks
+Brick 918 [ (4, 1, 83) ] [ (4, 3, 83) supporting 2 bricks
+	Supported brick 884 [ (4, 1, 83) ] [ (4, 3, 83) is resting on 1 bricks
+	Supported brick 951 [ (4, 1, 83) ] [ (4, 3, 83) is resting on 1 bricks
+Brick 975 [ (2, 2, 83) ] [ (2, 5, 83) supporting 0 bricks
+Brick 1148 [ (2, 0, 84) ] [ (2, 0, 86) supporting 0 bricks
+Brick 380 [ (2, 8, 82) ] [ (4, 8, 82) supporting 2 bricks
+	Supported brick 242 [ (2, 8, 82) ] [ (4, 8, 82) is resting on 1 bricks
+	Supported brick 315 [ (2, 8, 82) ] [ (4, 8, 82) is resting on 2 bricks
+Brick 884 [ (3, 2, 84) ] [ (6, 2, 84) supporting 1 bricks
+	Supported brick 775 [ (3, 2, 84) ] [ (6, 2, 84) is resting on 1 bricks
+Brick 399 [ (5, 0, 83) ] [ (5, 1, 83) supporting 1 bricks
+	Supported brick 1367 [ (5, 0, 83) ] [ (5, 1, 83) is resting on 1 bricks
+Brick 281 [ (8, 6, 83) ] [ (8, 8, 83) supporting 1 bricks
+	Supported brick 537 [ (8, 6, 83) ] [ (8, 8, 83) is resting on 1 bricks
+Brick 951 [ (4, 3, 84) ] [ (7, 3, 84) supporting 2 bricks
+	Supported brick 691 [ (4, 3, 84) ] [ (7, 3, 84) is resting on 1 bricks
+	Supported brick 796 [ (4, 3, 84) ] [ (7, 3, 84) is resting on 1 bricks
+Brick 796 [ (7, 2, 85) ] [ (7, 5, 85) supporting 1 bricks
+	Supported brick 180 [ (7, 2, 85) ] [ (7, 5, 85) is resting on 1 bricks
+Brick 691 [ (4, 3, 85) ] [ (6, 3, 85) supporting 1 bricks
+	Supported brick 695 [ (4, 3, 85) ] [ (6, 3, 85) is resting on 1 bricks
+Brick 775 [ (2, 2, 85) ] [ (3, 2, 85) supporting 1 bricks
+	Supported brick 363 [ (2, 2, 85) ] [ (3, 2, 85) is resting on 1 bricks
+Brick 1367 [ (5, 0, 84) ] [ (7, 0, 84) supporting 2 bricks
+	Supported brick 598 [ (5, 0, 84) ] [ (7, 0, 84) is resting on 1 bricks
+	Supported brick 249 [ (5, 0, 84) ] [ (7, 0, 84) is resting on 1 bricks
+Brick 620 [ (9, 3, 82) ] [ (9, 6, 82) supporting 1 bricks
+	Supported brick 1280 [ (9, 3, 82) ] [ (9, 6, 82) is resting on 1 bricks
+Brick 242 [ (2, 7, 83) ] [ (2, 9, 83) supporting 2 bricks
+	Supported brick 605 [ (2, 7, 83) ] [ (2, 9, 83) is resting on 2 bricks
+	Supported brick 509 [ (2, 7, 83) ] [ (2, 9, 83) is resting on 1 bricks
+Brick 537 [ (7, 8, 84) ] [ (8, 8, 84) supporting 1 bricks
+	Supported brick 773 [ (7, 8, 84) ] [ (8, 8, 84) is resting on 1 bricks
+Brick 315 [ (4, 7, 83) ] [ (4, 8, 83) supporting 1 bricks
+	Supported brick 605 [ (4, 7, 83) ] [ (4, 8, 83) is resting on 2 bricks
+Brick 598 [ (3, 0, 85) ] [ (5, 0, 85) supporting 1 bricks
+	Supported brick 1173 [ (3, 0, 85) ] [ (5, 0, 85) is resting on 1 bricks
+Brick 180 [ (5, 4, 86) ] [ (7, 4, 86) supporting 1 bricks
+	Supported brick 340 [ (5, 4, 86) ] [ (7, 4, 86) is resting on 1 bricks
+Brick 509 [ (2, 9, 84) ] [ (2, 9, 86) supporting 1 bricks
+	Supported brick 946 [ (2, 9, 84) ] [ (2, 9, 86) is resting on 1 bricks
+Brick 1280 [ (9, 5, 83) ] [ (9, 6, 83) supporting 0 bricks
+Brick 605 [ (2, 8, 84) ] [ (5, 8, 84) supporting 0 bricks
+Brick 773 [ (8, 7, 85) ] [ (8, 9, 85) supporting 1 bricks
+	Supported brick 446 [ (8, 7, 85) ] [ (8, 9, 85) is resting on 1 bricks
+Brick 249 [ (7, 0, 85) ] [ (9, 0, 85) supporting 1 bricks
+	Supported brick 130 [ (7, 0, 85) ] [ (9, 0, 85) is resting on 1 bricks
+Brick 695 [ (2, 3, 86) ] [ (5, 3, 86) supporting 2 bricks
+	Supported brick 457 [ (2, 3, 86) ] [ (5, 3, 86) is resting on 1 bricks
+	Supported brick 1411 [ (2, 3, 86) ] [ (5, 3, 86) is resting on 1 bricks
+Brick 1173 [ (5, 0, 86) ] [ (5, 0, 88) supporting 0 bricks
+Brick 363 [ (3, 2, 86) ] [ (3, 2, 89) supporting 1 bricks
+	Supported brick 266 [ (3, 2, 86) ] [ (3, 2, 89) is resting on 1 bricks
+Brick 340 [ (5, 4, 87) ] [ (5, 6, 87) supporting 2 bricks
+	Supported brick 303 [ (5, 4, 87) ] [ (5, 6, 87) is resting on 1 bricks
+	Supported brick 615 [ (5, 4, 87) ] [ (5, 6, 87) is resting on 1 bricks
+Brick 446 [ (8, 7, 86) ] [ (8, 9, 86) supporting 2 bricks
+	Supported brick 2 [ (8, 7, 86) ] [ (8, 9, 86) is resting on 1 bricks
+	Supported brick 868 [ (8, 7, 86) ] [ (8, 9, 86) is resting on 1 bricks
+Brick 946 [ (2, 7, 87) ] [ (2, 9, 87) supporting 1 bricks
+	Supported brick 705 [ (2, 7, 87) ] [ (2, 9, 87) is resting on 1 bricks
+Brick 130 [ (7, 0, 86) ] [ (9, 0, 86) supporting 2 bricks
+	Supported brick 273 [ (7, 0, 86) ] [ (9, 0, 86) is resting on 1 bricks
+	Supported brick 44 [ (7, 0, 86) ] [ (9, 0, 86) is resting on 1 bricks
+Brick 2 [ (5, 9, 87) ] [ (8, 9, 87) supporting 2 bricks
+	Supported brick 844 [ (5, 9, 87) ] [ (8, 9, 87) is resting on 1 bricks
+	Supported brick 1267 [ (5, 9, 87) ] [ (8, 9, 87) is resting on 1 bricks
+Brick 273 [ (8, 0, 87) ] [ (8, 1, 87) supporting 1 bricks
+	Supported brick 1025 [ (8, 0, 87) ] [ (8, 1, 87) is resting on 1 bricks
+Brick 615 [ (5, 4, 88) ] [ (8, 4, 88) supporting 1 bricks
+	Supported brick 177 [ (5, 4, 88) ] [ (8, 4, 88) is resting on 1 bricks
+Brick 1411 [ (5, 3, 87) ] [ (6, 3, 87) supporting 2 bricks
+	Supported brick 578 [ (5, 3, 87) ] [ (6, 3, 87) is resting on 1 bricks
+	Supported brick 1412 [ (5, 3, 87) ] [ (6, 3, 87) is resting on 1 bricks
+Brick 705 [ (1, 8, 88) ] [ (2, 8, 88) supporting 1 bricks
+	Supported brick 1159 [ (1, 8, 88) ] [ (2, 8, 88) is resting on 1 bricks
+Brick 457 [ (2, 1, 87) ] [ (2, 3, 87) supporting 2 bricks
+	Supported brick 52 [ (2, 1, 87) ] [ (2, 3, 87) is resting on 1 bricks
+	Supported brick 880 [ (2, 1, 87) ] [ (2, 3, 87) is resting on 1 bricks
+Brick 44 [ (9, 0, 87) ] [ (9, 2, 87) supporting 0 bricks
+Brick 1267 [ (8, 9, 88) ] [ (8, 9, 88) supporting 0 bricks
+Brick 868 [ (7, 8, 87) ] [ (8, 8, 87) supporting 1 bricks
+	Supported brick 789 [ (7, 8, 87) ] [ (8, 8, 87) is resting on 1 bricks
+Brick 303 [ (4, 5, 88) ] [ (5, 5, 88) supporting 2 bricks
+	Supported brick 1057 [ (4, 5, 88) ] [ (5, 5, 88) is resting on 2 bricks
+	Supported brick 1038 [ (4, 5, 88) ] [ (5, 5, 88) is resting on 1 bricks
+Brick 52 [ (2, 1, 88) ] [ (5, 1, 88) supporting 3 bricks
+	Supported brick 239 [ (2, 1, 88) ] [ (5, 1, 88) is resting on 1 bricks
+	Supported brick 1135 [ (2, 1, 88) ] [ (5, 1, 88) is resting on 1 bricks
+	Supported brick 1392 [ (2, 1, 88) ] [ (5, 1, 88) is resting on 2 bricks
+Brick 1025 [ (8, 1, 88) ] [ (8, 1, 91) supporting 1 bricks
+	Supported brick 133 [ (8, 1, 88) ] [ (8, 1, 91) is resting on 1 bricks
+Brick 789 [ (8, 6, 88) ] [ (8, 8, 88) supporting 0 bricks
+Brick 578 [ (3, 3, 88) ] [ (5, 3, 88) supporting 1 bricks
+	Supported brick 1057 [ (3, 3, 88) ] [ (5, 3, 88) is resting on 2 bricks
+Brick 1412 [ (6, 1, 88) ] [ (6, 3, 88) supporting 1 bricks
+	Supported brick 1392 [ (6, 1, 88) ] [ (6, 3, 88) is resting on 2 bricks
+Brick 239 [ (2, 0, 89) ] [ (2, 1, 89) supporting 1 bricks
+	Supported brick 736 [ (2, 0, 89) ] [ (2, 1, 89) is resting on 1 bricks
+Brick 1159 [ (2, 7, 89) ] [ (2, 9, 89) supporting 1 bricks
+	Supported brick 780 [ (2, 7, 89) ] [ (2, 9, 89) is resting on 1 bricks
+Brick 844 [ (3, 9, 88) ] [ (5, 9, 88) supporting 0 bricks
+Brick 177 [ (5, 4, 89) ] [ (7, 4, 89) supporting 1 bricks
+	Supported brick 741 [ (5, 4, 89) ] [ (7, 4, 89) is resting on 1 bricks
+Brick 266 [ (1, 2, 90) ] [ (3, 2, 90) supporting 2 bricks
+	Supported brick 824 [ (1, 2, 90) ] [ (3, 2, 90) is resting on 1 bricks
+	Supported brick 488 [ (1, 2, 90) ] [ (3, 2, 90) is resting on 1 bricks
+Brick 1057 [ (4, 3, 89) ] [ (4, 6, 89) supporting 1 bricks
+	Supported brick 921 [ (4, 3, 89) ] [ (4, 6, 89) is resting on 1 bricks
+Brick 880 [ (2, 3, 88) ] [ (2, 5, 88) supporting 1 bricks
+	Supported brick 1305 [ (2, 3, 88) ] [ (2, 5, 88) is resting on 1 bricks
+Brick 736 [ (2, 0, 90) ] [ (2, 1, 90) supporting 0 bricks
+Brick 780 [ (2, 8, 90) ] [ (2, 9, 90) supporting 0 bricks
+Brick 1135 [ (4, 1, 89) ] [ (4, 1, 91) supporting 0 bricks
+Brick 1392 [ (5, 1, 89) ] [ (7, 1, 89) supporting 1 bricks
+	Supported brick 66 [ (5, 1, 89) ] [ (7, 1, 89) is resting on 1 bricks
+Brick 1038 [ (5, 5, 89) ] [ (6, 5, 89) supporting 1 bricks
+	Supported brick 51 [ (5, 5, 89) ] [ (6, 5, 89) is resting on 1 bricks
+Brick 51 [ (6, 5, 90) ] [ (8, 5, 90) supporting 1 bricks
+	Supported brick 1273 [ (6, 5, 90) ] [ (8, 5, 90) is resting on 1 bricks
+Brick 921 [ (2, 6, 90) ] [ (4, 6, 90) supporting 1 bricks
+	Supported brick 1163 [ (2, 6, 90) ] [ (4, 6, 90) is resting on 1 bricks
+Brick 824 [ (1, 2, 91) ] [ (1, 2, 92) supporting 0 bricks
+Brick 1305 [ (0, 3, 89) ] [ (2, 3, 89) supporting 1 bricks
+	Supported brick 875 [ (0, 3, 89) ] [ (2, 3, 89) is resting on 1 bricks
+Brick 1273 [ (5, 5, 91) ] [ (8, 5, 91) supporting 3 bricks
+	Supported brick 1216 [ (5, 5, 91) ] [ (8, 5, 91) is resting on 1 bricks
+	Supported brick 91 [ (5, 5, 91) ] [ (8, 5, 91) is resting on 1 bricks
+	Supported brick 94 [ (5, 5, 91) ] [ (8, 5, 91) is resting on 1 bricks
+Brick 741 [ (5, 3, 90) ] [ (5, 4, 90) supporting 0 bricks
+Brick 488 [ (2, 2, 91) ] [ (2, 5, 91) supporting 1 bricks
+	Supported brick 952 [ (2, 2, 91) ] [ (2, 5, 91) is resting on 1 bricks
+Brick 1163 [ (2, 6, 91) ] [ (4, 6, 91) supporting 0 bricks
+Brick 91 [ (7, 5, 92) ] [ (7, 7, 92) supporting 1 bricks
+	Supported brick 398 [ (7, 5, 92) ] [ (7, 7, 92) is resting on 1 bricks
+Brick 1216 [ (5, 5, 92) ] [ (5, 7, 92) supporting 1 bricks
+	Supported brick 1170 [ (5, 5, 92) ] [ (5, 7, 92) is resting on 1 bricks
+Brick 66 [ (5, 1, 90) ] [ (7, 1, 90) supporting 1 bricks
+	Supported brick 897 [ (5, 1, 90) ] [ (7, 1, 90) is resting on 1 bricks
+Brick 94 [ (8, 5, 92) ] [ (8, 7, 92) supporting 1 bricks
+	Supported brick 40 [ (8, 5, 92) ] [ (8, 7, 92) is resting on 1 bricks
+Brick 875 [ (0, 0, 90) ] [ (0, 3, 90) supporting 1 bricks
+	Supported brick 989 [ (0, 0, 90) ] [ (0, 3, 90) is resting on 1 bricks
+Brick 897 [ (5, 1, 91) ] [ (5, 1, 93) supporting 0 bricks
+Brick 952 [ (2, 3, 92) ] [ (4, 3, 92) supporting 2 bricks
+	Supported brick 990 [ (2, 3, 92) ] [ (4, 3, 92) is resting on 1 bricks
+	Supported brick 455 [ (2, 3, 92) ] [ (4, 3, 92) is resting on 1 bricks
+Brick 398 [ (7, 7, 93) ] [ (7, 8, 93) supporting 2 bricks
+	Supported brick 29 [ (7, 7, 93) ] [ (7, 8, 93) is resting on 1 bricks
+	Supported brick 812 [ (7, 7, 93) ] [ (7, 8, 93) is resting on 1 bricks
+Brick 1170 [ (5, 5, 93) ] [ (5, 7, 93) supporting 0 bricks
+Brick 989 [ (0, 0, 91) ] [ (1, 0, 91) supporting 1 bricks
+	Supported brick 856 [ (0, 0, 91) ] [ (1, 0, 91) is resting on 1 bricks
+Brick 40 [ (8, 5, 93) ] [ (8, 7, 93) supporting 0 bricks
+Brick 133 [ (7, 1, 92) ] [ (9, 1, 92) supporting 0 bricks
+Brick 455 [ (4, 3, 93) ] [ (4, 5, 93) supporting 1 bricks
+	Supported brick 191 [ (4, 3, 93) ] [ (4, 5, 93) is resting on 1 bricks
+Brick 990 [ (2, 2, 93) ] [ (2, 5, 93) supporting 2 bricks
+	Supported brick 898 [ (2, 2, 93) ] [ (2, 5, 93) is resting on 1 bricks
+	Supported brick 292 [ (2, 2, 93) ] [ (2, 5, 93) is resting on 1 bricks
+Brick 856 [ (0, 0, 92) ] [ (0, 0, 94) supporting 1 bricks
+	Supported brick 1406 [ (0, 0, 92) ] [ (0, 0, 94) is resting on 1 bricks
+Brick 29 [ (5, 8, 94) ] [ (7, 8, 94) supporting 2 bricks
+	Supported brick 164 [ (5, 8, 94) ] [ (7, 8, 94) is resting on 1 bricks
+	Supported brick 344 [ (5, 8, 94) ] [ (7, 8, 94) is resting on 1 bricks
+Brick 191 [ (3, 4, 94) ] [ (5, 4, 94) supporting 2 bricks
+	Supported brick 77 [ (3, 4, 94) ] [ (5, 4, 94) is resting on 2 bricks
+	Supported brick 302 [ (3, 4, 94) ] [ (5, 4, 94) is resting on 1 bricks
+Brick 812 [ (7, 7, 94) ] [ (7, 7, 96) supporting 1 bricks
+	Supported brick 1407 [ (7, 7, 94) ] [ (7, 7, 96) is resting on 2 bricks
+Brick 164 [ (3, 8, 95) ] [ (5, 8, 95) supporting 0 bricks
+Brick 292 [ (2, 4, 94) ] [ (2, 6, 94) supporting 1 bricks
+	Supported brick 77 [ (2, 4, 94) ] [ (2, 6, 94) is resting on 2 bricks
+Brick 344 [ (6, 8, 95) ] [ (8, 8, 95) supporting 1 bricks
+	Supported brick 756 [ (6, 8, 95) ] [ (8, 8, 95) is resting on 1 bricks
+Brick 898 [ (2, 2, 94) ] [ (4, 2, 94) supporting 1 bricks
+	Supported brick 994 [ (2, 2, 94) ] [ (4, 2, 94) is resting on 1 bricks
+Brick 77 [ (1, 4, 95) ] [ (3, 4, 95) supporting 2 bricks
+	Supported brick 594 [ (1, 4, 95) ] [ (3, 4, 95) is resting on 1 bricks
+	Supported brick 787 [ (1, 4, 95) ] [ (3, 4, 95) is resting on 2 bricks
+Brick 302 [ (5, 4, 95) ] [ (5, 6, 95) supporting 1 bricks
+	Supported brick 787 [ (5, 4, 95) ] [ (5, 6, 95) is resting on 2 bricks
+Brick 787 [ (2, 4, 96) ] [ (5, 4, 96) supporting 2 bricks
+	Supported brick 1250 [ (2, 4, 96) ] [ (5, 4, 96) is resting on 2 bricks
+	Supported brick 825 [ (2, 4, 96) ] [ (5, 4, 96) is resting on 1 bricks
+Brick 1406 [ (0, 0, 95) ] [ (0, 0, 95) supporting 0 bricks
+Brick 825 [ (4, 3, 97) ] [ (4, 6, 97) supporting 0 bricks
+Brick 756 [ (6, 7, 96) ] [ (6, 8, 96) supporting 1 bricks
+	Supported brick 1407 [ (6, 7, 96) ] [ (6, 8, 96) is resting on 2 bricks
+Brick 994 [ (4, 2, 95) ] [ (7, 2, 95) supporting 2 bricks
+	Supported brick 584 [ (4, 2, 95) ] [ (7, 2, 95) is resting on 1 bricks
+	Supported brick 999 [ (4, 2, 95) ] [ (7, 2, 95) is resting on 1 bricks
+Brick 594 [ (1, 4, 96) ] [ (1, 7, 96) supporting 3 bricks
+	Supported brick 322 [ (1, 4, 96) ] [ (1, 7, 96) is resting on 1 bricks
+	Supported brick 1106 [ (1, 4, 96) ] [ (1, 7, 96) is resting on 1 bricks
+	Supported brick 135 [ (1, 4, 96) ] [ (1, 7, 96) is resting on 1 bricks
+Brick 1106 [ (0, 6, 97) ] [ (3, 6, 97) supporting 0 bricks
+Brick 999 [ (7, 2, 96) ] [ (7, 6, 96) supporting 2 bricks
+	Supported brick 450 [ (7, 2, 96) ] [ (7, 6, 96) is resting on 1 bricks
+	Supported brick 1212 [ (7, 2, 96) ] [ (7, 6, 96) is resting on 1 bricks
+Brick 322 [ (0, 5, 97) ] [ (1, 5, 97) supporting 1 bricks
+	Supported brick 118 [ (0, 5, 97) ] [ (1, 5, 97) is resting on 1 bricks
+Brick 1407 [ (6, 7, 97) ] [ (8, 7, 97) supporting 1 bricks
+	Supported brick 863 [ (6, 7, 97) ] [ (8, 7, 97) is resting on 1 bricks
+Brick 135 [ (1, 7, 97) ] [ (1, 9, 97) supporting 0 bricks
+Brick 863 [ (7, 7, 98) ] [ (7, 7, 98) supporting 0 bricks
+Brick 584 [ (2, 2, 96) ] [ (4, 2, 96) supporting 1 bricks
+	Supported brick 1250 [ (2, 2, 96) ] [ (4, 2, 96) is resting on 2 bricks
+Brick 450 [ (6, 5, 97) ] [ (8, 5, 97) supporting 1 bricks
+	Supported brick 613 [ (6, 5, 97) ] [ (8, 5, 97) is resting on 1 bricks
+Brick 1250 [ (2, 2, 97) ] [ (2, 4, 97) supporting 2 bricks
+	Supported brick 192 [ (2, 2, 97) ] [ (2, 4, 97) is resting on 1 bricks
+	Supported brick 1092 [ (2, 2, 97) ] [ (2, 4, 97) is resting on 1 bricks
+Brick 118 [ (1, 5, 98) ] [ (1, 5, 100) supporting 0 bricks
+Brick 192 [ (0, 4, 98) ] [ (2, 4, 98) supporting 1 bricks
+	Supported brick 482 [ (0, 4, 98) ] [ (2, 4, 98) is resting on 1 bricks
+Brick 1212 [ (7, 3, 97) ] [ (9, 3, 97) supporting 2 bricks
+	Supported brick 432 [ (7, 3, 97) ] [ (9, 3, 97) is resting on 1 bricks
+	Supported brick 1124 [ (7, 3, 97) ] [ (9, 3, 97) is resting on 1 bricks
+Brick 1124 [ (9, 2, 98) ] [ (9, 4, 98) supporting 2 bricks
+	Supported brick 688 [ (9, 2, 98) ] [ (9, 4, 98) is resting on 1 bricks
+	Supported brick 948 [ (9, 2, 98) ] [ (9, 4, 98) is resting on 1 bricks
+Brick 1092 [ (2, 2, 98) ] [ (4, 2, 98) supporting 2 bricks
+	Supported brick 642 [ (2, 2, 98) ] [ (4, 2, 98) is resting on 1 bricks
+	Supported brick 79 [ (2, 2, 98) ] [ (4, 2, 98) is resting on 1 bricks
+Brick 432 [ (5, 3, 98) ] [ (7, 3, 98) supporting 1 bricks
+	Supported brick 1336 [ (5, 3, 98) ] [ (7, 3, 98) is resting on 1 bricks
+Brick 613 [ (8, 5, 98) ] [ (8, 5, 100) supporting 1 bricks
+	Supported brick 1344 [ (8, 5, 98) ] [ (8, 5, 100) is resting on 1 bricks
+Brick 482 [ (0, 3, 99) ] [ (0, 5, 99) supporting 1 bricks
+	Supported brick 1358 [ (0, 3, 99) ] [ (0, 5, 99) is resting on 1 bricks
+Brick 1336 [ (6, 1, 99) ] [ (6, 4, 99) supporting 3 bricks
+	Supported brick 194 [ (6, 1, 99) ] [ (6, 4, 99) is resting on 1 bricks
+	Supported brick 1223 [ (6, 1, 99) ] [ (6, 4, 99) is resting on 1 bricks
+	Supported brick 1005 [ (6, 1, 99) ] [ (6, 4, 99) is resting on 1 bricks
+Brick 688 [ (9, 0, 99) ] [ (9, 2, 99) supporting 1 bricks
+	Supported brick 65 [ (9, 0, 99) ] [ (9, 2, 99) is resting on 1 bricks
+Brick 1005 [ (6, 3, 100) ] [ (6, 5, 100) supporting 2 bricks
+	Supported brick 637 [ (6, 3, 100) ] [ (6, 5, 100) is resting on 1 bricks
+	Supported brick 669 [ (6, 3, 100) ] [ (6, 5, 100) is resting on 1 bricks
+Brick 1358 [ (0, 3, 100) ] [ (2, 3, 100) supporting 1 bricks
+	Supported brick 950 [ (0, 3, 100) ] [ (2, 3, 100) is resting on 1 bricks
+Brick 948 [ (9, 3, 99) ] [ (9, 4, 99) supporting 1 bricks
+	Supported brick 530 [ (9, 3, 99) ] [ (9, 4, 99) is resting on 1 bricks
+Brick 642 [ (2, 0, 99) ] [ (2, 2, 99) supporting 1 bricks
+	Supported brick 1239 [ (2, 0, 99) ] [ (2, 2, 99) is resting on 1 bricks
+Brick 65 [ (9, 0, 100) ] [ (9, 0, 100) supporting 0 bricks
+Brick 79 [ (4, 2, 99) ] [ (4, 4, 99) supporting 1 bricks
+	Supported brick 942 [ (4, 2, 99) ] [ (4, 4, 99) is resting on 1 bricks
+Brick 637 [ (5, 3, 101) ] [ (6, 3, 101) supporting 1 bricks
+	Supported brick 827 [ (5, 3, 101) ] [ (6, 3, 101) is resting on 1 bricks
+Brick 194 [ (5, 2, 100) ] [ (7, 2, 100) supporting 1 bricks
+	Supported brick 991 [ (5, 2, 100) ] [ (7, 2, 100) is resting on 2 bricks
+Brick 530 [ (9, 3, 100) ] [ (9, 4, 100) supporting 1 bricks
+	Supported brick 158 [ (9, 3, 100) ] [ (9, 4, 100) is resting on 1 bricks
+Brick 1223 [ (6, 1, 100) ] [ (7, 1, 100) supporting 1 bricks
+	Supported brick 991 [ (6, 1, 100) ] [ (7, 1, 100) is resting on 2 bricks
+Brick 1239 [ (0, 1, 100) ] [ (2, 1, 100) supporting 0 bricks
+Brick 1344 [ (8, 3, 101) ] [ (8, 6, 101) supporting 3 bricks
+	Supported brick 1093 [ (8, 3, 101) ] [ (8, 6, 101) is resting on 2 bricks
+	Supported brick 43 [ (8, 3, 101) ] [ (8, 6, 101) is resting on 1 bricks
+	Supported brick 784 [ (8, 3, 101) ] [ (8, 6, 101) is resting on 1 bricks
+Brick 950 [ (2, 3, 101) ] [ (4, 3, 101) supporting 0 bricks
+Brick 669 [ (6, 5, 101) ] [ (6, 6, 101) supporting 2 bricks
+	Supported brick 95 [ (6, 5, 101) ] [ (6, 6, 101) is resting on 1 bricks
+	Supported brick 1093 [ (6, 5, 101) ] [ (6, 6, 101) is resting on 2 bricks
+Brick 942 [ (3, 4, 100) ] [ (4, 4, 100) supporting 1 bricks
+	Supported brick 491 [ (3, 4, 100) ] [ (4, 4, 100) is resting on 1 bricks
+Brick 158 [ (9, 3, 101) ] [ (9, 3, 101) supporting 0 bricks
+Brick 43 [ (8, 1, 102) ] [ (8, 3, 102) supporting 1 bricks
+	Supported brick 1023 [ (8, 1, 102) ] [ (8, 3, 102) is resting on 1 bricks
+Brick 827 [ (5, 3, 102) ] [ (5, 4, 102) supporting 1 bricks
+	Supported brick 100 [ (5, 3, 102) ] [ (5, 4, 102) is resting on 1 bricks
+Brick 991 [ (7, 0, 101) ] [ (7, 2, 101) supporting 1 bricks
+	Supported brick 940 [ (7, 0, 101) ] [ (7, 2, 101) is resting on 1 bricks
+Brick 784 [ (8, 6, 102) ] [ (8, 6, 103) supporting 0 bricks
+Brick 1023 [ (8, 2, 103) ] [ (8, 2, 104) supporting 0 bricks
+Brick 95 [ (4, 6, 102) ] [ (6, 6, 102) supporting 2 bricks
+	Supported brick 171 [ (4, 6, 102) ] [ (6, 6, 102) is resting on 1 bricks
+	Supported brick 211 [ (4, 6, 102) ] [ (6, 6, 102) is resting on 2 bricks
+Brick 491 [ (3, 4, 101) ] [ (3, 6, 101) supporting 2 bricks
+	Supported brick 618 [ (3, 4, 101) ] [ (3, 6, 101) is resting on 1 bricks
+	Supported brick 1087 [ (3, 4, 101) ] [ (3, 6, 101) is resting on 1 bricks
+Brick 1093 [ (6, 5, 102) ] [ (9, 5, 102) supporting 3 bricks
+	Supported brick 211 [ (6, 5, 102) ] [ (9, 5, 102) is resting on 2 bricks
+	Supported brick 627 [ (6, 5, 102) ] [ (9, 5, 102) is resting on 1 bricks
+	Supported brick 305 [ (6, 5, 102) ] [ (9, 5, 102) is resting on 1 bricks
+Brick 940 [ (5, 2, 102) ] [ (7, 2, 102) supporting 2 bricks
+	Supported brick 708 [ (5, 2, 102) ] [ (7, 2, 102) is resting on 1 bricks
+	Supported brick 1198 [ (5, 2, 102) ] [ (7, 2, 102) is resting on 1 bricks
+Brick 100 [ (5, 3, 103) ] [ (5, 3, 105) supporting 0 bricks
+Brick 211 [ (6, 3, 103) ] [ (6, 7, 103) supporting 3 bricks
+	Supported brick 1275 [ (6, 3, 103) ] [ (6, 7, 103) is resting on 2 bricks
+	Supported brick 1242 [ (6, 3, 103) ] [ (6, 7, 103) is resting on 1 bricks
+	Supported brick 1225 [ (6, 3, 103) ] [ (6, 7, 103) is resting on 1 bricks
+Brick 305 [ (9, 5, 103) ] [ (9, 6, 103) supporting 2 bricks
+	Supported brick 230 [ (9, 5, 103) ] [ (9, 6, 103) is resting on 1 bricks
+	Supported brick 1044 [ (9, 5, 103) ] [ (9, 6, 103) is resting on 1 bricks
+Brick 1198 [ (7, 1, 103) ] [ (7, 2, 103) supporting 0 bricks
+Brick 1087 [ (2, 5, 102) ] [ (3, 5, 102) supporting 0 bricks
+Brick 230 [ (9, 4, 104) ] [ (9, 5, 104) supporting 1 bricks
+	Supported brick 81 [ (9, 4, 104) ] [ (9, 5, 104) is resting on 2 bricks
+Brick 618 [ (1, 4, 102) ] [ (4, 4, 102) supporting 1 bricks
+	Supported brick 53 [ (1, 4, 102) ] [ (4, 4, 102) is resting on 1 bricks
+Brick 171 [ (4, 5, 103) ] [ (4, 7, 103) supporting 2 bricks
+	Supported brick 623 [ (4, 5, 103) ] [ (4, 7, 103) is resting on 1 bricks
+	Supported brick 600 [ (4, 5, 103) ] [ (4, 7, 103) is resting on 1 bricks
+Brick 1242 [ (6, 4, 104) ] [ (8, 4, 104) supporting 1 bricks
+	Supported brick 811 [ (6, 4, 104) ] [ (8, 4, 104) is resting on 1 bricks
+Brick 708 [ (6, 0, 103) ] [ (6, 2, 103) supporting 2 bricks
+	Supported brick 9 [ (6, 0, 103) ] [ (6, 2, 103) is resting on 1 bricks
+	Supported brick 1275 [ (6, 0, 103) ] [ (6, 2, 103) is resting on 2 bricks
+Brick 627 [ (7, 5, 103) ] [ (7, 6, 103) supporting 0 bricks
+Brick 1275 [ (6, 2, 104) ] [ (6, 3, 104) supporting 0 bricks
+Brick 1044 [ (9, 6, 104) ] [ (9, 7, 104) supporting 1 bricks
+	Supported brick 81 [ (9, 6, 104) ] [ (9, 7, 104) is resting on 2 bricks
+Brick 1225 [ (6, 7, 104) ] [ (6, 8, 104) supporting 2 bricks
+	Supported brick 652 [ (6, 7, 104) ] [ (6, 8, 104) is resting on 1 bricks
+	Supported brick 1143 [ (6, 7, 104) ] [ (6, 8, 104) is resting on 1 bricks
+Brick 623 [ (2, 7, 104) ] [ (4, 7, 104) supporting 2 bricks
+	Supported brick 826 [ (2, 7, 104) ] [ (4, 7, 104) is resting on 1 bricks
+	Supported brick 260 [ (2, 7, 104) ] [ (4, 7, 104) is resting on 1 bricks
+Brick 53 [ (0, 4, 103) ] [ (2, 4, 103) supporting 1 bricks
+	Supported brick 80 [ (0, 4, 103) ] [ (2, 4, 103) is resting on 1 bricks
+Brick 652 [ (6, 7, 105) ] [ (6, 7, 107) supporting 1 bricks
+	Supported brick 1264 [ (6, 7, 105) ] [ (6, 7, 107) is resting on 1 bricks
+Brick 9 [ (4, 0, 104) ] [ (7, 0, 104) supporting 1 bricks
+	Supported brick 23 [ (4, 0, 104) ] [ (7, 0, 104) is resting on 1 bricks
+Brick 600 [ (4, 5, 104) ] [ (4, 6, 104) supporting 1 bricks
+	Supported brick 389 [ (4, 5, 104) ] [ (4, 6, 104) is resting on 1 bricks
+Brick 811 [ (7, 4, 105) ] [ (7, 4, 107) supporting 1 bricks
+	Supported brick 1166 [ (7, 4, 105) ] [ (7, 4, 107) is resting on 1 bricks
+Brick 81 [ (9, 5, 105) ] [ (9, 7, 105) supporting 1 bricks
+	Supported brick 845 [ (9, 5, 105) ] [ (9, 7, 105) is resting on 1 bricks
+Brick 1143 [ (6, 8, 105) ] [ (9, 8, 105) supporting 0 bricks
+Brick 826 [ (2, 7, 105) ] [ (2, 9, 105) supporting 1 bricks
+	Supported brick 913 [ (2, 7, 105) ] [ (2, 9, 105) is resting on 2 bricks
+Brick 389 [ (4, 6, 105) ] [ (6, 6, 105) supporting 0 bricks
+Brick 80 [ (1, 4, 104) ] [ (1, 5, 104) supporting 0 bricks
+Brick 260 [ (3, 7, 105) ] [ (4, 7, 105) supporting 1 bricks
+	Supported brick 913 [ (3, 7, 105) ] [ (4, 7, 105) is resting on 2 bricks
+Brick 913 [ (0, 7, 106) ] [ (3, 7, 106) supporting 4 bricks
+	Supported brick 267 [ (0, 7, 106) ] [ (3, 7, 106) is resting on 1 bricks
+	Supported brick 424 [ (0, 7, 106) ] [ (3, 7, 106) is resting on 1 bricks
+	Supported brick 1272 [ (0, 7, 106) ] [ (3, 7, 106) is resting on 1 bricks
+	Supported brick 253 [ (0, 7, 106) ] [ (3, 7, 106) is resting on 1 bricks
+Brick 1264 [ (5, 7, 108) ] [ (7, 7, 108) supporting 1 bricks
+	Supported brick 10 [ (5, 7, 108) ] [ (7, 7, 108) is resting on 1 bricks
+Brick 1166 [ (7, 2, 108) ] [ (7, 4, 108) supporting 1 bricks
+	Supported brick 1308 [ (7, 2, 108) ] [ (7, 4, 108) is resting on 1 bricks
+Brick 845 [ (6, 5, 106) ] [ (9, 5, 106) supporting 2 bricks
+	Supported brick 17 [ (6, 5, 106) ] [ (9, 5, 106) is resting on 1 bricks
+	Supported brick 6 [ (6, 5, 106) ] [ (9, 5, 106) is resting on 1 bricks
+Brick 23 [ (4, 0, 105) ] [ (7, 0, 105) supporting 1 bricks
+	Supported brick 553 [ (4, 0, 105) ] [ (7, 0, 105) is resting on 1 bricks
+Brick 553 [ (1, 0, 106) ] [ (4, 0, 106) supporting 1 bricks
+	Supported brick 622 [ (1, 0, 106) ] [ (4, 0, 106) is resting on 1 bricks
+Brick 10 [ (5, 7, 109) ] [ (5, 8, 109) supporting 1 bricks
+	Supported brick 963 [ (5, 7, 109) ] [ (5, 8, 109) is resting on 1 bricks
+Brick 424 [ (1, 7, 107) ] [ (1, 9, 107) supporting 0 bricks
+Brick 253 [ (3, 5, 107) ] [ (3, 8, 107) supporting 0 bricks
+Brick 963 [ (4, 8, 110) ] [ (7, 8, 110) supporting 2 bricks
+	Supported brick 828 [ (4, 8, 110) ] [ (7, 8, 110) is resting on 1 bricks
+	Supported brick 1361 [ (4, 8, 110) ] [ (7, 8, 110) is resting on 1 bricks
+Brick 6 [ (8, 5, 107) ] [ (8, 5, 109) supporting 1 bricks
+	Supported brick 1302 [ (8, 5, 107) ] [ (8, 5, 109) is resting on 1 bricks
+Brick 1272 [ (2, 6, 107) ] [ (2, 9, 107) supporting 1 bricks
+	Supported brick 541 [ (2, 6, 107) ] [ (2, 9, 107) is resting on 1 bricks
+Brick 267 [ (0, 6, 107) ] [ (0, 7, 107) supporting 1 bricks
+	Supported brick 137 [ (0, 6, 107) ] [ (0, 7, 107) is resting on 1 bricks
+Brick 17 [ (7, 5, 107) ] [ (7, 6, 107) supporting 1 bricks
+	Supported brick 1303 [ (7, 5, 107) ] [ (7, 6, 107) is resting on 1 bricks
+Brick 1308 [ (7, 1, 109) ] [ (7, 3, 109) supporting 3 bricks
+	Supported brick 1226 [ (7, 1, 109) ] [ (7, 3, 109) is resting on 1 bricks
+	Supported brick 1257 [ (7, 1, 109) ] [ (7, 3, 109) is resting on 1 bricks
+	Supported brick 442 [ (7, 1, 109) ] [ (7, 3, 109) is resting on 1 bricks
+Brick 828 [ (4, 5, 111) ] [ (4, 8, 111) supporting 1 bricks
+	Supported brick 1325 [ (4, 5, 111) ] [ (4, 8, 111) is resting on 1 bricks
+Brick 622 [ (2, 0, 107) ] [ (2, 2, 107) supporting 2 bricks
+	Supported brick 1234 [ (2, 0, 107) ] [ (2, 2, 107) is resting on 1 bricks
+	Supported brick 788 [ (2, 0, 107) ] [ (2, 2, 107) is resting on 1 bricks
+Brick 442 [ (6, 1, 110) ] [ (7, 1, 110) supporting 0 bricks
+Brick 1257 [ (5, 3, 110) ] [ (8, 3, 110) supporting 2 bricks
+	Supported brick 382 [ (5, 3, 110) ] [ (8, 3, 110) is resting on 2 bricks
+	Supported brick 823 [ (5, 3, 110) ] [ (8, 3, 110) is resting on 1 bricks
+Brick 1361 [ (7, 8, 111) ] [ (9, 8, 111) supporting 2 bricks
+	Supported brick 146 [ (7, 8, 111) ] [ (9, 8, 111) is resting on 1 bricks
+	Supported brick 1149 [ (7, 8, 111) ] [ (9, 8, 111) is resting on 1 bricks
+Brick 137 [ (0, 6, 108) ] [ (0, 9, 108) supporting 1 bricks
+	Supported brick 1202 [ (0, 6, 108) ] [ (0, 9, 108) is resting on 1 bricks
+Brick 1303 [ (7, 5, 108) ] [ (7, 6, 108) supporting 0 bricks
+Brick 541 [ (2, 5, 108) ] [ (2, 7, 108) supporting 2 bricks
+	Supported brick 1410 [ (2, 5, 108) ] [ (2, 7, 108) is resting on 1 bricks
+	Supported brick 590 [ (2, 5, 108) ] [ (2, 7, 108) is resting on 1 bricks
+Brick 1302 [ (8, 5, 110) ] [ (8, 7, 110) supporting 1 bricks
+	Supported brick 1261 [ (8, 5, 110) ] [ (8, 7, 110) is resting on 1 bricks
+Brick 1226 [ (5, 2, 110) ] [ (7, 2, 110) supporting 2 bricks
+	Supported brick 382 [ (5, 2, 110) ] [ (7, 2, 110) is resting on 2 bricks
+	Supported brick 202 [ (5, 2, 110) ] [ (7, 2, 110) is resting on 1 bricks
+Brick 146 [ (7, 7, 112) ] [ (7, 9, 112) supporting 1 bricks
+	Supported brick 1069 [ (7, 7, 112) ] [ (7, 9, 112) is resting on 1 bricks
+Brick 1149 [ (8, 8, 112) ] [ (8, 9, 112) supporting 0 bricks
+Brick 788 [ (2, 2, 108) ] [ (4, 2, 108) supporting 1 bricks
+	Supported brick 396 [ (2, 2, 108) ] [ (4, 2, 108) is resting on 1 bricks
+Brick 1234 [ (2, 1, 108) ] [ (3, 1, 108) supporting 1 bricks
+	Supported brick 1129 [ (2, 1, 108) ] [ (3, 1, 108) is resting on 1 bricks
+Brick 823 [ (8, 2, 111) ] [ (8, 4, 111) supporting 1 bricks
+	Supported brick 124 [ (8, 2, 111) ] [ (8, 4, 111) is resting on 1 bricks
+Brick 1325 [ (4, 8, 112) ] [ (4, 8, 115) supporting 0 bricks
+Brick 1261 [ (8, 5, 111) ] [ (8, 7, 111) supporting 0 bricks
+Brick 1202 [ (0, 9, 109) ] [ (0, 9, 111) supporting 1 bricks
+	Supported brick 754 [ (0, 9, 109) ] [ (0, 9, 111) is resting on 1 bricks
+Brick 396 [ (1, 2, 109) ] [ (2, 2, 109) supporting 1 bricks
+	Supported brick 212 [ (1, 2, 109) ] [ (2, 2, 109) is resting on 1 bricks
+Brick 202 [ (6, 2, 111) ] [ (7, 2, 111) supporting 0 bricks
+Brick 1129 [ (3, 0, 109) ] [ (3, 1, 109) supporting 1 bricks
+	Supported brick 60 [ (3, 0, 109) ] [ (3, 1, 109) is resting on 1 bricks
+Brick 382 [ (5, 2, 111) ] [ (5, 3, 111) supporting 2 bricks
+	Supported brick 1136 [ (5, 2, 111) ] [ (5, 3, 111) is resting on 1 bricks
+	Supported brick 109 [ (5, 2, 111) ] [ (5, 3, 111) is resting on 2 bricks
+Brick 1410 [ (1, 6, 109) ] [ (3, 6, 109) supporting 0 bricks
+Brick 1069 [ (7, 7, 113) ] [ (7, 9, 113) supporting 3 bricks
+	Supported brick 328 [ (7, 7, 113) ] [ (7, 9, 113) is resting on 1 bricks
+	Supported brick 1241 [ (7, 7, 113) ] [ (7, 9, 113) is resting on 1 bricks
+	Supported brick 1086 [ (7, 7, 113) ] [ (7, 9, 113) is resting on 1 bricks
+Brick 590 [ (2, 5, 109) ] [ (2, 5, 112) supporting 0 bricks
+Brick 328 [ (5, 7, 114) ] [ (7, 7, 114) supporting 0 bricks
+Brick 124 [ (8, 3, 112) ] [ (9, 3, 112) supporting 1 bricks
+	Supported brick 1153 [ (8, 3, 112) ] [ (9, 3, 112) is resting on 1 bricks
+Brick 1136 [ (3, 3, 112) ] [ (7, 3, 112) supporting 5 bricks
+	Supported brick 1403 [ (3, 3, 112) ] [ (7, 3, 112) is resting on 1 bricks
+	Supported brick 1024 [ (3, 3, 112) ] [ (7, 3, 112) is resting on 1 bricks
+	Supported brick 1222 [ (3, 3, 112) ] [ (7, 3, 112) is resting on 2 bricks
+	Supported brick 57 [ (3, 3, 112) ] [ (7, 3, 112) is resting on 1 bricks
+	Supported brick 633 [ (3, 3, 112) ] [ (7, 3, 112) is resting on 1 bricks
+Brick 1086 [ (7, 8, 114) ] [ (9, 8, 114) supporting 1 bricks
+	Supported brick 176 [ (7, 8, 114) ] [ (9, 8, 114) is resting on 1 bricks
+Brick 633 [ (7, 2, 113) ] [ (7, 6, 113) supporting 1 bricks
+	Supported brick 769 [ (7, 2, 113) ] [ (7, 6, 113) is resting on 1 bricks
+Brick 754 [ (0, 7, 112) ] [ (0, 9, 112) supporting 1 bricks
+	Supported brick 16 [ (0, 7, 112) ] [ (0, 9, 112) is resting on 1 bricks
+Brick 60 [ (1, 0, 110) ] [ (4, 0, 110) supporting 2 bricks
+	Supported brick 722 [ (1, 0, 110) ] [ (4, 0, 110) is resting on 2 bricks
+	Supported brick 138 [ (1, 0, 110) ] [ (4, 0, 110) is resting on 1 bricks
+Brick 212 [ (1, 2, 110) ] [ (4, 2, 110) supporting 1 bricks
+	Supported brick 722 [ (1, 2, 110) ] [ (4, 2, 110) is resting on 2 bricks
+Brick 1241 [ (6, 9, 114) ] [ (9, 9, 114) supporting 1 bricks
+	Supported brick 225 [ (6, 9, 114) ] [ (9, 9, 114) is resting on 1 bricks
+Brick 57 [ (6, 3, 113) ] [ (6, 4, 113) supporting 0 bricks
+Brick 1403 [ (3, 3, 113) ] [ (3, 5, 113) supporting 2 bricks
+	Supported brick 69 [ (3, 3, 113) ] [ (3, 5, 113) is resting on 1 bricks
+	Supported brick 685 [ (3, 3, 113) ] [ (3, 5, 113) is resting on 1 bricks
+Brick 1024 [ (4, 2, 113) ] [ (4, 5, 113) supporting 0 bricks
+Brick 16 [ (0, 7, 113) ] [ (1, 7, 113) supporting 1 bricks
+	Supported brick 1061 [ (0, 7, 113) ] [ (1, 7, 113) is resting on 1 bricks
+Brick 1153 [ (9, 3, 113) ] [ (9, 7, 113) supporting 1 bricks
+	Supported brick 1314 [ (9, 3, 113) ] [ (9, 7, 113) is resting on 1 bricks
+Brick 685 [ (3, 5, 114) ] [ (3, 7, 114) supporting 1 bricks
+	Supported brick 834 [ (3, 5, 114) ] [ (3, 7, 114) is resting on 1 bricks
+Brick 769 [ (6, 2, 114) ] [ (9, 2, 114) supporting 3 bricks
+	Supported brick 1048 [ (6, 2, 114) ] [ (9, 2, 114) is resting on 1 bricks
+	Supported brick 484 [ (6, 2, 114) ] [ (9, 2, 114) is resting on 1 bricks
+	Supported brick 971 [ (6, 2, 114) ] [ (9, 2, 114) is resting on 2 bricks
+Brick 1061 [ (0, 5, 114) ] [ (0, 7, 114) supporting 1 bricks
+	Supported brick 330 [ (0, 5, 114) ] [ (0, 7, 114) is resting on 1 bricks
+Brick 176 [ (6, 8, 115) ] [ (8, 8, 115) supporting 0 bricks
+Brick 1314 [ (9, 3, 114) ] [ (9, 5, 114) supporting 2 bricks
+	Supported brick 270 [ (9, 3, 114) ] [ (9, 5, 114) is resting on 1 bricks
+	Supported brick 971 [ (9, 3, 114) ] [ (9, 5, 114) is resting on 2 bricks
+Brick 1048 [ (6, 2, 115) ] [ (6, 4, 115) supporting 1 bricks
+	Supported brick 156 [ (6, 2, 115) ] [ (6, 4, 115) is resting on 1 bricks
+Brick 69 [ (3, 1, 114) ] [ (3, 4, 114) supporting 2 bricks
+	Supported brick 1047 [ (3, 1, 114) ] [ (3, 4, 114) is resting on 1 bricks
+	Supported brick 1072 [ (3, 1, 114) ] [ (3, 4, 114) is resting on 1 bricks
+Brick 330 [ (0, 6, 115) ] [ (0, 8, 115) supporting 1 bricks
+	Supported brick 1006 [ (0, 6, 115) ] [ (0, 8, 115) is resting on 1 bricks
+Brick 722 [ (1, 0, 111) ] [ (1, 2, 111) supporting 1 bricks
+	Supported brick 1138 [ (1, 0, 111) ] [ (1, 2, 111) is resting on 1 bricks
+Brick 138 [ (2, 0, 111) ] [ (5, 0, 111) supporting 1 bricks
+	Supported brick 109 [ (2, 0, 111) ] [ (5, 0, 111) is resting on 2 bricks
+Brick 225 [ (7, 9, 115) ] [ (7, 9, 117) supporting 1 bricks
+	Supported brick 321 [ (7, 9, 115) ] [ (7, 9, 117) is resting on 1 bricks
+Brick 109 [ (5, 0, 112) ] [ (5, 2, 112) supporting 2 bricks
+	Supported brick 11 [ (5, 0, 112) ] [ (5, 2, 112) is resting on 1 bricks
+	Supported brick 1222 [ (5, 0, 112) ] [ (5, 2, 112) is resting on 2 bricks
+Brick 834 [ (3, 5, 115) ] [ (3, 7, 115) supporting 1 bricks
+	Supported brick 892 [ (3, 5, 115) ] [ (3, 7, 115) is resting on 1 bricks
+Brick 484 [ (8, 1, 115) ] [ (8, 2, 115) supporting 1 bricks
+	Supported brick 464 [ (8, 1, 115) ] [ (8, 2, 115) is resting on 1 bricks
+Brick 1006 [ (0, 6, 116) ] [ (1, 6, 116) supporting 1 bricks
+	Supported brick 675 [ (0, 6, 116) ] [ (1, 6, 116) is resting on 1 bricks
+Brick 1138 [ (0, 2, 112) ] [ (2, 2, 112) supporting 2 bricks
+	Supported brick 243 [ (0, 2, 112) ] [ (2, 2, 112) is resting on 1 bricks
+	Supported brick 1196 [ (0, 2, 112) ] [ (2, 2, 112) is resting on 1 bricks
+Brick 11 [ (5, 0, 113) ] [ (7, 0, 113) supporting 1 bricks
+	Supported brick 1418 [ (5, 0, 113) ] [ (7, 0, 113) is resting on 1 bricks
+Brick 1072 [ (3, 3, 115) ] [ (3, 3, 118) supporting 0 bricks
+Brick 971 [ (9, 1, 115) ] [ (9, 4, 115) supporting 1 bricks
+	Supported brick 719 [ (9, 1, 115) ] [ (9, 4, 115) is resting on 1 bricks
+Brick 1222 [ (5, 1, 113) ] [ (5, 4, 113) supporting 1 bricks
+	Supported brick 76 [ (5, 1, 113) ] [ (5, 4, 113) is resting on 1 bricks
+Brick 270 [ (6, 5, 115) ] [ (9, 5, 115) supporting 4 bricks
+	Supported brick 1112 [ (6, 5, 115) ] [ (9, 5, 115) is resting on 1 bricks
+	Supported brick 359 [ (6, 5, 115) ] [ (9, 5, 115) is resting on 1 bricks
+	Supported brick 246 [ (6, 5, 115) ] [ (9, 5, 115) is resting on 1 bricks
+	Supported brick 1176 [ (6, 5, 115) ] [ (9, 5, 115) is resting on 1 bricks
+Brick 156 [ (6, 3, 116) ] [ (7, 3, 116) supporting 2 bricks
+	Supported brick 136 [ (6, 3, 116) ] [ (7, 3, 116) is resting on 1 bricks
+	Supported brick 383 [ (6, 3, 116) ] [ (7, 3, 116) is resting on 1 bricks
+Brick 1047 [ (2, 1, 115) ] [ (4, 1, 115) supporting 1 bricks
+	Supported brick 1160 [ (2, 1, 115) ] [ (4, 1, 115) is resting on 1 bricks
+Brick 464 [ (8, 1, 116) ] [ (8, 2, 116) supporting 1 bricks
+	Supported brick 1208 [ (8, 1, 116) ] [ (8, 2, 116) is resting on 1 bricks
+Brick 243 [ (0, 2, 113) ] [ (0, 3, 113) supporting 1 bricks
+	Supported brick 38 [ (0, 2, 113) ] [ (0, 3, 113) is resting on 1 bricks
+Brick 38 [ (0, 2, 114) ] [ (0, 4, 114) supporting 1 bricks
+	Supported brick 944 [ (0, 2, 114) ] [ (0, 4, 114) is resting on 1 bricks
+Brick 1418 [ (3, 0, 114) ] [ (5, 0, 114) supporting 1 bricks
+	Supported brick 961 [ (3, 0, 114) ] [ (5, 0, 114) is resting on 1 bricks
+Brick 76 [ (5, 4, 114) ] [ (5, 6, 114) supporting 1 bricks
+	Supported brick 912 [ (5, 4, 114) ] [ (5, 6, 114) is resting on 1 bricks
+Brick 321 [ (6, 9, 118) ] [ (7, 9, 118) supporting 1 bricks
+	Supported brick 112 [ (6, 9, 118) ] [ (7, 9, 118) is resting on 2 bricks
+Brick 1112 [ (6, 5, 116) ] [ (6, 5, 119) supporting 1 bricks
+	Supported brick 687 [ (6, 5, 116) ] [ (6, 5, 119) is resting on 1 bricks
+Brick 1196 [ (1, 0, 113) ] [ (1, 2, 113) supporting 1 bricks
+	Supported brick 1270 [ (1, 0, 113) ] [ (1, 2, 113) is resting on 1 bricks
+Brick 961 [ (5, 0, 115) ] [ (6, 0, 115) supporting 0 bricks
+Brick 246 [ (8, 3, 116) ] [ (8, 5, 116) supporting 1 bricks
+	Supported brick 1299 [ (8, 3, 116) ] [ (8, 5, 116) is resting on 1 bricks
+Brick 1160 [ (4, 1, 116) ] [ (4, 3, 116) supporting 1 bricks
+	Supported brick 877 [ (4, 1, 116) ] [ (4, 3, 116) is resting on 1 bricks
+Brick 675 [ (0, 6, 117) ] [ (2, 6, 117) supporting 1 bricks
+	Supported brick 1248 [ (0, 6, 117) ] [ (2, 6, 117) is resting on 1 bricks
+Brick 892 [ (2, 7, 116) ] [ (5, 7, 116) supporting 1 bricks
+	Supported brick 1054 [ (2, 7, 116) ] [ (5, 7, 116) is resting on 1 bricks
+Brick 719 [ (9, 1, 116) ] [ (9, 2, 116) supporting 0 bricks
+Brick 912 [ (4, 6, 115) ] [ (6, 6, 115) supporting 0 bricks
+Brick 1054 [ (2, 7, 117) ] [ (2, 9, 117) supporting 3 bricks
+	Supported brick 1417 [ (2, 7, 117) ] [ (2, 9, 117) is resting on 1 bricks
+	Supported brick 833 [ (2, 7, 117) ] [ (2, 9, 117) is resting on 1 bricks
+	Supported brick 595 [ (2, 7, 117) ] [ (2, 9, 117) is resting on 1 bricks
+Brick 359 [ (7, 5, 116) ] [ (7, 7, 116) supporting 1 bricks
+	Supported brick 611 [ (7, 5, 116) ] [ (7, 7, 116) is resting on 1 bricks
+Brick 1176 [ (9, 5, 116) ] [ (9, 8, 116) supporting 2 bricks
+	Supported brick 867 [ (9, 5, 116) ] [ (9, 8, 116) is resting on 1 bricks
+	Supported brick 338 [ (9, 5, 116) ] [ (9, 8, 116) is resting on 1 bricks
+Brick 383 [ (7, 2, 117) ] [ (7, 4, 117) supporting 2 bricks
+	Supported brick 535 [ (7, 2, 117) ] [ (7, 4, 117) is resting on 1 bricks
+	Supported brick 969 [ (7, 2, 117) ] [ (7, 4, 117) is resting on 2 bricks
+Brick 136 [ (6, 2, 117) ] [ (6, 4, 117) supporting 0 bricks
+Brick 1208 [ (8, 1, 117) ] [ (8, 2, 117) supporting 0 bricks
+Brick 595 [ (2, 9, 118) ] [ (4, 9, 118) supporting 1 bricks
+	Supported brick 529 [ (2, 9, 118) ] [ (4, 9, 118) is resting on 1 bricks
+Brick 877 [ (4, 3, 117) ] [ (5, 3, 117) supporting 1 bricks
+	Supported brick 520 [ (4, 3, 117) ] [ (5, 3, 117) is resting on 1 bricks
+Brick 1299 [ (8, 4, 117) ] [ (8, 5, 117) supporting 1 bricks
+	Supported brick 452 [ (8, 4, 117) ] [ (8, 5, 117) is resting on 1 bricks
+Brick 611 [ (7, 6, 117) ] [ (7, 7, 117) supporting 1 bricks
+	Supported brick 969 [ (7, 6, 117) ] [ (7, 7, 117) is resting on 2 bricks
+Brick 944 [ (0, 2, 115) ] [ (0, 4, 115) supporting 0 bricks
+Brick 1270 [ (0, 0, 114) ] [ (1, 0, 114) supporting 1 bricks
+	Supported brick 874 [ (0, 0, 114) ] [ (1, 0, 114) is resting on 1 bricks
+Brick 535 [ (7, 0, 118) ] [ (7, 3, 118) supporting 1 bricks
+	Supported brick 848 [ (7, 0, 118) ] [ (7, 3, 118) is resting on 1 bricks
+Brick 1417 [ (0, 8, 118) ] [ (2, 8, 118) supporting 0 bricks
+Brick 833 [ (2, 7, 118) ] [ (4, 7, 118) supporting 2 bricks
+	Supported brick 587 [ (2, 7, 118) ] [ (4, 7, 118) is resting on 1 bricks
+	Supported brick 890 [ (2, 7, 118) ] [ (4, 7, 118) is resting on 1 bricks
+Brick 867 [ (6, 8, 117) ] [ (9, 8, 117) supporting 1 bricks
+	Supported brick 1028 [ (6, 8, 117) ] [ (9, 8, 117) is resting on 1 bricks
+Brick 529 [ (0, 9, 119) ] [ (2, 9, 119) supporting 2 bricks
+	Supported brick 1155 [ (0, 9, 119) ] [ (2, 9, 119) is resting on 1 bricks
+	Supported brick 938 [ (0, 9, 119) ] [ (2, 9, 119) is resting on 1 bricks
+Brick 338 [ (9, 3, 117) ] [ (9, 5, 117) supporting 1 bricks
+	Supported brick 1059 [ (9, 3, 117) ] [ (9, 5, 117) is resting on 1 bricks
+Brick 969 [ (7, 4, 118) ] [ (7, 7, 118) supporting 1 bricks
+	Supported brick 304 [ (7, 4, 118) ] [ (7, 7, 118) is resting on 2 bricks
+Brick 1028 [ (8, 6, 118) ] [ (8, 9, 118) supporting 3 bricks
+	Supported brick 304 [ (8, 6, 118) ] [ (8, 9, 118) is resting on 2 bricks
+	Supported brick 1286 [ (8, 6, 118) ] [ (8, 9, 118) is resting on 1 bricks
+	Supported brick 112 [ (8, 6, 118) ] [ (8, 9, 118) is resting on 2 bricks
+Brick 874 [ (0, 0, 115) ] [ (0, 1, 115) supporting 1 bricks
+	Supported brick 15 [ (0, 0, 115) ] [ (0, 1, 115) is resting on 1 bricks
+Brick 687 [ (6, 2, 120) ] [ (6, 5, 120) supporting 2 bricks
+	Supported brick 35 [ (6, 2, 120) ] [ (6, 5, 120) is resting on 1 bricks
+	Supported brick 1161 [ (6, 2, 120) ] [ (6, 5, 120) is resting on 1 bricks
+Brick 452 [ (8, 4, 118) ] [ (8, 5, 118) supporting 1 bricks
+	Supported brick 531 [ (8, 4, 118) ] [ (8, 5, 118) is resting on 1 bricks
+Brick 520 [ (4, 0, 118) ] [ (4, 3, 118) supporting 0 bricks
+Brick 1155 [ (0, 9, 120) ] [ (0, 9, 124) supporting 0 bricks
+Brick 1286 [ (6, 8, 119) ] [ (9, 8, 119) supporting 1 bricks
+	Supported brick 1029 [ (6, 8, 119) ] [ (9, 8, 119) is resting on 1 bricks
+Brick 848 [ (7, 0, 119) ] [ (7, 3, 119) supporting 0 bricks
+Brick 938 [ (2, 9, 120) ] [ (3, 9, 120) supporting 0 bricks
+Brick 587 [ (2, 4, 119) ] [ (2, 7, 119) supporting 2 bricks
+	Supported brick 1077 [ (2, 4, 119) ] [ (2, 7, 119) is resting on 1 bricks
+	Supported brick 570 [ (2, 4, 119) ] [ (2, 7, 119) is resting on 1 bricks
+Brick 890 [ (3, 5, 119) ] [ (3, 8, 119) supporting 2 bricks
+	Supported brick 167 [ (3, 5, 119) ] [ (3, 8, 119) is resting on 1 bricks
+	Supported brick 679 [ (3, 5, 119) ] [ (3, 8, 119) is resting on 1 bricks
+Brick 15 [ (0, 0, 116) ] [ (0, 1, 116) supporting 0 bricks
+Brick 1248 [ (0, 4, 118) ] [ (0, 7, 118) supporting 1 bricks
+	Supported brick 751 [ (0, 4, 118) ] [ (0, 7, 118) is resting on 1 bricks
+Brick 112 [ (6, 9, 119) ] [ (8, 9, 119) supporting 2 bricks
+	Supported brick 809 [ (6, 9, 119) ] [ (8, 9, 119) is resting on 1 bricks
+	Supported brick 175 [ (6, 9, 119) ] [ (8, 9, 119) is resting on 1 bricks
+Brick 304 [ (6, 6, 119) ] [ (8, 6, 119) supporting 1 bricks
+	Supported brick 1395 [ (6, 6, 119) ] [ (8, 6, 119) is resting on 1 bricks
+Brick 1029 [ (9, 7, 120) ] [ (9, 9, 120) supporting 1 bricks
+	Supported brick 271 [ (9, 7, 120) ] [ (9, 9, 120) is resting on 1 bricks
+Brick 1059 [ (9, 1, 118) ] [ (9, 5, 118) supporting 0 bricks
+Brick 679 [ (3, 7, 120) ] [ (5, 7, 120) supporting 1 bricks
+	Supported brick 275 [ (3, 7, 120) ] [ (5, 7, 120) is resting on 2 bricks
+Brick 570 [ (2, 2, 120) ] [ (2, 4, 120) supporting 2 bricks
+	Supported brick 1266 [ (2, 2, 120) ] [ (2, 4, 120) is resting on 1 bricks
+	Supported brick 876 [ (2, 2, 120) ] [ (2, 4, 120) is resting on 1 bricks
+Brick 175 [ (8, 9, 120) ] [ (8, 9, 123) supporting 0 bricks
+Brick 531 [ (8, 5, 119) ] [ (8, 5, 122) supporting 1 bricks
+	Supported brick 1301 [ (8, 5, 119) ] [ (8, 5, 122) is resting on 1 bricks
+Brick 1077 [ (1, 6, 120) ] [ (2, 6, 120) supporting 1 bricks
+	Supported brick 1146 [ (1, 6, 120) ] [ (2, 6, 120) is resting on 1 bricks
+Brick 751 [ (0, 4, 119) ] [ (0, 6, 119) supporting 0 bricks
+Brick 35 [ (5, 2, 121) ] [ (7, 2, 121) supporting 2 bricks
+	Supported brick 449 [ (5, 2, 121) ] [ (7, 2, 121) is resting on 1 bricks
+	Supported brick 1265 [ (5, 2, 121) ] [ (7, 2, 121) is resting on 1 bricks
+Brick 1266 [ (0, 2, 121) ] [ (2, 2, 121) supporting 0 bricks
+Brick 167 [ (3, 3, 120) ] [ (3, 6, 120) supporting 1 bricks
+	Supported brick 275 [ (3, 3, 120) ] [ (3, 6, 120) is resting on 2 bricks
+Brick 1161 [ (6, 5, 121) ] [ (6, 5, 123) supporting 1 bricks
+	Supported brick 62 [ (6, 5, 121) ] [ (6, 5, 123) is resting on 1 bricks
+Brick 1395 [ (5, 6, 120) ] [ (6, 6, 120) supporting 0 bricks
+Brick 449 [ (5, 2, 122) ] [ (5, 5, 122) supporting 2 bricks
+	Supported brick 629 [ (5, 2, 122) ] [ (5, 5, 122) is resting on 1 bricks
+	Supported brick 808 [ (5, 2, 122) ] [ (5, 5, 122) is resting on 1 bricks
+Brick 809 [ (4, 9, 120) ] [ (6, 9, 120) supporting 0 bricks
+Brick 275 [ (3, 6, 121) ] [ (3, 8, 121) supporting 1 bricks
+	Supported brick 1009 [ (3, 6, 121) ] [ (3, 8, 121) is resting on 1 bricks
+Brick 271 [ (7, 8, 121) ] [ (9, 8, 121) supporting 2 bricks
+	Supported brick 74 [ (7, 8, 121) ] [ (9, 8, 121) is resting on 1 bricks
+	Supported brick 1244 [ (7, 8, 121) ] [ (9, 8, 121) is resting on 1 bricks
+Brick 1146 [ (1, 6, 121) ] [ (1, 7, 121) supporting 0 bricks
+Brick 876 [ (2, 4, 121) ] [ (2, 4, 123) supporting 0 bricks
+Brick 808 [ (4, 4, 123) ] [ (6, 4, 123) supporting 1 bricks
+	Supported brick 641 [ (4, 4, 123) ] [ (6, 4, 123) is resting on 1 bricks
+Brick 1265 [ (7, 0, 122) ] [ (7, 2, 122) supporting 1 bricks
+	Supported brick 1050 [ (7, 0, 122) ] [ (7, 2, 122) is resting on 1 bricks
+Brick 1244 [ (9, 6, 122) ] [ (9, 8, 122) supporting 0 bricks
+Brick 629 [ (3, 2, 123) ] [ (5, 2, 123) supporting 2 bricks
+	Supported brick 1099 [ (3, 2, 123) ] [ (5, 2, 123) is resting on 1 bricks
+	Supported brick 120 [ (3, 2, 123) ] [ (5, 2, 123) is resting on 1 bricks
+Brick 1301 [ (7, 5, 123) ] [ (9, 5, 123) supporting 1 bricks
+	Supported brick 579 [ (7, 5, 123) ] [ (9, 5, 123) is resting on 1 bricks
+Brick 74 [ (8, 8, 122) ] [ (8, 8, 124) supporting 0 bricks
+Brick 62 [ (6, 5, 124) ] [ (6, 5, 126) supporting 1 bricks
+	Supported brick 1374 [ (6, 5, 124) ] [ (6, 5, 126) is resting on 1 bricks
+Brick 1009 [ (3, 7, 122) ] [ (6, 7, 122) supporting 3 bricks
+	Supported brick 426 [ (3, 7, 122) ] [ (6, 7, 122) is resting on 1 bricks
+	Supported brick 1260 [ (3, 7, 122) ] [ (6, 7, 122) is resting on 1 bricks
+	Supported brick 1215 [ (3, 7, 122) ] [ (6, 7, 122) is resting on 1 bricks
+Brick 1099 [ (4, 2, 124) ] [ (4, 2, 127) supporting 1 bricks
+	Supported brick 1381 [ (4, 2, 124) ] [ (4, 2, 127) is resting on 1 bricks
+Brick 1050 [ (6, 0, 123) ] [ (8, 0, 123) supporting 0 bricks
+Brick 641 [ (5, 4, 124) ] [ (6, 4, 124) supporting 1 bricks
+	Supported brick 795 [ (5, 4, 124) ] [ (6, 4, 124) is resting on 1 bricks
+Brick 1260 [ (5, 7, 123) ] [ (5, 9, 123) supporting 2 bricks
+	Supported brick 1190 [ (5, 7, 123) ] [ (5, 9, 123) is resting on 1 bricks
+	Supported brick 943 [ (5, 7, 123) ] [ (5, 9, 123) is resting on 1 bricks
+Brick 579 [ (9, 4, 124) ] [ (9, 5, 124) supporting 1 bricks
+	Supported brick 342 [ (9, 4, 124) ] [ (9, 5, 124) is resting on 1 bricks
+Brick 426 [ (3, 5, 123) ] [ (3, 7, 123) supporting 1 bricks
+	Supported brick 749 [ (3, 5, 123) ] [ (3, 7, 123) is resting on 1 bricks
+Brick 120 [ (5, 1, 124) ] [ (5, 3, 124) supporting 2 bricks
+	Supported brick 240 [ (5, 1, 124) ] [ (5, 3, 124) is resting on 1 bricks
+	Supported brick 351 [ (5, 1, 124) ] [ (5, 3, 124) is resting on 1 bricks
+Brick 749 [ (3, 5, 124) ] [ (3, 8, 124) supporting 1 bricks
+	Supported brick 822 [ (3, 5, 124) ] [ (3, 8, 124) is resting on 1 bricks
+Brick 342 [ (9, 1, 125) ] [ (9, 4, 125) supporting 1 bricks
+	Supported brick 1347 [ (9, 1, 125) ] [ (9, 4, 125) is resting on 1 bricks
+Brick 1374 [ (6, 5, 127) ] [ (6, 6, 127) supporting 1 bricks
+	Supported brick 630 [ (6, 5, 127) ] [ (6, 6, 127) is resting on 1 bricks
+Brick 1215 [ (6, 7, 123) ] [ (7, 7, 123) supporting 1 bricks
+	Supported brick 1203 [ (6, 7, 123) ] [ (7, 7, 123) is resting on 1 bricks
+Brick 943 [ (5, 9, 124) ] [ (5, 9, 125) supporting 0 bricks
+Brick 240 [ (5, 1, 125) ] [ (7, 1, 125) supporting 1 bricks
+	Supported brick 680 [ (5, 1, 125) ] [ (7, 1, 125) is resting on 1 bricks
+Brick 351 [ (5, 3, 125) ] [ (6, 3, 125) supporting 0 bricks
+Brick 795 [ (5, 4, 125) ] [ (7, 4, 125) supporting 3 bricks
+	Supported brick 492 [ (5, 4, 125) ] [ (7, 4, 125) is resting on 1 bricks
+	Supported brick 415 [ (5, 4, 125) ] [ (7, 4, 125) is resting on 1 bricks
+	Supported brick 1322 [ (5, 4, 125) ] [ (7, 4, 125) is resting on 1 bricks
+Brick 1190 [ (5, 7, 124) ] [ (5, 8, 124) supporting 0 bricks
+Brick 1347 [ (9, 4, 126) ] [ (9, 6, 126) supporting 2 bricks
+	Supported brick 487 [ (9, 4, 126) ] [ (9, 6, 126) is resting on 1 bricks
+	Supported brick 107 [ (9, 4, 126) ] [ (9, 6, 126) is resting on 1 bricks
+Brick 1381 [ (4, 0, 128) ] [ (4, 3, 128) supporting 2 bricks
+	Supported brick 1199 [ (4, 0, 128) ] [ (4, 3, 128) is resting on 1 bricks
+	Supported brick 502 [ (4, 0, 128) ] [ (4, 3, 128) is resting on 3 bricks
+Brick 1203 [ (6, 7, 124) ] [ (6, 9, 124) supporting 1 bricks
+	Supported brick 830 [ (6, 7, 124) ] [ (6, 9, 124) is resting on 1 bricks
+Brick 680 [ (7, 0, 126) ] [ (7, 3, 126) supporting 2 bricks
+	Supported brick 1200 [ (7, 0, 126) ] [ (7, 3, 126) is resting on 1 bricks
+	Supported brick 624 [ (7, 0, 126) ] [ (7, 3, 126) is resting on 1 bricks
+Brick 492 [ (2, 4, 126) ] [ (5, 4, 126) supporting 0 bricks
+Brick 822 [ (3, 5, 125) ] [ (3, 5, 127) supporting 1 bricks
+	Supported brick 1391 [ (3, 5, 125) ] [ (3, 5, 127) is resting on 1 bricks
+Brick 1322 [ (7, 4, 126) ] [ (7, 5, 126) supporting 1 bricks
+	Supported brick 1217 [ (7, 4, 126) ] [ (7, 5, 126) is resting on 1 bricks
+Brick 107 [ (9, 6, 127) ] [ (9, 8, 127) supporting 0 bricks
+Brick 487 [ (9, 5, 127) ] [ (9, 5, 128) supporting 0 bricks
+Brick 415 [ (6, 4, 126) ] [ (6, 4, 129) supporting 1 bricks
+	Supported brick 354 [ (6, 4, 126) ] [ (6, 4, 129) is resting on 1 bricks
+Brick 630 [ (6, 5, 128) ] [ (8, 5, 128) supporting 0 bricks
+Brick 624 [ (7, 0, 127) ] [ (9, 0, 127) supporting 1 bricks
+	Supported brick 599 [ (7, 0, 127) ] [ (9, 0, 127) is resting on 1 bricks
+Brick 1199 [ (3, 3, 129) ] [ (6, 3, 129) supporting 3 bricks
+	Supported brick 814 [ (3, 3, 129) ] [ (6, 3, 129) is resting on 1 bricks
+	Supported brick 655 [ (3, 3, 129) ] [ (6, 3, 129) is resting on 1 bricks
+	Supported brick 33 [ (3, 3, 129) ] [ (6, 3, 129) is resting on 1 bricks
+Brick 830 [ (6, 8, 125) ] [ (6, 9, 125) supporting 2 bricks
+	Supported brick 528 [ (6, 8, 125) ] [ (6, 9, 125) is resting on 1 bricks
+	Supported brick 384 [ (6, 8, 125) ] [ (6, 9, 125) is resting on 1 bricks
+Brick 1200 [ (5, 1, 127) ] [ (7, 1, 127) supporting 2 bricks
+	Supported brick 936 [ (5, 1, 127) ] [ (7, 1, 127) is resting on 1 bricks
+	Supported brick 472 [ (5, 1, 127) ] [ (7, 1, 127) is resting on 1 bricks
+Brick 814 [ (0, 3, 130) ] [ (3, 3, 130) supporting 2 bricks
+	Supported brick 1031 [ (0, 3, 130) ] [ (3, 3, 130) is resting on 1 bricks
+	Supported brick 252 [ (0, 3, 130) ] [ (3, 3, 130) is resting on 2 bricks
+Brick 528 [ (4, 8, 126) ] [ (7, 8, 126) supporting 2 bricks
+	Supported brick 459 [ (4, 8, 126) ] [ (7, 8, 126) is resting on 1 bricks
+	Supported brick 298 [ (4, 8, 126) ] [ (7, 8, 126) is resting on 1 bricks
+Brick 599 [ (7, 0, 128) ] [ (9, 0, 128) supporting 2 bricks
+	Supported brick 925 [ (7, 0, 128) ] [ (9, 0, 128) is resting on 1 bricks
+	Supported brick 1131 [ (7, 0, 128) ] [ (9, 0, 128) is resting on 1 bricks
+Brick 655 [ (4, 3, 130) ] [ (5, 3, 130) supporting 2 bricks
+	Supported brick 252 [ (4, 3, 130) ] [ (5, 3, 130) is resting on 2 bricks
+	Supported brick 500 [ (4, 3, 130) ] [ (5, 3, 130) is resting on 2 bricks
+Brick 459 [ (3, 8, 127) ] [ (5, 8, 127) supporting 2 bricks
+	Supported brick 408 [ (3, 8, 127) ] [ (5, 8, 127) is resting on 1 bricks
+	Supported brick 185 [ (3, 8, 127) ] [ (5, 8, 127) is resting on 1 bricks
+Brick 1031 [ (0, 3, 131) ] [ (0, 5, 131) supporting 0 bricks
+Brick 384 [ (6, 9, 126) ] [ (6, 9, 127) supporting 1 bricks
+	Supported brick 1240 [ (6, 9, 126) ] [ (6, 9, 127) is resting on 1 bricks
+Brick 1217 [ (7, 4, 127) ] [ (7, 4, 128) supporting 0 bricks
+Brick 472 [ (6, 0, 128) ] [ (6, 2, 128) supporting 2 bricks
+	Supported brick 502 [ (6, 0, 128) ] [ (6, 2, 128) is resting on 3 bricks
+	Supported brick 369 [ (6, 0, 128) ] [ (6, 2, 128) is resting on 1 bricks
+Brick 1391 [ (3, 5, 128) ] [ (3, 7, 128) supporting 1 bricks
+	Supported brick 1263 [ (3, 5, 128) ] [ (3, 7, 128) is resting on 1 bricks
+Brick 33 [ (6, 3, 130) ] [ (7, 3, 130) supporting 2 bricks
+	Supported brick 500 [ (6, 3, 130) ] [ (7, 3, 130) is resting on 2 bricks
+	Supported brick 732 [ (6, 3, 130) ] [ (7, 3, 130) is resting on 1 bricks
+Brick 408 [ (0, 8, 128) ] [ (4, 8, 128) supporting 3 bricks
+	Supported brick 1055 [ (0, 8, 128) ] [ (4, 8, 128) is resting on 1 bricks
+	Supported brick 419 [ (0, 8, 128) ] [ (4, 8, 128) is resting on 1 bricks
+	Supported brick 1150 [ (0, 8, 128) ] [ (4, 8, 128) is resting on 3 bricks
+Brick 298 [ (7, 7, 127) ] [ (7, 9, 127) supporting 0 bricks
+Brick 1131 [ (9, 0, 129) ] [ (9, 0, 132) supporting 0 bricks
+Brick 732 [ (7, 3, 131) ] [ (9, 3, 131) supporting 1 bricks
+	Supported brick 395 [ (7, 3, 131) ] [ (9, 3, 131) is resting on 1 bricks
+Brick 252 [ (2, 3, 131) ] [ (4, 3, 131) supporting 2 bricks
+	Supported brick 847 [ (2, 3, 131) ] [ (4, 3, 131) is resting on 1 bricks
+	Supported brick 607 [ (2, 3, 131) ] [ (4, 3, 131) is resting on 1 bricks
+Brick 936 [ (5, 0, 128) ] [ (5, 1, 128) supporting 1 bricks
+	Supported brick 502 [ (5, 0, 128) ] [ (5, 1, 128) is resting on 3 bricks
+Brick 354 [ (5, 4, 130) ] [ (6, 4, 130) supporting 0 bricks
+Brick 500 [ (5, 3, 131) ] [ (6, 3, 131) supporting 0 bricks
+Brick 1240 [ (6, 7, 128) ] [ (6, 9, 128) supporting 2 bricks
+	Supported brick 1150 [ (6, 7, 128) ] [ (6, 9, 128) is resting on 3 bricks
+	Supported brick 462 [ (6, 7, 128) ] [ (6, 9, 128) is resting on 1 bricks
+Brick 419 [ (1, 8, 129) ] [ (3, 8, 129) supporting 1 bricks
+	Supported brick 223 [ (1, 8, 129) ] [ (3, 8, 129) is resting on 1 bricks
+Brick 925 [ (7, 0, 129) ] [ (8, 0, 129) supporting 0 bricks
+Brick 185 [ (5, 7, 128) ] [ (5, 9, 128) supporting 2 bricks
+	Supported brick 1150 [ (5, 7, 128) ] [ (5, 9, 128) is resting on 3 bricks
+	Supported brick 265 [ (5, 7, 128) ] [ (5, 9, 128) is resting on 1 bricks
+Brick 1150 [ (4, 8, 129) ] [ (6, 8, 129) supporting 1 bricks
+	Supported brick 1117 [ (4, 8, 129) ] [ (6, 8, 129) is resting on 1 bricks
+Brick 1055 [ (0, 8, 129) ] [ (0, 8, 129) supporting 0 bricks
+Brick 1263 [ (3, 6, 129) ] [ (3, 7, 129) supporting 1 bricks
+	Supported brick 846 [ (3, 6, 129) ] [ (3, 7, 129) is resting on 1 bricks
+Brick 265 [ (4, 9, 129) ] [ (5, 9, 129) supporting 0 bricks
+Brick 369 [ (6, 1, 129) ] [ (6, 1, 132) supporting 1 bricks
+	Supported brick 1027 [ (6, 1, 129) ] [ (6, 1, 132) is resting on 1 bricks
+Brick 223 [ (1, 6, 130) ] [ (1, 8, 130) supporting 1 bricks
+	Supported brick 854 [ (1, 6, 130) ] [ (1, 8, 130) is resting on 1 bricks
+Brick 847 [ (1, 3, 132) ] [ (3, 3, 132) supporting 2 bricks
+	Supported brick 1218 [ (1, 3, 132) ] [ (3, 3, 132) is resting on 1 bricks
+	Supported brick 774 [ (1, 3, 132) ] [ (3, 3, 132) is resting on 1 bricks
+Brick 502 [ (4, 0, 129) ] [ (6, 0, 129) supporting 1 bricks
+	Supported brick 1390 [ (4, 0, 129) ] [ (6, 0, 129) is resting on 1 bricks
+Brick 607 [ (4, 1, 132) ] [ (4, 3, 132) supporting 1 bricks
+	Supported brick 764 [ (4, 1, 132) ] [ (4, 3, 132) is resting on 1 bricks
+Brick 1117 [ (5, 8, 130) ] [ (7, 8, 130) supporting 2 bricks
+	Supported brick 1332 [ (5, 8, 130) ] [ (7, 8, 130) is resting on 1 bricks
+	Supported brick 614 [ (5, 8, 130) ] [ (7, 8, 130) is resting on 1 bricks
+Brick 462 [ (6, 9, 129) ] [ (8, 9, 129) supporting 1 bricks
+	Supported brick 179 [ (6, 9, 129) ] [ (8, 9, 129) is resting on 1 bricks
+Brick 395 [ (7, 3, 132) ] [ (9, 3, 132) supporting 2 bricks
+	Supported brick 1128 [ (7, 3, 132) ] [ (9, 3, 132) is resting on 1 bricks
+	Supported brick 0 [ (7, 3, 132) ] [ (9, 3, 132) is resting on 2 bricks
+Brick 1128 [ (8, 2, 133) ] [ (8, 4, 133) supporting 1 bricks
+	Supported brick 1168 [ (8, 2, 133) ] [ (8, 4, 133) is resting on 1 bricks
+Brick 1390 [ (3, 0, 130) ] [ (5, 0, 130) supporting 0 bricks
+Brick 854 [ (0, 7, 131) ] [ (2, 7, 131) supporting 1 bricks
+	Supported brick 410 [ (0, 7, 131) ] [ (2, 7, 131) is resting on 1 bricks
+Brick 846 [ (3, 4, 130) ] [ (3, 7, 130) supporting 0 bricks
+Brick 1218 [ (1, 1, 133) ] [ (1, 4, 133) supporting 2 bricks
+	Supported brick 1408 [ (1, 1, 133) ] [ (1, 4, 133) is resting on 2 bricks
+	Supported brick 420 [ (1, 1, 133) ] [ (1, 4, 133) is resting on 1 bricks
+Brick 614 [ (7, 8, 131) ] [ (9, 8, 131) supporting 2 bricks
+	Supported brick 589 [ (7, 8, 131) ] [ (9, 8, 131) is resting on 1 bricks
+	Supported brick 301 [ (7, 8, 131) ] [ (9, 8, 131) is resting on 1 bricks
+Brick 764 [ (4, 2, 133) ] [ (7, 2, 133) supporting 1 bricks
+	Supported brick 668 [ (4, 2, 133) ] [ (7, 2, 133) is resting on 1 bricks
+Brick 774 [ (3, 1, 133) ] [ (3, 4, 133) supporting 2 bricks
+	Supported brick 1408 [ (3, 1, 133) ] [ (3, 4, 133) is resting on 2 bricks
+	Supported brick 406 [ (3, 1, 133) ] [ (3, 4, 133) is resting on 1 bricks
+Brick 410 [ (2, 5, 132) ] [ (2, 8, 132) supporting 2 bricks
+	Supported brick 317 [ (2, 5, 132) ] [ (2, 8, 132) is resting on 1 bricks
+	Supported brick 1097 [ (2, 5, 132) ] [ (2, 8, 132) is resting on 1 bricks
+Brick 1332 [ (6, 7, 131) ] [ (6, 8, 131) supporting 2 bricks
+	Supported brick 819 [ (6, 7, 131) ] [ (6, 8, 131) is resting on 1 bricks
+	Supported brick 935 [ (6, 7, 131) ] [ (6, 8, 131) is resting on 1 bricks
+Brick 1027 [ (6, 1, 133) ] [ (6, 1, 134) supporting 1 bricks
+	Supported brick 425 [ (6, 1, 133) ] [ (6, 1, 134) is resting on 1 bricks
+Brick 420 [ (1, 4, 134) ] [ (1, 4, 137) supporting 1 bricks
+	Supported brick 731 [ (1, 4, 134) ] [ (1, 4, 137) is resting on 1 bricks
+Brick 179 [ (7, 9, 130) ] [ (7, 9, 133) supporting 1 bricks
+	Supported brick 1245 [ (7, 9, 130) ] [ (7, 9, 133) is resting on 1 bricks
+Brick 1168 [ (8, 1, 134) ] [ (8, 3, 134) supporting 1 bricks
+	Supported brick 325 [ (8, 1, 134) ] [ (8, 3, 134) is resting on 1 bricks
+Brick 935 [ (6, 8, 132) ] [ (6, 8, 132) supporting 0 bricks
+Brick 589 [ (8, 6, 132) ] [ (8, 8, 132) supporting 0 bricks
+Brick 317 [ (0, 8, 133) ] [ (2, 8, 133) supporting 2 bricks
+	Supported brick 341 [ (0, 8, 133) ] [ (2, 8, 133) is resting on 1 bricks
+	Supported brick 1110 [ (0, 8, 133) ] [ (2, 8, 133) is resting on 1 bricks
+Brick 819 [ (4, 7, 132) ] [ (6, 7, 132) supporting 1 bricks
+	Supported brick 1269 [ (4, 7, 132) ] [ (6, 7, 132) is resting on 1 bricks
+Brick 668 [ (5, 2, 134) ] [ (5, 2, 137) supporting 1 bricks
+	Supported brick 855 [ (5, 2, 134) ] [ (5, 2, 137) is resting on 1 bricks
+Brick 301 [ (9, 5, 132) ] [ (9, 8, 132) supporting 1 bricks
+	Supported brick 0 [ (9, 5, 132) ] [ (9, 8, 132) is resting on 2 bricks
+Brick 1097 [ (2, 5, 133) ] [ (4, 5, 133) supporting 0 bricks
+Brick 325 [ (8, 0, 135) ] [ (8, 2, 135) supporting 3 bricks
+	Supported brick 894 [ (8, 0, 135) ] [ (8, 2, 135) is resting on 1 bricks
+	Supported brick 390 [ (8, 0, 135) ] [ (8, 2, 135) is resting on 1 bricks
+	Supported brick 1118 [ (8, 0, 135) ] [ (8, 2, 135) is resting on 2 bricks
+Brick 1408 [ (1, 1, 134) ] [ (3, 1, 134) supporting 3 bricks
+	Supported brick 1045 [ (1, 1, 134) ] [ (3, 1, 134) is resting on 1 bricks
+	Supported brick 547 [ (1, 1, 134) ] [ (3, 1, 134) is resting on 1 bricks
+	Supported brick 427 [ (1, 1, 134) ] [ (3, 1, 134) is resting on 1 bricks
+Brick 1269 [ (5, 6, 133) ] [ (5, 8, 133) supporting 2 bricks
+	Supported brick 87 [ (5, 6, 133) ] [ (5, 8, 133) is resting on 1 bricks
+	Supported brick 734 [ (5, 6, 133) ] [ (5, 8, 133) is resting on 1 bricks
+Brick 0 [ (9, 3, 133) ] [ (9, 5, 133) supporting 1 bricks
+	Supported brick 794 [ (9, 3, 133) ] [ (9, 5, 133) is resting on 1 bricks
+Brick 406 [ (3, 3, 134) ] [ (5, 3, 134) supporting 0 bricks
+Brick 341 [ (0, 8, 134) ] [ (0, 9, 134) supporting 0 bricks
+Brick 87 [ (4, 7, 134) ] [ (6, 7, 134) supporting 0 bricks
+Brick 425 [ (6, 1, 135) ] [ (7, 1, 135) supporting 2 bricks
+	Supported brick 30 [ (6, 1, 135) ] [ (7, 1, 135) is resting on 1 bricks
+	Supported brick 1118 [ (6, 1, 135) ] [ (7, 1, 135) is resting on 2 bricks
+Brick 1110 [ (1, 8, 134) ] [ (4, 8, 134) supporting 2 bricks
+	Supported brick 154 [ (1, 8, 134) ] [ (4, 8, 134) is resting on 1 bricks
+	Supported brick 545 [ (1, 8, 134) ] [ (4, 8, 134) is resting on 1 bricks
+Brick 1045 [ (0, 1, 135) ] [ (1, 1, 135) supporting 2 bricks
+	Supported brick 714 [ (0, 1, 135) ] [ (1, 1, 135) is resting on 1 bricks
+	Supported brick 1276 [ (0, 1, 135) ] [ (1, 1, 135) is resting on 1 bricks
+Brick 390 [ (7, 0, 136) ] [ (9, 0, 136) supporting 3 bricks
+	Supported brick 309 [ (7, 0, 136) ] [ (9, 0, 136) is resting on 2 bricks
+	Supported brick 1310 [ (7, 0, 136) ] [ (9, 0, 136) is resting on 2 bricks
+	Supported brick 1096 [ (7, 0, 136) ] [ (9, 0, 136) is resting on 1 bricks
+Brick 894 [ (6, 2, 136) ] [ (9, 2, 136) supporting 2 bricks
+	Supported brick 710 [ (6, 2, 136) ] [ (9, 2, 136) is resting on 2 bricks
+	Supported brick 885 [ (6, 2, 136) ] [ (9, 2, 136) is resting on 1 bricks
+Brick 1245 [ (7, 9, 134) ] [ (9, 9, 134) supporting 1 bricks
+	Supported brick 893 [ (7, 9, 134) ] [ (9, 9, 134) is resting on 1 bricks
+Brick 734 [ (5, 4, 134) ] [ (5, 6, 134) supporting 1 bricks
+	Supported brick 658 [ (5, 4, 134) ] [ (5, 6, 134) is resting on 1 bricks
+Brick 731 [ (0, 4, 138) ] [ (3, 4, 138) supporting 2 bricks
+	Supported brick 559 [ (0, 4, 138) ] [ (3, 4, 138) is resting on 1 bricks
+	Supported brick 1193 [ (0, 4, 138) ] [ (3, 4, 138) is resting on 1 bricks
+Brick 547 [ (2, 1, 135) ] [ (2, 3, 135) supporting 0 bricks
+Brick 154 [ (1, 6, 135) ] [ (1, 9, 135) supporting 1 bricks
+	Supported brick 720 [ (1, 6, 135) ] [ (1, 9, 135) is resting on 1 bricks
+Brick 427 [ (3, 1, 135) ] [ (3, 1, 137) supporting 1 bricks
+	Supported brick 538 [ (3, 1, 135) ] [ (3, 1, 137) is resting on 1 bricks
+Brick 1193 [ (1, 4, 139) ] [ (4, 4, 139) supporting 1 bricks
+	Supported brick 1026 [ (1, 4, 139) ] [ (4, 4, 139) is resting on 1 bricks
+Brick 714 [ (0, 0, 136) ] [ (0, 2, 136) supporting 1 bricks
+	Supported brick 1366 [ (0, 0, 136) ] [ (0, 2, 136) is resting on 1 bricks
+Brick 794 [ (9, 4, 134) ] [ (9, 7, 134) supporting 0 bricks
+Brick 1118 [ (7, 1, 136) ] [ (8, 1, 136) supporting 2 bricks
+	Supported brick 309 [ (7, 1, 136) ] [ (8, 1, 136) is resting on 2 bricks
+	Supported brick 1310 [ (7, 1, 136) ] [ (8, 1, 136) is resting on 2 bricks
+Brick 1096 [ (9, 0, 137) ] [ (9, 1, 137) supporting 1 bricks
+	Supported brick 429 [ (9, 0, 137) ] [ (9, 1, 137) is resting on 2 bricks
+Brick 559 [ (0, 4, 139) ] [ (0, 4, 141) supporting 0 bricks
+Brick 545 [ (4, 8, 135) ] [ (4, 8, 138) supporting 1 bricks
+	Supported brick 1070 [ (4, 8, 135) ] [ (4, 8, 138) is resting on 1 bricks
+Brick 1276 [ (1, 1, 136) ] [ (1, 3, 136) supporting 2 bricks
+	Supported brick 1388 [ (1, 1, 136) ] [ (1, 3, 136) is resting on 1 bricks
+	Supported brick 285 [ (1, 1, 136) ] [ (1, 3, 136) is resting on 1 bricks
+Brick 885 [ (7, 2, 137) ] [ (7, 4, 137) supporting 0 bricks
+Brick 30 [ (4, 1, 136) ] [ (6, 1, 136) supporting 2 bricks
+	Supported brick 1404 [ (4, 1, 136) ] [ (6, 1, 136) is resting on 1 bricks
+	Supported brick 710 [ (4, 1, 136) ] [ (6, 1, 136) is resting on 2 bricks
+Brick 720 [ (1, 6, 136) ] [ (3, 6, 136) supporting 1 bricks
+	Supported brick 568 [ (1, 6, 136) ] [ (3, 6, 136) is resting on 1 bricks
+Brick 658 [ (5, 6, 135) ] [ (7, 6, 135) supporting 2 bricks
+	Supported brick 61 [ (5, 6, 135) ] [ (7, 6, 135) is resting on 1 bricks
+	Supported brick 1334 [ (5, 6, 135) ] [ (7, 6, 135) is resting on 1 bricks
+Brick 855 [ (5, 2, 138) ] [ (5, 4, 138) supporting 2 bricks
+	Supported brick 647 [ (5, 2, 138) ] [ (5, 4, 138) is resting on 1 bricks
+	Supported brick 1075 [ (5, 2, 138) ] [ (5, 4, 138) is resting on 1 bricks
+Brick 893 [ (9, 9, 135) ] [ (9, 9, 138) supporting 0 bricks
+Brick 1310 [ (8, 0, 137) ] [ (8, 1, 137) supporting 1 bricks
+	Supported brick 429 [ (8, 0, 137) ] [ (8, 1, 137) is resting on 2 bricks
+Brick 538 [ (3, 0, 138) ] [ (3, 2, 138) supporting 0 bricks
+Brick 61 [ (5, 6, 136) ] [ (5, 8, 136) supporting 1 bricks
+	Supported brick 1271 [ (5, 6, 136) ] [ (5, 8, 136) is resting on 1 bricks
+Brick 1388 [ (1, 0, 137) ] [ (1, 2, 137) supporting 3 bricks
+	Supported brick 337 [ (1, 0, 137) ] [ (1, 2, 137) is resting on 2 bricks
+	Supported brick 152 [ (1, 0, 137) ] [ (1, 2, 137) is resting on 1 bricks
+	Supported brick 46 [ (1, 0, 137) ] [ (1, 2, 137) is resting on 1 bricks
+Brick 309 [ (7, 0, 137) ] [ (7, 1, 137) supporting 0 bricks
+Brick 1026 [ (4, 4, 140) ] [ (4, 4, 142) supporting 1 bricks
+	Supported brick 139 [ (4, 4, 140) ] [ (4, 4, 142) is resting on 1 bricks
+Brick 429 [ (8, 1, 138) ] [ (9, 1, 138) supporting 1 bricks
+	Supported brick 1177 [ (8, 1, 138) ] [ (9, 1, 138) is resting on 1 bricks
+Brick 1366 [ (0, 0, 137) ] [ (0, 1, 137) supporting 1 bricks
+	Supported brick 337 [ (0, 0, 137) ] [ (0, 1, 137) is resting on 2 bricks
+Brick 285 [ (1, 3, 137) ] [ (4, 3, 137) supporting 1 bricks
+	Supported brick 692 [ (1, 3, 137) ] [ (4, 3, 137) is resting on 1 bricks
+Brick 1404 [ (4, 1, 137) ] [ (5, 1, 137) supporting 0 bricks
+Brick 337 [ (0, 1, 138) ] [ (2, 1, 138) supporting 2 bricks
+	Supported brick 730 [ (0, 1, 138) ] [ (2, 1, 138) is resting on 1 bricks
+	Supported brick 1243 [ (0, 1, 138) ] [ (2, 1, 138) is resting on 1 bricks
+Brick 568 [ (1, 5, 137) ] [ (1, 7, 137) supporting 1 bricks
+	Supported brick 126 [ (1, 5, 137) ] [ (1, 7, 137) is resting on 1 bricks
+Brick 1334 [ (7, 5, 136) ] [ (7, 8, 136) supporting 3 bricks
+	Supported brick 213 [ (7, 5, 136) ] [ (7, 8, 136) is resting on 1 bricks
+	Supported brick 992 [ (7, 5, 136) ] [ (7, 8, 136) is resting on 1 bricks
+	Supported brick 1056 [ (7, 5, 136) ] [ (7, 8, 136) is resting on 1 bricks
+Brick 710 [ (6, 1, 137) ] [ (6, 4, 137) supporting 0 bricks
+Brick 46 [ (1, 0, 138) ] [ (2, 0, 138) supporting 1 bricks
+	Supported brick 1229 [ (1, 0, 138) ] [ (2, 0, 138) is resting on 1 bricks
+Brick 1271 [ (2, 7, 137) ] [ (5, 7, 137) supporting 0 bricks
+Brick 1229 [ (0, 0, 139) ] [ (2, 0, 139) supporting 1 bricks
+	Supported brick 288 [ (0, 0, 139) ] [ (2, 0, 139) is resting on 1 bricks
+Brick 213 [ (6, 5, 137) ] [ (9, 5, 137) supporting 0 bricks
+Brick 1075 [ (5, 3, 139) ] [ (8, 3, 139) supporting 1 bricks
+	Supported brick 926 [ (5, 3, 139) ] [ (8, 3, 139) is resting on 1 bricks
+Brick 692 [ (4, 2, 138) ] [ (4, 3, 138) supporting 0 bricks
+Brick 152 [ (0, 2, 138) ] [ (1, 2, 138) supporting 0 bricks
+Brick 1243 [ (2, 1, 139) ] [ (2, 2, 139) supporting 1 bricks
+	Supported brick 1152 [ (2, 1, 139) ] [ (2, 2, 139) is resting on 1 bricks
+Brick 139 [ (4, 4, 143) ] [ (4, 6, 143) supporting 1 bricks
+	Supported brick 56 [ (4, 4, 143) ] [ (4, 6, 143) is resting on 1 bricks
+Brick 1070 [ (4, 8, 139) ] [ (6, 8, 139) supporting 0 bricks
+Brick 1177 [ (9, 1, 139) ] [ (9, 3, 139) supporting 2 bricks
+	Supported brick 1279 [ (9, 1, 139) ] [ (9, 3, 139) is resting on 1 bricks
+	Supported brick 781 [ (9, 1, 139) ] [ (9, 3, 139) is resting on 1 bricks
+Brick 647 [ (5, 2, 139) ] [ (6, 2, 139) supporting 1 bricks
+	Supported brick 1094 [ (5, 2, 139) ] [ (6, 2, 139) is resting on 1 bricks
+Brick 926 [ (8, 3, 140) ] [ (8, 3, 141) supporting 1 bricks
+	Supported brick 350 [ (8, 3, 140) ] [ (8, 3, 141) is resting on 1 bricks
+Brick 992 [ (7, 6, 137) ] [ (7, 7, 137) supporting 0 bricks
+Brick 1056 [ (7, 8, 137) ] [ (7, 9, 137) supporting 0 bricks
+Brick 1094 [ (6, 0, 140) ] [ (6, 2, 140) supporting 2 bricks
+	Supported brick 718 [ (6, 0, 140) ] [ (6, 2, 140) is resting on 1 bricks
+	Supported brick 1035 [ (6, 0, 140) ] [ (6, 2, 140) is resting on 1 bricks
+Brick 126 [ (0, 6, 138) ] [ (2, 6, 138) supporting 0 bricks
+Brick 1279 [ (9, 0, 140) ] [ (9, 1, 140) supporting 1 bricks
+	Supported brick 978 [ (9, 0, 140) ] [ (9, 1, 140) is resting on 2 bricks
+Brick 730 [ (0, 1, 139) ] [ (0, 1, 141) supporting 1 bricks
+	Supported brick 417 [ (0, 1, 139) ] [ (0, 1, 141) is resting on 1 bricks
+Brick 1035 [ (5, 0, 141) ] [ (7, 0, 141) supporting 0 bricks
+Brick 56 [ (2, 5, 144) ] [ (4, 5, 144) supporting 2 bricks
+	Supported brick 141 [ (2, 5, 144) ] [ (4, 5, 144) is resting on 1 bricks
+	Supported brick 1179 [ (2, 5, 144) ] [ (4, 5, 144) is resting on 1 bricks
+Brick 350 [ (8, 2, 142) ] [ (8, 3, 142) supporting 2 bricks
+	Supported brick 333 [ (8, 2, 142) ] [ (8, 3, 142) is resting on 1 bricks
+	Supported brick 667 [ (8, 2, 142) ] [ (8, 3, 142) is resting on 1 bricks
+Brick 288 [ (0, 0, 140) ] [ (2, 0, 140) supporting 1 bricks
+	Supported brick 888 [ (0, 0, 140) ] [ (2, 0, 140) is resting on 1 bricks
+Brick 1152 [ (2, 2, 140) ] [ (2, 2, 143) supporting 0 bricks
+Brick 781 [ (9, 2, 140) ] [ (9, 3, 140) supporting 1 bricks
+	Supported brick 978 [ (9, 2, 140) ] [ (9, 3, 140) is resting on 2 bricks
+Brick 141 [ (2, 3, 145) ] [ (2, 5, 145) supporting 1 bricks
+	Supported brick 477 [ (2, 3, 145) ] [ (2, 5, 145) is resting on 1 bricks
+Brick 888 [ (1, 0, 141) ] [ (1, 2, 141) supporting 0 bricks
+Brick 667 [ (8, 3, 143) ] [ (8, 3, 144) supporting 0 bricks
+Brick 718 [ (3, 1, 141) ] [ (6, 1, 141) supporting 1 bricks
+	Supported brick 476 [ (3, 1, 141) ] [ (6, 1, 141) is resting on 1 bricks
+Brick 477 [ (2, 5, 146) ] [ (3, 5, 146) supporting 1 bricks
+	Supported brick 979 [ (2, 5, 146) ] [ (3, 5, 146) is resting on 1 bricks
+Brick 978 [ (9, 0, 141) ] [ (9, 2, 141) supporting 1 bricks
+	Supported brick 438 [ (9, 0, 141) ] [ (9, 2, 141) is resting on 1 bricks
+Brick 333 [ (8, 1, 143) ] [ (8, 2, 143) supporting 0 bricks
+Brick 1179 [ (4, 4, 145) ] [ (4, 6, 145) supporting 1 bricks
+	Supported brick 776 [ (4, 4, 145) ] [ (4, 6, 145) is resting on 1 bricks
+Brick 476 [ (3, 1, 142) ] [ (3, 3, 142) supporting 1 bricks
+	Supported brick 1014 [ (3, 1, 142) ] [ (3, 3, 142) is resting on 1 bricks
+Brick 979 [ (1, 5, 147) ] [ (4, 5, 147) supporting 1 bricks
+	Supported brick 1292 [ (1, 5, 147) ] [ (4, 5, 147) is resting on 1 bricks
+Brick 417 [ (0, 1, 142) ] [ (0, 1, 142) supporting 0 bricks
+Brick 1014 [ (3, 0, 143) ] [ (3, 1, 143) supporting 1 bricks
+	Supported brick 274 [ (3, 0, 143) ] [ (3, 1, 143) is resting on 1 bricks
+Brick 776 [ (4, 4, 146) ] [ (6, 4, 146) supporting 1 bricks
+	Supported brick 703 [ (4, 4, 146) ] [ (6, 4, 146) is resting on 1 bricks
+Brick 274 [ (3, 0, 144) ] [ (4, 0, 144) supporting 0 bricks
+Brick 438 [ (9, 1, 142) ] [ (9, 3, 142) supporting 0 bricks
+Brick 1292 [ (3, 3, 148) ] [ (3, 6, 148) supporting 2 bricks
+	Supported brick 646 [ (3, 3, 148) ] [ (3, 6, 148) is resting on 1 bricks
+	Supported brick 597 [ (3, 3, 148) ] [ (3, 6, 148) is resting on 1 bricks
+Brick 646 [ (0, 5, 149) ] [ (3, 5, 149) supporting 1 bricks
+	Supported brick 454 [ (0, 5, 149) ] [ (3, 5, 149) is resting on 1 bricks
+Brick 703 [ (5, 3, 147) ] [ (5, 5, 147) supporting 2 bricks
+	Supported brick 397 [ (5, 3, 147) ] [ (5, 5, 147) is resting on 1 bricks
+	Supported brick 471 [ (5, 3, 147) ] [ (5, 5, 147) is resting on 1 bricks
+Brick 597 [ (2, 3, 149) ] [ (5, 3, 149) supporting 2 bricks
+	Supported brick 802 [ (2, 3, 149) ] [ (5, 3, 149) is resting on 1 bricks
+	Supported brick 244 [ (2, 3, 149) ] [ (5, 3, 149) is resting on 1 bricks
+Brick 397 [ (4, 4, 148) ] [ (7, 4, 148) supporting 2 bricks
+	Supported brick 1015 [ (4, 4, 148) ] [ (7, 4, 148) is resting on 2 bricks
+	Supported brick 1171 [ (4, 4, 148) ] [ (7, 4, 148) is resting on 1 bricks
+Brick 471 [ (5, 5, 148) ] [ (5, 9, 148) supporting 3 bricks
+	Supported brick 744 [ (5, 5, 148) ] [ (5, 9, 148) is resting on 1 bricks
+	Supported brick 1015 [ (5, 5, 148) ] [ (5, 9, 148) is resting on 2 bricks
+	Supported brick 1076 [ (5, 5, 148) ] [ (5, 9, 148) is resting on 1 bricks
+Brick 244 [ (3, 3, 150) ] [ (6, 3, 150) supporting 2 bricks
+	Supported brick 88 [ (3, 3, 150) ] [ (6, 3, 150) is resting on 2 bricks
+	Supported brick 929 [ (3, 3, 150) ] [ (6, 3, 150) is resting on 1 bricks
+Brick 454 [ (2, 5, 150) ] [ (2, 7, 150) supporting 1 bricks
+	Supported brick 374 [ (2, 5, 150) ] [ (2, 7, 150) is resting on 1 bricks
+Brick 1171 [ (7, 1, 149) ] [ (7, 4, 149) supporting 0 bricks
+Brick 802 [ (0, 3, 150) ] [ (2, 3, 150) supporting 2 bricks
+	Supported brick 319 [ (0, 3, 150) ] [ (2, 3, 150) is resting on 1 bricks
+	Supported brick 88 [ (0, 3, 150) ] [ (2, 3, 150) is resting on 2 bricks
+Brick 744 [ (4, 8, 149) ] [ (7, 8, 149) supporting 2 bricks
+	Supported brick 1335 [ (4, 8, 149) ] [ (7, 8, 149) is resting on 1 bricks
+	Supported brick 113 [ (4, 8, 149) ] [ (7, 8, 149) is resting on 1 bricks
+Brick 88 [ (2, 3, 151) ] [ (4, 3, 151) supporting 0 bricks
+Brick 1015 [ (5, 4, 149) ] [ (5, 7, 149) supporting 2 bricks
+	Supported brick 743 [ (5, 4, 149) ] [ (5, 7, 149) is resting on 1 bricks
+	Supported brick 335 [ (5, 4, 149) ] [ (5, 7, 149) is resting on 1 bricks
+Brick 319 [ (1, 3, 151) ] [ (1, 3, 153) supporting 0 bricks
+Brick 1076 [ (5, 9, 149) ] [ (8, 9, 149) supporting 1 bricks
+	Supported brick 604 [ (5, 9, 149) ] [ (8, 9, 149) is resting on 1 bricks
+Brick 929 [ (6, 0, 151) ] [ (6, 3, 151) supporting 2 bricks
+	Supported brick 1122 [ (6, 0, 151) ] [ (6, 3, 151) is resting on 1 bricks
+	Supported brick 840 [ (6, 0, 151) ] [ (6, 3, 151) is resting on 1 bricks
+Brick 374 [ (0, 7, 151) ] [ (3, 7, 151) supporting 2 bricks
+	Supported brick 198 [ (0, 7, 151) ] [ (3, 7, 151) is resting on 1 bricks
+	Supported brick 1398 [ (0, 7, 151) ] [ (3, 7, 151) is resting on 1 bricks
+Brick 335 [ (5, 5, 150) ] [ (5, 6, 150) supporting 0 bricks
+Brick 113 [ (7, 8, 150) ] [ (8, 8, 150) supporting 1 bricks
+	Supported brick 1 [ (7, 8, 150) ] [ (8, 8, 150) is resting on 1 bricks
+Brick 198 [ (0, 5, 152) ] [ (0, 7, 152) supporting 1 bricks
+	Supported brick 981 [ (0, 5, 152) ] [ (0, 7, 152) is resting on 1 bricks
+Brick 604 [ (4, 9, 150) ] [ (6, 9, 150) supporting 0 bricks
+Brick 1335 [ (3, 8, 150) ] [ (6, 8, 150) supporting 2 bricks
+	Supported brick 1277 [ (3, 8, 150) ] [ (6, 8, 150) is resting on 1 bricks
+	Supported brick 67 [ (3, 8, 150) ] [ (6, 8, 150) is resting on 1 bricks
+Brick 840 [ (6, 0, 152) ] [ (8, 0, 152) supporting 1 bricks
+	Supported brick 1389 [ (6, 0, 152) ] [ (8, 0, 152) is resting on 1 bricks
+Brick 1122 [ (4, 2, 152) ] [ (6, 2, 152) supporting 0 bricks
+Brick 743 [ (3, 4, 150) ] [ (5, 4, 150) supporting 1 bricks
+	Supported brick 681 [ (3, 4, 150) ] [ (5, 4, 150) is resting on 1 bricks
+Brick 981 [ (0, 5, 153) ] [ (2, 5, 153) supporting 1 bricks
+	Supported brick 181 [ (0, 5, 153) ] [ (2, 5, 153) is resting on 1 bricks
+Brick 1398 [ (3, 7, 152) ] [ (6, 7, 152) supporting 1 bricks
+	Supported brick 674 [ (3, 7, 152) ] [ (6, 7, 152) is resting on 1 bricks
+Brick 1389 [ (5, 0, 153) ] [ (7, 0, 153) supporting 3 bricks
+	Supported brick 1010 [ (5, 0, 153) ] [ (7, 0, 153) is resting on 1 bricks
+	Supported brick 234 [ (5, 0, 153) ] [ (7, 0, 153) is resting on 1 bricks
+	Supported brick 166 [ (5, 0, 153) ] [ (7, 0, 153) is resting on 1 bricks
+Brick 1277 [ (1, 8, 151) ] [ (4, 8, 151) supporting 1 bricks
+	Supported brick 286 [ (1, 8, 151) ] [ (4, 8, 151) is resting on 2 bricks
+Brick 1 [ (8, 6, 151) ] [ (8, 9, 151) supporting 3 bricks
+	Supported brick 421 [ (8, 6, 151) ] [ (8, 9, 151) is resting on 1 bricks
+	Supported brick 73 [ (8, 6, 151) ] [ (8, 9, 151) is resting on 1 bricks
+	Supported brick 199 [ (8, 6, 151) ] [ (8, 9, 151) is resting on 1 bricks
+Brick 674 [ (6, 6, 153) ] [ (6, 7, 153) supporting 0 bricks
+Brick 681 [ (2, 4, 151) ] [ (4, 4, 151) supporting 1 bricks
+	Supported brick 694 [ (2, 4, 151) ] [ (4, 4, 151) is resting on 1 bricks
+Brick 67 [ (5, 8, 151) ] [ (6, 8, 151) supporting 1 bricks
+	Supported brick 286 [ (5, 8, 151) ] [ (6, 8, 151) is resting on 2 bricks
+Brick 286 [ (3, 8, 152) ] [ (6, 8, 152) supporting 1 bricks
+	Supported brick 209 [ (3, 8, 152) ] [ (6, 8, 152) is resting on 1 bricks
+Brick 694 [ (4, 4, 152) ] [ (4, 6, 152) supporting 2 bricks
+	Supported brick 324 [ (4, 4, 152) ] [ (4, 6, 152) is resting on 1 bricks
+	Supported brick 1211 [ (4, 4, 152) ] [ (4, 6, 152) is resting on 1 bricks
+Brick 181 [ (2, 3, 154) ] [ (2, 5, 154) supporting 1 bricks
+	Supported brick 85 [ (2, 3, 154) ] [ (2, 5, 154) is resting on 1 bricks
+Brick 166 [ (7, 0, 154) ] [ (7, 2, 154) supporting 1 bricks
+	Supported brick 1253 [ (7, 0, 154) ] [ (7, 2, 154) is resting on 1 bricks
+Brick 421 [ (7, 8, 152) ] [ (9, 8, 152) supporting 0 bricks
+Brick 73 [ (8, 6, 152) ] [ (8, 6, 156) supporting 1 bricks
+	Supported brick 930 [ (8, 6, 152) ] [ (8, 6, 156) is resting on 1 bricks
+Brick 324 [ (3, 4, 153) ] [ (5, 4, 153) supporting 2 bricks
+	Supported brick 1231 [ (3, 4, 153) ] [ (5, 4, 153) is resting on 1 bricks
+	Supported brick 786 [ (3, 4, 153) ] [ (5, 4, 153) is resting on 1 bricks
+Brick 199 [ (8, 7, 152) ] [ (9, 7, 152) supporting 0 bricks
+Brick 1010 [ (3, 0, 154) ] [ (5, 0, 154) supporting 1 bricks
+	Supported brick 468 [ (3, 0, 154) ] [ (5, 0, 154) is resting on 1 bricks
+Brick 85 [ (2, 2, 155) ] [ (2, 5, 155) supporting 2 bricks
+	Supported brick 815 [ (2, 2, 155) ] [ (2, 5, 155) is resting on 1 bricks
+	Supported brick 1346 [ (2, 2, 155) ] [ (2, 5, 155) is resting on 1 bricks
+Brick 1253 [ (7, 1, 155) ] [ (7, 2, 155) supporting 0 bricks
+Brick 234 [ (6, 0, 154) ] [ (6, 0, 156) supporting 1 bricks
+	Supported brick 1291 [ (6, 0, 154) ] [ (6, 0, 156) is resting on 1 bricks
+Brick 1211 [ (4, 6, 153) ] [ (5, 6, 153) supporting 0 bricks
+Brick 786 [ (4, 3, 154) ] [ (4, 4, 154) supporting 1 bricks
+	Supported brick 86 [ (4, 3, 154) ] [ (4, 4, 154) is resting on 1 bricks
+Brick 1231 [ (3, 2, 154) ] [ (3, 5, 154) supporting 0 bricks
+Brick 209 [ (3, 8, 153) ] [ (6, 8, 153) supporting 2 bricks
+	Supported brick 1371 [ (3, 8, 153) ] [ (6, 8, 153) is resting on 1 bricks
+	Supported brick 311 [ (3, 8, 153) ] [ (6, 8, 153) is resting on 1 bricks
+Brick 1346 [ (2, 2, 156) ] [ (2, 2, 160) supporting 1 bricks
+	Supported brick 1262 [ (2, 2, 156) ] [ (2, 2, 160) is resting on 2 bricks
+Brick 86 [ (4, 2, 155) ] [ (4, 3, 155) supporting 1 bricks
+	Supported brick 1372 [ (4, 2, 155) ] [ (4, 3, 155) is resting on 1 bricks
+Brick 311 [ (6, 8, 154) ] [ (9, 8, 154) supporting 2 bricks
+	Supported brick 757 [ (6, 8, 154) ] [ (9, 8, 154) is resting on 1 bricks
+	Supported brick 662 [ (6, 8, 154) ] [ (9, 8, 154) is resting on 1 bricks
+Brick 1371 [ (1, 8, 154) ] [ (5, 8, 154) supporting 3 bricks
+	Supported brick 183 [ (1, 8, 154) ] [ (5, 8, 154) is resting on 1 bricks
+	Supported brick 1352 [ (1, 8, 154) ] [ (5, 8, 154) is resting on 1 bricks
+	Supported brick 1139 [ (1, 8, 154) ] [ (5, 8, 154) is resting on 1 bricks
+Brick 815 [ (0, 5, 156) ] [ (3, 5, 156) supporting 2 bricks
+	Supported brick 418 [ (0, 5, 156) ] [ (3, 5, 156) is resting on 1 bricks
+	Supported brick 997 [ (0, 5, 156) ] [ (3, 5, 156) is resting on 1 bricks
+Brick 468 [ (2, 0, 155) ] [ (4, 0, 155) supporting 1 bricks
+	Supported brick 7 [ (2, 0, 155) ] [ (4, 0, 155) is resting on 1 bricks
+Brick 662 [ (7, 8, 155) ] [ (8, 8, 155) supporting 0 bricks
+Brick 757 [ (6, 6, 155) ] [ (6, 8, 155) supporting 1 bricks
+	Supported brick 561 [ (6, 6, 155) ] [ (6, 8, 155) is resting on 1 bricks
+Brick 1372 [ (3, 3, 156) ] [ (5, 3, 156) supporting 2 bricks
+	Supported brick 256 [ (3, 3, 156) ] [ (5, 3, 156) is resting on 1 bricks
+	Supported brick 276 [ (3, 3, 156) ] [ (5, 3, 156) is resting on 1 bricks
+Brick 7 [ (2, 0, 156) ] [ (4, 0, 156) supporting 1 bricks
+	Supported brick 586 [ (2, 0, 156) ] [ (4, 0, 156) is resting on 1 bricks
+Brick 183 [ (2, 7, 155) ] [ (2, 9, 155) supporting 1 bricks
+	Supported brick 903 [ (2, 7, 155) ] [ (2, 9, 155) is resting on 1 bricks
+Brick 997 [ (3, 5, 157) ] [ (3, 6, 157) supporting 0 bricks
+Brick 1291 [ (6, 0, 157) ] [ (6, 0, 159) supporting 1 bricks
+	Supported brick 1079 [ (6, 0, 157) ] [ (6, 0, 159) is resting on 1 bricks
+Brick 1352 [ (4, 8, 155) ] [ (4, 8, 158) supporting 1 bricks
+	Supported brick 93 [ (4, 8, 155) ] [ (4, 8, 158) is resting on 1 bricks
+Brick 256 [ (4, 1, 157) ] [ (4, 3, 157) supporting 1 bricks
+	Supported brick 606 [ (4, 1, 157) ] [ (4, 3, 157) is resting on 1 bricks
+Brick 930 [ (8, 4, 157) ] [ (8, 6, 157) supporting 1 bricks
+	Supported brick 704 [ (8, 4, 157) ] [ (8, 6, 157) is resting on 1 bricks
+Brick 418 [ (0, 5, 157) ] [ (1, 5, 157) supporting 0 bricks
+Brick 1139 [ (5, 8, 155) ] [ (5, 8, 157) supporting 0 bricks
+Brick 606 [ (3, 1, 158) ] [ (6, 1, 158) supporting 1 bricks
+	Supported brick 972 [ (3, 1, 158) ] [ (6, 1, 158) is resting on 1 bricks
+Brick 903 [ (1, 9, 156) ] [ (3, 9, 156) supporting 1 bricks
+	Supported brick 792 [ (1, 9, 156) ] [ (3, 9, 156) is resting on 1 bricks
+Brick 276 [ (5, 3, 157) ] [ (5, 4, 157) supporting 1 bricks
+	Supported brick 581 [ (5, 3, 157) ] [ (5, 4, 157) is resting on 1 bricks
+Brick 561 [ (6, 8, 156) ] [ (6, 9, 156) supporting 0 bricks
+Brick 586 [ (1, 0, 157) ] [ (4, 0, 157) supporting 1 bricks
+	Supported brick 1337 [ (1, 0, 157) ] [ (4, 0, 157) is resting on 1 bricks
+Brick 1079 [ (5, 0, 160) ] [ (8, 0, 160) supporting 0 bricks
+Brick 972 [ (4, 1, 159) ] [ (4, 1, 159) supporting 0 bricks
+Brick 792 [ (1, 9, 157) ] [ (2, 9, 157) supporting 1 bricks
+	Supported brick 214 [ (1, 9, 157) ] [ (2, 9, 157) is resting on 1 bricks
+Brick 1337 [ (0, 0, 158) ] [ (2, 0, 158) supporting 1 bricks
+	Supported brick 99 [ (0, 0, 158) ] [ (2, 0, 158) is resting on 1 bricks
+Brick 581 [ (1, 4, 158) ] [ (5, 4, 158) supporting 2 bricks
+	Supported brick 27 [ (1, 4, 158) ] [ (5, 4, 158) is resting on 1 bricks
+	Supported brick 1130 [ (1, 4, 158) ] [ (5, 4, 158) is resting on 1 bricks
+Brick 704 [ (6, 5, 158) ] [ (9, 5, 158) supporting 1 bricks
+	Supported brick 1393 [ (6, 5, 158) ] [ (9, 5, 158) is resting on 1 bricks
+Brick 99 [ (0, 0, 159) ] [ (2, 0, 159) supporting 0 bricks
+Brick 1393 [ (7, 5, 159) ] [ (7, 7, 159) supporting 3 bricks
+	Supported brick 332 [ (7, 5, 159) ] [ (7, 7, 159) is resting on 1 bricks
+	Supported brick 973 [ (7, 5, 159) ] [ (7, 7, 159) is resting on 1 bricks
+	Supported brick 1133 [ (7, 5, 159) ] [ (7, 7, 159) is resting on 1 bricks
+Brick 93 [ (4, 8, 159) ] [ (4, 9, 159) supporting 0 bricks
+Brick 973 [ (6, 7, 160) ] [ (8, 7, 160) supporting 0 bricks
+Brick 1133 [ (7, 6, 160) ] [ (8, 6, 160) supporting 0 bricks
+Brick 1130 [ (4, 4, 159) ] [ (6, 4, 159) supporting 1 bricks
+	Supported brick 485 [ (4, 4, 159) ] [ (6, 4, 159) is resting on 1 bricks
+Brick 332 [ (5, 5, 160) ] [ (8, 5, 160) supporting 2 bricks
+	Supported brick 34 [ (5, 5, 160) ] [ (8, 5, 160) is resting on 1 bricks
+	Supported brick 147 [ (5, 5, 160) ] [ (8, 5, 160) is resting on 1 bricks
+Brick 27 [ (3, 2, 159) ] [ (3, 5, 159) supporting 1 bricks
+	Supported brick 1089 [ (3, 2, 159) ] [ (3, 5, 159) is resting on 1 bricks
+Brick 485 [ (4, 4, 160) ] [ (4, 5, 160) supporting 0 bricks
+Brick 214 [ (1, 7, 158) ] [ (1, 9, 158) supporting 3 bricks
+	Supported brick 712 [ (1, 7, 158) ] [ (1, 9, 158) is resting on 1 bricks
+	Supported brick 381 [ (1, 7, 158) ] [ (1, 9, 158) is resting on 1 bricks
+	Supported brick 527 [ (1, 7, 158) ] [ (1, 9, 158) is resting on 1 bricks
+Brick 34 [ (5, 5, 161) ] [ (6, 5, 161) supporting 1 bricks
+	Supported brick 1224 [ (5, 5, 161) ] [ (6, 5, 161) is resting on 1 bricks
+Brick 527 [ (1, 9, 159) ] [ (3, 9, 159) supporting 0 bricks
+Brick 1089 [ (1, 3, 160) ] [ (3, 3, 160) supporting 3 bricks
+	Supported brick 391 [ (1, 3, 160) ] [ (3, 3, 160) is resting on 1 bricks
+	Supported brick 1262 [ (1, 3, 160) ] [ (3, 3, 160) is resting on 2 bricks
+	Supported brick 726 [ (1, 3, 160) ] [ (3, 3, 160) is resting on 1 bricks
+Brick 712 [ (1, 5, 159) ] [ (1, 7, 159) supporting 2 bricks
+	Supported brick 1194 [ (1, 5, 159) ] [ (1, 7, 159) is resting on 1 bricks
+	Supported brick 960 [ (1, 5, 159) ] [ (1, 7, 159) is resting on 1 bricks
+Brick 381 [ (1, 8, 159) ] [ (3, 8, 159) supporting 0 bricks
+Brick 960 [ (1, 6, 160) ] [ (3, 6, 160) supporting 3 bricks
+	Supported brick 910 [ (1, 6, 160) ] [ (3, 6, 160) is resting on 1 bricks
+	Supported brick 609 [ (1, 6, 160) ] [ (3, 6, 160) is resting on 1 bricks
+	Supported brick 360 [ (1, 6, 160) ] [ (3, 6, 160) is resting on 1 bricks
+Brick 1224 [ (5, 3, 162) ] [ (5, 5, 162) supporting 3 bricks
+	Supported brick 49 [ (5, 3, 162) ] [ (5, 5, 162) is resting on 1 bricks
+	Supported brick 849 [ (5, 3, 162) ] [ (5, 5, 162) is resting on 1 bricks
+	Supported brick 572 [ (5, 3, 162) ] [ (5, 5, 162) is resting on 1 bricks
+Brick 147 [ (8, 5, 161) ] [ (9, 5, 161) supporting 1 bricks
+	Supported brick 296 [ (8, 5, 161) ] [ (9, 5, 161) is resting on 1 bricks
+Brick 572 [ (5, 5, 163) ] [ (5, 7, 163) supporting 1 bricks
+	Supported brick 178 [ (5, 5, 163) ] [ (5, 7, 163) is resting on 1 bricks
+Brick 726 [ (3, 2, 161) ] [ (3, 4, 161) supporting 1 bricks
+	Supported brick 907 [ (3, 2, 161) ] [ (3, 4, 161) is resting on 2 bricks
+Brick 910 [ (1, 5, 161) ] [ (1, 6, 161) supporting 1 bricks
+	Supported brick 857 [ (1, 5, 161) ] [ (1, 6, 161) is resting on 1 bricks
+Brick 391 [ (0, 3, 161) ] [ (1, 3, 161) supporting 1 bricks
+	Supported brick 699 [ (0, 3, 161) ] [ (1, 3, 161) is resting on 1 bricks
+Brick 296 [ (9, 2, 162) ] [ (9, 5, 162) supporting 1 bricks
+	Supported brick 287 [ (9, 2, 162) ] [ (9, 5, 162) is resting on 1 bricks
+Brick 360 [ (3, 6, 161) ] [ (4, 6, 161) supporting 1 bricks
+	Supported brick 1095 [ (3, 6, 161) ] [ (4, 6, 161) is resting on 1 bricks
+Brick 1262 [ (2, 1, 161) ] [ (2, 4, 161) supporting 3 bricks
+	Supported brick 980 [ (2, 1, 161) ] [ (2, 4, 161) is resting on 1 bricks
+	Supported brick 1013 [ (2, 1, 161) ] [ (2, 4, 161) is resting on 1 bricks
+	Supported brick 907 [ (2, 1, 161) ] [ (2, 4, 161) is resting on 2 bricks
+Brick 1194 [ (0, 7, 160) ] [ (1, 7, 160) supporting 1 bricks
+	Supported brick 580 [ (0, 7, 160) ] [ (1, 7, 160) is resting on 1 bricks
+Brick 49 [ (5, 1, 163) ] [ (5, 3, 163) supporting 0 bricks
+Brick 849 [ (5, 4, 163) ] [ (8, 4, 163) supporting 1 bricks
+	Supported brick 299 [ (5, 4, 163) ] [ (8, 4, 163) is resting on 1 bricks
+Brick 609 [ (2, 5, 161) ] [ (2, 7, 161) supporting 1 bricks
+	Supported brick 540 [ (2, 5, 161) ] [ (2, 7, 161) is resting on 1 bricks
+Brick 580 [ (0, 7, 161) ] [ (0, 9, 161) supporting 1 bricks
+	Supported brick 20 [ (0, 7, 161) ] [ (0, 9, 161) is resting on 1 bricks
+Brick 907 [ (2, 3, 162) ] [ (3, 3, 162) supporting 0 bricks
+Brick 20 [ (0, 5, 162) ] [ (0, 8, 162) supporting 1 bricks
+	Supported brick 1113 [ (0, 5, 162) ] [ (0, 8, 162) is resting on 2 bricks
+Brick 178 [ (4, 7, 164) ] [ (6, 7, 164) supporting 1 bricks
+	Supported brick 891 [ (4, 7, 164) ] [ (6, 7, 164) is resting on 1 bricks
+Brick 857 [ (1, 6, 162) ] [ (1, 8, 162) supporting 0 bricks
+Brick 699 [ (0, 2, 162) ] [ (0, 4, 162) supporting 2 bricks
+	Supported brick 1331 [ (0, 2, 162) ] [ (0, 4, 162) is resting on 1 bricks
+	Supported brick 1113 [ (0, 2, 162) ] [ (0, 4, 162) is resting on 2 bricks
+Brick 287 [ (9, 5, 163) ] [ (9, 7, 163) supporting 2 bricks
+	Supported brick 116 [ (9, 5, 163) ] [ (9, 7, 163) is resting on 1 bricks
+	Supported brick 1165 [ (9, 5, 163) ] [ (9, 7, 163) is resting on 1 bricks
+Brick 980 [ (0, 1, 162) ] [ (2, 1, 162) supporting 0 bricks
+Brick 1095 [ (4, 6, 162) ] [ (4, 6, 163) supporting 0 bricks
+Brick 299 [ (5, 4, 164) ] [ (8, 4, 164) supporting 2 bricks
+	Supported brick 21 [ (5, 4, 164) ] [ (8, 4, 164) is resting on 1 bricks
+	Supported brick 750 [ (5, 4, 164) ] [ (8, 4, 164) is resting on 1 bricks
+Brick 891 [ (4, 7, 165) ] [ (4, 9, 165) supporting 1 bricks
+	Supported brick 1184 [ (4, 7, 165) ] [ (4, 9, 165) is resting on 1 bricks
+Brick 1013 [ (1, 2, 162) ] [ (2, 2, 162) supporting 0 bricks
+Brick 1113 [ (0, 4, 163) ] [ (0, 7, 163) supporting 2 bricks
+	Supported brick 196 [ (0, 4, 163) ] [ (0, 7, 163) is resting on 1 bricks
+	Supported brick 367 [ (0, 4, 163) ] [ (0, 7, 163) is resting on 1 bricks
+Brick 540 [ (2, 6, 162) ] [ (2, 8, 162) supporting 0 bricks
+Brick 1165 [ (9, 5, 164) ] [ (9, 6, 164) supporting 1 bricks
+	Supported brick 372 [ (9, 5, 164) ] [ (9, 6, 164) is resting on 1 bricks
+Brick 116 [ (7, 7, 164) ] [ (9, 7, 164) supporting 2 bricks
+	Supported brick 790 [ (7, 7, 164) ] [ (9, 7, 164) is resting on 1 bricks
+	Supported brick 560 [ (7, 7, 164) ] [ (9, 7, 164) is resting on 1 bricks
+Brick 196 [ (0, 5, 164) ] [ (0, 6, 164) supporting 1 bricks
+	Supported brick 140 [ (0, 5, 164) ] [ (0, 6, 164) is resting on 2 bricks
+Brick 1331 [ (0, 3, 163) ] [ (1, 3, 163) supporting 1 bricks
+	Supported brick 521 [ (0, 3, 163) ] [ (1, 3, 163) is resting on 1 bricks
+Brick 750 [ (8, 4, 165) ] [ (8, 4, 166) supporting 1 bricks
+	Supported brick 13 [ (8, 4, 165) ] [ (8, 4, 166) is resting on 1 bricks
+Brick 1184 [ (2, 9, 166) ] [ (4, 9, 166) supporting 1 bricks
+	Supported brick 1115 [ (2, 9, 166) ] [ (4, 9, 166) is resting on 1 bricks
+Brick 790 [ (8, 7, 165) ] [ (8, 9, 165) supporting 0 bricks
+Brick 21 [ (3, 4, 165) ] [ (5, 4, 165) supporting 1 bricks
+	Supported brick 63 [ (3, 4, 165) ] [ (5, 4, 165) is resting on 1 bricks
+Brick 367 [ (0, 7, 164) ] [ (3, 7, 164) supporting 1 bricks
+	Supported brick 140 [ (0, 7, 164) ] [ (3, 7, 164) is resting on 2 bricks
+Brick 372 [ (7, 5, 165) ] [ (9, 5, 165) supporting 1 bricks
+	Supported brick 182 [ (7, 5, 165) ] [ (9, 5, 165) is resting on 1 bricks
+Brick 560 [ (9, 7, 165) ] [ (9, 7, 168) supporting 0 bricks
+Brick 1115 [ (3, 9, 167) ] [ (5, 9, 167) supporting 1 bricks
+	Supported brick 407 [ (3, 9, 167) ] [ (5, 9, 167) is resting on 1 bricks
+Brick 140 [ (0, 6, 165) ] [ (0, 7, 165) supporting 1 bricks
+	Supported brick 1144 [ (0, 6, 165) ] [ (0, 7, 165) is resting on 1 bricks
+Brick 521 [ (0, 1, 164) ] [ (0, 3, 164) supporting 1 bricks
+	Supported brick 142 [ (0, 1, 164) ] [ (0, 3, 164) is resting on 1 bricks
+Brick 1144 [ (0, 7, 166) ] [ (0, 8, 166) supporting 0 bricks
+Brick 182 [ (7, 5, 166) ] [ (7, 8, 166) supporting 2 bricks
+	Supported brick 1274 [ (7, 5, 166) ] [ (7, 8, 166) is resting on 1 bricks
+	Supported brick 1293 [ (7, 5, 166) ] [ (7, 8, 166) is resting on 1 bricks
+Brick 63 [ (4, 3, 166) ] [ (4, 5, 166) supporting 1 bricks
+	Supported brick 128 [ (4, 3, 166) ] [ (4, 5, 166) is resting on 1 bricks
+Brick 13 [ (5, 4, 167) ] [ (8, 4, 167) supporting 2 bricks
+	Supported brick 654 [ (5, 4, 167) ] [ (8, 4, 167) is resting on 1 bricks
+	Supported brick 729 [ (5, 4, 167) ] [ (8, 4, 167) is resting on 1 bricks
+Brick 128 [ (2, 5, 167) ] [ (5, 5, 167) supporting 1 bricks
+	Supported brick 996 [ (2, 5, 167) ] [ (5, 5, 167) is resting on 1 bricks
+Brick 654 [ (6, 1, 168) ] [ (6, 4, 168) supporting 1 bricks
+	Supported brick 933 [ (6, 1, 168) ] [ (6, 4, 168) is resting on 2 bricks
+Brick 142 [ (0, 1, 165) ] [ (0, 4, 165) supporting 2 bricks
+	Supported brick 843 [ (0, 1, 165) ] [ (0, 4, 165) is resting on 1 bricks
+	Supported brick 1182 [ (0, 1, 165) ] [ (0, 4, 165) is resting on 1 bricks
+Brick 1182 [ (0, 4, 166) ] [ (1, 4, 166) supporting 1 bricks
+	Supported brick 1409 [ (0, 4, 166) ] [ (1, 4, 166) is resting on 1 bricks
+Brick 1293 [ (7, 8, 167) ] [ (9, 8, 167) supporting 1 bricks
+	Supported brick 1254 [ (7, 8, 167) ] [ (9, 8, 167) is resting on 2 bricks
+Brick 407 [ (3, 9, 168) ] [ (5, 9, 168) supporting 1 bricks
+	Supported brick 1022 [ (3, 9, 168) ] [ (5, 9, 168) is resting on 1 bricks
+Brick 729 [ (7, 2, 168) ] [ (7, 4, 168) supporting 1 bricks
+	Supported brick 933 [ (7, 2, 168) ] [ (7, 4, 168) is resting on 2 bricks
+Brick 843 [ (0, 2, 166) ] [ (2, 2, 166) supporting 1 bricks
+	Supported brick 1255 [ (0, 2, 166) ] [ (2, 2, 166) is resting on 1 bricks
+Brick 1274 [ (6, 7, 167) ] [ (8, 7, 167) supporting 1 bricks
+	Supported brick 1254 [ (6, 7, 167) ] [ (8, 7, 167) is resting on 2 bricks
+Brick 933 [ (6, 2, 169) ] [ (9, 2, 169) supporting 2 bricks
+	Supported brick 931 [ (6, 2, 169) ] [ (9, 2, 169) is resting on 1 bricks
+	Supported brick 498 [ (6, 2, 169) ] [ (9, 2, 169) is resting on 1 bricks
+Brick 996 [ (5, 5, 168) ] [ (5, 8, 168) supporting 0 bricks
+Brick 1022 [ (4, 8, 169) ] [ (4, 9, 169) supporting 1 bricks
+	Supported brick 293 [ (4, 8, 169) ] [ (4, 9, 169) is resting on 1 bricks
+Brick 1409 [ (1, 3, 167) ] [ (1, 6, 167) supporting 2 bricks
+	Supported brick 331 [ (1, 3, 167) ] [ (1, 6, 167) is resting on 1 bricks
+	Supported brick 510 [ (1, 3, 167) ] [ (1, 6, 167) is resting on 1 bricks
+Brick 1255 [ (0, 2, 167) ] [ (0, 3, 167) supporting 0 bricks
+Brick 293 [ (3, 9, 170) ] [ (5, 9, 170) supporting 0 bricks
+Brick 1254 [ (7, 6, 168) ] [ (7, 9, 168) supporting 0 bricks
+Brick 331 [ (1, 2, 168) ] [ (1, 4, 168) supporting 1 bricks
+	Supported brick 713 [ (1, 2, 168) ] [ (1, 4, 168) is resting on 1 bricks
+Brick 498 [ (7, 1, 170) ] [ (7, 4, 170) supporting 1 bricks
+	Supported brick 387 [ (7, 1, 170) ] [ (7, 4, 170) is resting on 1 bricks
+Brick 931 [ (6, 0, 170) ] [ (6, 2, 170) supporting 1 bricks
+	Supported brick 129 [ (6, 0, 170) ] [ (6, 2, 170) is resting on 1 bricks
+Brick 510 [ (1, 5, 168) ] [ (1, 7, 168) supporting 0 bricks
+Brick 387 [ (7, 4, 171) ] [ (9, 4, 171) supporting 0 bricks
+Brick 713 [ (1, 2, 169) ] [ (1, 4, 169) supporting 0 bricks
+Brick 129 [ (3, 1, 171) ] [ (6, 1, 171) supporting 2 bricks
+	Supported brick 478 [ (3, 1, 171) ] [ (6, 1, 171) is resting on 1 bricks
+	Supported brick 1235 [ (3, 1, 171) ] [ (6, 1, 171) is resting on 1 bricks
+Brick 478 [ (4, 1, 172) ] [ (4, 4, 172) supporting 2 bricks
+	Supported brick 1206 [ (4, 1, 172) ] [ (4, 4, 172) is resting on 1 bricks
+	Supported brick 639 [ (4, 1, 172) ] [ (4, 4, 172) is resting on 1 bricks
+Brick 1235 [ (6, 1, 172) ] [ (6, 1, 174) supporting 1 bricks
+	Supported brick 761 [ (6, 1, 172) ] [ (6, 1, 174) is resting on 1 bricks
+Brick 639 [ (3, 4, 173) ] [ (6, 4, 173) supporting 2 bricks
+	Supported brick 1101 [ (3, 4, 173) ] [ (6, 4, 173) is resting on 1 bricks
+	Supported brick 1387 [ (3, 4, 173) ] [ (6, 4, 173) is resting on 1 bricks
+Brick 1101 [ (2, 4, 174) ] [ (4, 4, 174) supporting 1 bricks
+	Supported brick 576 [ (2, 4, 174) ] [ (4, 4, 174) is resting on 1 bricks
+Brick 1206 [ (3, 1, 173) ] [ (5, 1, 173) supporting 0 bricks
+Brick 1387 [ (5, 3, 174) ] [ (5, 6, 174) supporting 3 bricks
+	Supported brick 263 [ (5, 3, 174) ] [ (5, 6, 174) is resting on 1 bricks
+	Supported brick 227 [ (5, 3, 174) ] [ (5, 6, 174) is resting on 1 bricks
+	Supported brick 402 [ (5, 3, 174) ] [ (5, 6, 174) is resting on 1 bricks
+Brick 576 [ (3, 2, 175) ] [ (3, 4, 175) supporting 1 bricks
+	Supported brick 195 [ (3, 2, 175) ] [ (3, 4, 175) is resting on 1 bricks
+Brick 402 [ (5, 5, 175) ] [ (8, 5, 175) supporting 1 bricks
+	Supported brick 378 [ (5, 5, 175) ] [ (8, 5, 175) is resting on 1 bricks
+Brick 761 [ (6, 0, 175) ] [ (6, 2, 175) supporting 2 bricks
+	Supported brick 1238 [ (6, 0, 175) ] [ (6, 2, 175) is resting on 1 bricks
+	Supported brick 1066 [ (6, 0, 175) ] [ (6, 2, 175) is resting on 1 bricks
+Brick 227 [ (4, 3, 175) ] [ (5, 3, 175) supporting 1 bricks
+	Supported brick 465 [ (4, 3, 175) ] [ (5, 3, 175) is resting on 1 bricks
+Brick 195 [ (2, 4, 176) ] [ (4, 4, 176) supporting 0 bricks
+Brick 263 [ (2, 6, 175) ] [ (5, 6, 175) supporting 1 bricks
+	Supported brick 782 [ (2, 6, 175) ] [ (5, 6, 175) is resting on 1 bricks
+Brick 1066 [ (6, 0, 176) ] [ (8, 0, 176) supporting 2 bricks
+	Supported brick 612 [ (6, 0, 176) ] [ (8, 0, 176) is resting on 2 bricks
+	Supported brick 1102 [ (6, 0, 176) ] [ (8, 0, 176) is resting on 1 bricks
+Brick 1238 [ (5, 1, 176) ] [ (7, 1, 176) supporting 1 bricks
+	Supported brick 612 [ (5, 1, 176) ] [ (7, 1, 176) is resting on 2 bricks
+Brick 465 [ (5, 3, 176) ] [ (8, 3, 176) supporting 2 bricks
+	Supported brick 552 [ (5, 3, 176) ] [ (8, 3, 176) is resting on 1 bricks
+	Supported brick 119 [ (5, 3, 176) ] [ (8, 3, 176) is resting on 1 bricks
+Brick 378 [ (8, 5, 176) ] [ (8, 5, 176) supporting 0 bricks
+Brick 782 [ (4, 6, 176) ] [ (4, 8, 176) supporting 0 bricks
+Brick 1102 [ (8, 0, 177) ] [ (9, 0, 177) supporting 0 bricks
+Brick 552 [ (5, 2, 177) ] [ (5, 4, 177) supporting 1 bricks
+	Supported brick 377 [ (5, 2, 177) ] [ (5, 4, 177) is resting on 1 bricks
+Brick 119 [ (8, 3, 177) ] [ (8, 4, 177) supporting 0 bricks
+Brick 377 [ (4, 3, 178) ] [ (6, 3, 178) supporting 2 bricks
+	Supported brick 1326 [ (4, 3, 178) ] [ (6, 3, 178) is resting on 1 bricks
+	Supported brick 221 [ (4, 3, 178) ] [ (6, 3, 178) is resting on 1 bricks
+Brick 612 [ (6, 0, 177) ] [ (6, 1, 177) supporting 0 bricks
+Brick 221 [ (6, 3, 179) ] [ (8, 3, 179) supporting 1 bricks
+	Supported brick 345 [ (6, 3, 179) ] [ (8, 3, 179) is resting on 1 bricks
+Brick 1326 [ (4, 3, 179) ] [ (4, 5, 179) supporting 2 bricks
+	Supported brick 671 [ (4, 3, 179) ] [ (4, 5, 179) is resting on 1 bricks
+	Supported brick 262 [ (4, 3, 179) ] [ (4, 5, 179) is resting on 1 bricks
+Brick 671 [ (2, 3, 180) ] [ (5, 3, 180) supporting 3 bricks
+	Supported brick 1341 [ (2, 3, 180) ] [ (5, 3, 180) is resting on 1 bricks
+	Supported brick 448 [ (2, 3, 180) ] [ (5, 3, 180) is resting on 1 bricks
+	Supported brick 110 [ (2, 3, 180) ] [ (5, 3, 180) is resting on 2 bricks
+Brick 345 [ (7, 1, 180) ] [ (7, 3, 180) supporting 1 bricks
+	Supported brick 619 [ (7, 1, 180) ] [ (7, 3, 180) is resting on 1 bricks
+Brick 262 [ (3, 4, 180) ] [ (6, 4, 180) supporting 2 bricks
+	Supported brick 110 [ (3, 4, 180) ] [ (6, 4, 180) is resting on 2 bricks
+	Supported brick 42 [ (3, 4, 180) ] [ (6, 4, 180) is resting on 1 bricks
+Brick 448 [ (4, 1, 181) ] [ (4, 3, 181) supporting 1 bricks
+	Supported brick 461 [ (4, 1, 181) ] [ (4, 3, 181) is resting on 3 bricks
+Brick 619 [ (7, 3, 181) ] [ (9, 3, 181) supporting 1 bricks
+	Supported brick 496 [ (7, 3, 181) ] [ (9, 3, 181) is resting on 1 bricks
+Brick 1341 [ (2, 2, 181) ] [ (2, 4, 181) supporting 1 bricks
+	Supported brick 816 [ (2, 2, 181) ] [ (2, 4, 181) is resting on 1 bricks
+Brick 496 [ (7, 0, 182) ] [ (7, 3, 182) supporting 2 bricks
+	Supported brick 701 [ (7, 0, 182) ] [ (7, 3, 182) is resting on 1 bricks
+	Supported brick 165 [ (7, 0, 182) ] [ (7, 3, 182) is resting on 1 bricks
+Brick 42 [ (6, 2, 181) ] [ (6, 5, 181) supporting 1 bricks
+	Supported brick 461 [ (6, 2, 181) ] [ (6, 5, 181) is resting on 3 bricks
+Brick 701 [ (5, 0, 183) ] [ (7, 0, 183) supporting 1 bricks
+	Supported brick 1288 [ (5, 0, 183) ] [ (7, 0, 183) is resting on 1 bricks
+Brick 816 [ (0, 3, 182) ] [ (2, 3, 182) supporting 1 bricks
+	Supported brick 1294 [ (0, 3, 182) ] [ (2, 3, 182) is resting on 1 bricks
+Brick 110 [ (5, 2, 181) ] [ (5, 4, 181) supporting 1 bricks
+	Supported brick 461 [ (5, 2, 181) ] [ (5, 4, 181) is resting on 3 bricks
+Brick 1294 [ (1, 3, 183) ] [ (3, 3, 183) supporting 0 bricks
+Brick 165 [ (7, 3, 183) ] [ (9, 3, 183) supporting 0 bricks
+Brick 461 [ (4, 3, 182) ] [ (6, 3, 182) supporting 0 bricks
+Brick 1288 [ (7, 0, 184) ] [ (7, 1, 184) supporting 0 bricks
