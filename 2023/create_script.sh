@@ -1,10 +1,7 @@
 #!/bin/bash
 
 for i in {01..25}; do
-	echo "#include <string>
-#include <vector>
-#include \"../util/input.h\"
-using namespace std;
+	echo "using namespace std;
 
 namespace Day${i} {
 	int64_t part1(const vector<string>& lines)
