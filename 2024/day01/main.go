@@ -4,7 +4,11 @@ import (
 	"bufio"
 	"flag"
 	"fmt"
+	"math"
 	"os"
+	"slices"
+	"strconv"
+	"strings"
 )
 
 func readFile(fname string) ([]string, error) {
@@ -45,9 +49,60 @@ func main() {
 }
 
 func part1(ls []string) int {
-	return -1
+	var aa, bb []int
+	for _, l := range ls {
+		split := strings.Split(l, "   ")
+		a, err := strconv.Atoi(split[0])
+		if err != nil {
+			panic(err)
+		}
+		b, err := strconv.Atoi(split[1])
+		if err != nil {
+			panic(err)
+		}
+		aa = append(aa, a)
+		bb = append(bb, b)
+	}
+	if len(aa) != len(bb) {
+		panic("Wrong input")
+	}
+	slices.Sort(aa)
+	slices.Sort(bb)
+
+	sum := 0
+	for i := 0; i < len(aa); i++ {
+		a := aa[i]
+		b := bb[i]
+		sum += int(math.Abs(float64(a - b)))
+	}
+	return sum
 }
 
 func part2(ls []string) int {
-	return -1
+	sum := 0
+	var aa, bb []int
+	for _, l := range ls {
+		split := strings.Split(l, "   ")
+		a, err := strconv.Atoi(split[0])
+		if err != nil {
+			panic(err)
+		}
+		b, err := strconv.Atoi(split[1])
+		if err != nil {
+			panic(err)
+		}
+		aa = append(aa, a)
+		bb = append(bb, b)
+	}
+
+	bbb := make(map[int]int)
+	for _, b := range bb {
+		bbb[b]++
+	}
+
+	for _, a := range aa {
+		sum += a * bbb[a]
+	}
+
+	return sum
 }
