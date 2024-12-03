@@ -5,12 +5,11 @@ if [[ $i -lt 10 ]]; then
   i="0$i"
 fi
 
-p=$2
-if [[ -n $3 ]]; then
-  f="test_in"
-else
-  echo "Final puzzle"
-  f="in"
-fi
 
-time go run day${i}/main.go -p ${p} -i day${i}/${f}
+if [[ -z $2 ]]; then
+  time go run day${i}/main.go -i day${i}/test_in
+  echo "--"
+  time go run day${i}/main.go -i day${i}/in
+else
+  time go run day${i}/main.go -i day${i}/$2
+fi

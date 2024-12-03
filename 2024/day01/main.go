@@ -27,25 +27,21 @@ func readFile(fname string) ([]string, error) {
 }
 
 func main() {
-	part1ptr := flag.Int("p", 1, "Part")
 	inputFilePtr := flag.String("i", "", "Input file")
 
 	flag.Parse()
 
-	fmt.Printf("Part %d - Input file: %s\n", *part1ptr, *inputFilePtr)
+	fmt.Printf("Input file: %s\n", *inputFilePtr)
 	ls, err := readFile(*inputFilePtr)
 	if err != nil {
 		panic(err)
 	}
 
 	fmt.Println("Lines:", len(ls))
-	var out int
-	if *part1ptr == 1 {
-		out = part1(ls)
-	} else {
-		out = part2(ls)
-	}
-	fmt.Printf("Output: %d\n", out)
+	out := part1(ls)
+	fmt.Printf("Output P1: %d\n", out)
+	out = part2(ls)
+	fmt.Printf("Output P2: %d\n", out)
 }
 
 func part1(ls []string) int {
