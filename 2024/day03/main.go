@@ -5,6 +5,8 @@ import (
 	"flag"
 	"fmt"
 	"os"
+	"regexp"
+	"strconv"
 )
 
 func readFile(fname string) ([]string, error) {
@@ -40,10 +42,48 @@ func main() {
 	fmt.Printf("Output P2: %d\n", out)
 }
 
+func parseMul(l string) int {
+	//fmt.Println("Multiplying", l)
+	mul := 1
+	r := regexp.MustCompile(`[0-9]{1,3}`)
+	for _, m := range r.FindAllString(l, -1) {
+		g, _ := strconv.Atoi(m)
+		mul *= g
+	}
+	return mul
+}
+
 func part1(ls []string) int {
-	return -1
+	sum := 0
+	for _, l := range ls {
+		r := regexp.MustCompile("mul\\([0-9]{1,3},[0-9]{1,3}\\)")
+		for _, m := range r.FindAllString(l, -1) {
+			sum += parseMul(m)
+		}
+	}
+	return sum
 }
 
 func part2(ls []string) int {
-	return -1
+	// mul\([0-9]{1,3},[0-9]{1,3}\)|(don't\(\)|do\(\))
+	sum := 0
+	enabled := true
+	for _, l := range ls {
+		r := regexp.MustCompile("(mul\\([0-9]{1,3},[0-9]{1,3}\\))|(don't\\(\\)|do\\(\\))")
+		//fmt.Println(r.FindAllString(l, -1))
+		for _, m := range r.FindAllString(l, -1) {
+			if m == "don't()" {
+				enabled = false
+				continue
+			} else if m == "do()" {
+				enabled = true
+				continue
+			}
+			if enabled {
+				sum += parseMul(m)
+				//fmt.Println(l, sum)
+			}
+		}
+	}
+	return sum
 }
