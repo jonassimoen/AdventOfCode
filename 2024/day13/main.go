@@ -97,29 +97,6 @@ func checkClawMachines(cm []ClawMachine, maxPresses int) int {
 	return sum
 }
 
-func checkClawMachinesIterative(cm []ClawMachine) int {
-	sum := 0
-	for _, m := range cm {
-		pAmin, pBmin, tokensMin := 0, 0, 0
-		for pA := 0; pA < 100; pA++ {
-			for pB := 0; pB < 100; pB++ {
-				xx := pA*m.btnA[0] + pB*m.btnB[0]
-				yy := pA*m.btnA[1] + pB*m.btnB[1]
-				if xx == m.price[0] && yy == m.price[1] {
-					if pAmin != 0 || pBmin != 0 {
-						fmt.Println("Duplicate")
-					}
-					pAmin = pA
-					pBmin = pB
-					tokensMin = pA*3 + pB
-				}
-			}
-		}
-		sum += tokensMin
-	}
-	return sum
-}
-
 var r = regexp.MustCompile("X[+|=]([0-9]*), Y[+|=]([0-9]*)")
 
 func part1(ls []string) int {
