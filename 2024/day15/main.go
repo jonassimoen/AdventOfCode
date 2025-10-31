@@ -5,6 +5,8 @@ import (
 	"flag"
 	"fmt"
 	"os"
+
+	"day15/grid"
 )
 
 func readFile(fname string) ([]string, error) {
@@ -41,9 +43,15 @@ func main() {
 }
 
 func part1(ls []string) int {
-	return -1
+	g := grid.ParseInput(ls)
+	g.StartMoving()
+	return g.CalculateSumCoordinates()
 }
 
 func part2(ls []string) int {
-	return -1
+	g := grid.ParseInput(ls)
+	g.DoubleGrid()
+	g.StartMovingBis()
+	g.Print()
+	return g.CalculateSumCoordinatesBis()
 }
