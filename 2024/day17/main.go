@@ -100,7 +100,7 @@ func (r *Registers) parseOpcode() {
 		r.instr_idx += 2
 		return
 	case 1:
-		r.blx(operandCode)
+		r.bxl(operandCode)
 		r.instr_idx += 2
 		return
 	case 2:
@@ -142,7 +142,7 @@ func (r *Registers) adv(operand int) {
 }
 
 // 1
-func (r *Registers) blx(operand int) {
+func (r *Registers) bxl(operand int) {
 	r.b = r.b ^ operand
 }
 
@@ -204,6 +204,7 @@ func part1_tests() {
 }
 
 func part1(ls []string) int {
+	//part1_tests()
 	reg := parseInput(ls)
 	//fmt.Println(reg)
 	reg.runProg()
